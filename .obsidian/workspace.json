@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "21f64c97368c19b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62e5a0e5a89bb3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058d5d3cd46045e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ética General/10-12-2023 Jerarquía de valores.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbd1cf7a3dcfc370",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a19ed51e605c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6686d04f93654ce0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8363a5d5b1190423",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35ed9a7d83f6ec40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "1703173d9fd3cc2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "911bd31f41a2af03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05804da670bc6dfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ética General/10-12-2023 Jerarquía de valores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7607be6957eece0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ética General/10-12-2023 Jerarquía de valores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ceba2976cad62d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2599ad6971e2ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ética General/10-12-2023 Jerarquía de valores.md"
+              }
+            }
+          },
+          {
+            "id": "dada542e83fffc4d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "058d5d3cd46045e6",
+  "lastOpenFiles": [
+    "Microprogramación/09-07-2023 Laboratorio TASM 1.md",
+    "Ética General/10-12-2023 Jerarquía de valores.md",
+    "Ética General",
+    "Compiladores/10-04-2023 Ejercicios GIC.md",
+    "Compiladores/10-04-2023 Análisis sintáctico.md",
+    "Base de datos II/10-2-2023 Replicación.md",
+    "Simposio Ingeniería 2023/09-28-2023 Charlas de simposio.md",
+    "Simposio Ingeniería 2023",
+    "Compiladores/09-29-2023 Expresiones regulares en lex.md",
+    "Compiladores/09-20-2023 Lex.md",
+    "Arquitectura del Computador II/09-29-2023 Lab Arduino 2.md",
+    "Microprogramación/09-25-2023 Formulario para parcial 1.md",
+    "zape",
+    "zzz/Pasted image 20230925234457.png",
+    "Microprogramación/08-22-2023 CISC, RISC y paralelismo de instrucciones.md",
+    "zzz/Pasted image 20230925234436.png",
+    "Microprogramación/Untitled.canvas",
+    "zzz",
+    "zzz/Pasted image 20230926001248.png",
+    "zzz/Pasted image 20230926001240.png",
+    "zzz/Pasted image 20230926001143.png",
+    "zzz/Pasted image 20230926001123.png",
+    "zzz/Pasted image 20230926001116.png",
+    "zzz/Pasted image 20230926001056.png",
+    "zzz/Pasted image 20230925235710.png",
+    "zzz/Pasted image 20230925235618.png",
+    "Microprogramación/08-24-2023 Programas en ensamblador.md",
+    "Microprogramación/09-08-2023 Contenidos primer parcial.md",
+    "Microprogramación/img",
+    "Microprogramación/08-24-2023 UCP.md",
+    "Microprogramación/08-22-2023 Cuestionario Caché.md",
+    "Microprogramación/08-09-2023 Von Neuman.md",
+    "Base de datos II/09-25-2023 Configuración compartida de alta disponibilidad.md",
+    "Arquitectura del Computador II/09-25-2023 Lab Arduino 1.md",
+    "Fundamentos de economía/09-04-2023 Hoja de trabajo 2.md",
+    "Microprogramación/08-30-2023 Computadora Digital.md",
+    "Microprogramación/08-15-2023 Cuestionario Von Neumann.md",
+    "Microprogramación/08-15-2023 ALU.md",
+    "Microprogramación",
+    "Base de datos II/09-06-2023 Alta disponibilidad.md",
+    "Base de datos II/09-04-2023 Hoja de trabajo 4.md",
+    "Base de datos II/09-04-2023 EXPORT & IMPORT POSGRESQL.md",
+    "Base de datos II/09-04-2023 EXPORT & IMPORT MYSQL.md",
+    "Base de datos II/EXPORT POSGRESQL.txt",
+    "Base de datos II/EXPORT MYSQL.txt",
+    "Compiladores",
+    "Fundamentos de economía",
+    "Untitled.canvas"
+  ]
+}

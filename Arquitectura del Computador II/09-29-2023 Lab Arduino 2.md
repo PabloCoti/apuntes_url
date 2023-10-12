@@ -1,0 +1,2 @@
+- Instalamos los plugins en proteus para poder usar los arduino.
+- Hicimos dos tipos de contadores uno con delay y otro con otra cosa.

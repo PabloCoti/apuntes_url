@@ -1,0 +1,3 @@
+Este tipo de configuración, puede tener varios nodos en los cuales se corren módulos separados de aplicación o sevicios de palicación,; que comparte una misma base de datos en paralelo. Se pueden separar los módulos, por nodo y diseñar el mecanismo de failover entre uno y otro nodo.
+
+Por lo que las aplicaciones son las responsables de la redirección de los usuarios en el momento de detectar una falla.
