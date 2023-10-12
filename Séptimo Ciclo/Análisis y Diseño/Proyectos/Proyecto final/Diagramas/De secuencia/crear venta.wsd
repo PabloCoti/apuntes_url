@@ -1,0 +1,23 @@
+@startuml crear venta
+
+actor Vendedor
+
+participant "Interfaz" as UI
+participant "DAO Productos" as DAOP
+participant "DAO Ventas" as DAOV
+participant "Base de datos" as BD
+
+Vendedor -> UI: Iniciar nueva venta
+UI -> Vendedor: Solicitar detalles de la venta
+Vendedor -> UI: Proporcionar detalles del cliente y productos
+UI -> DAOP: Buscar productos por código, talla, color o nombre
+DAOP -> BD: Consultar productos
+BD --> DAOP: Devolver lista de productos
+UI -> Vendedor: Mostrar lista de productos
+Vendedor -> UI: Seleccionar productos y cantidades
+UI -> DAOV: Crear nueva venta con productos seleccionados
+DAOV -> BD: Insertar nueva venta
+BD --> DAOV: Confirmar creación de venta
+UI -> Vendedor: Confirmar creación de venta
+
+@enduml

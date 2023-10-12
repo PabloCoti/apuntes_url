@@ -1,0 +1,24 @@
+@startuml login
+
+start
+
+if (¿Usuario y contraseña ingresados?) then (sí)
+  :Verificar usuario y contraseña;
+  if (¿Usuario y contraseña son válidos?) then (sí)
+    :Mostrar lista de localidades;
+    if (¿Localidad seleccionada?) then (sí)
+      :Ingresar al sistema;
+    else (no)
+      :Mostrar mensaje de error: "Debe seleccionar una localidad";
+      stop
+    endif
+  else (no)
+    :Mostrar mensaje de error: "Usuario o contraseña incorrectos";
+    stop
+  endif
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar usuario y contraseña";
+  stop
+endif
+
+@enduml

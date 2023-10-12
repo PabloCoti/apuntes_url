@@ -1,0 +1,21 @@
+@startuml Crear usuario
+
+|Sistema|
+start
+:Iniciar creación de usuario;
+:El administrador ingresa el nombre del usuario;
+:El administrador ingresa la contraseña del usuario;
+:El administrador selecciona el área del usuario (administrativa o ventas);
+:Validar datos ingresados;
+if (Datos válidos?) then (si)
+    |Servidor|
+    :Guardar usuario en el sistema;
+    |Sistema|
+    :Mostrar mensaje de confirmación de creación;
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar creación de usuario;
+stop
+
+@enduml

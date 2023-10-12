@@ -1,0 +1,23 @@
+@startuml Sistema actual
+title Diagrama de Flujo del Sistema Actual
+
+start
+
+:Gerente/Administrador llega a las sucursales;
+:Consulta necesidades con el Vendedor;
+:Planifica compra de materiales;
+:Realiza la compra o pide el favor a un familiar;
+note right
+  La recepción del material depende de la disponibilidad del familiar.
+end note
+:Recibe y transporta materia prima a la fábrica;
+:Entrega materia prima al Operario;
+:Operario procesa la materia prima en prendas;
+:Notifica al Administrador que las prendas están listas;
+:Administrador recoge y transporta prendas a sucursales;
+:Vendedor recibe prendas y las coloca para la venta;
+:Vendedor vende prendas y registra la venta manualmente;
+
+stop
+
+@enduml

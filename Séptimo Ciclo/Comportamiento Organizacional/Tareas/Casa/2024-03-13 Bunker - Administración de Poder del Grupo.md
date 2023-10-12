@@ -1,0 +1,3 @@
+# Bunker - Administración de Poder del Grupo
+---
+Como grupo al final se declaró un líder y todos estuvimos de acuerdo que fuera. Se me hizo difícil convencer a los compañeros de mi importancia hacia el búnker porque no tenía clara la idea de en qué podría aportar ante la situación del bunker. Creo que solo quedé en el búnker porque el líder sí pudo ver algo en mí de lo que yo no me había percatado.

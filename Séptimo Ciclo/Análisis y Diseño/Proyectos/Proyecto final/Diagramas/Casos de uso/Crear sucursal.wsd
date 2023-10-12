@@ -1,0 +1,16 @@
+@startuml Crear sucursal
+
+|Sistema|
+start
+:Iniciar creación de sucursal;
+:El usuario ingresa el nombre de la sucursal;
+:El usuario ingresa el teléfono de la sucursal;
+:El usuario ingresa la dirección de la sucursal;
+|Servidor|
+:Guardar datos de la sucursal en el sistema;
+|Sistema|
+:Mostrar mensaje de confirmación de creación;
+:Finalizar creación de sucursal;
+stop
+
+@enduml

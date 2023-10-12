@@ -1,0 +1,26 @@
+@startuml Login
+
+|Sistema|
+start
+:Iniciar sesión;
+repeat
+    :Ingresar usuario y contraseña;
+    :Mostrar lista de localidades;
+    :Seleccionar localidad;
+    |Servidor|
+    if (Datos completos y correctos?) then (si)
+        if (Localidad seleccionada?) then (si)
+            |Sistema|
+            :Iniciar sesión en la localidad seleccionada;
+            :Redirigir al menú principal;
+        else (no)
+            :Mostrar mensaje de error;
+        endif
+    else (no)
+        :Mostrar mensaje de error;
+    endif
+repeat while (Datos incompletos o incorrectos?) is (sí)
+->no;
+stop
+
+@enduml

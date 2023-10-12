@@ -1,0 +1,38 @@
+@startuml crear usuario
+
+start
+
+if (¿El administrador ingresó el nombre del usuario?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar el nombre del usuario";
+  stop
+endif
+
+if (¿El administrador ingresó la contraseña del usuario?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar la contraseña del usuario";
+  stop
+endif
+
+if (¿El administrador seleccionó el área del usuario?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe seleccionar el área del usuario";
+  stop
+endif
+
+:Validar datos ingresados;
+
+if (Datos válidos?) then (sí)
+  :Guardar usuario en el sistema;
+  :Mostrar mensaje de confirmación de creación;
+else (no)
+  :Mostrar mensaje de error;
+endif
+
+:Sistema: Finalizar creación de usuario;
+stop
+
+@enduml

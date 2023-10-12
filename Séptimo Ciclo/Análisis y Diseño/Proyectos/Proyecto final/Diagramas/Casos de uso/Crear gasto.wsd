@@ -1,0 +1,26 @@
+@startuml Crear gasto
+
+|Sistema|
+start
+:Iniciar creación de gasto;
+:El usuario ingresa la fecha del gasto;
+:El usuario ingresa el total del gasto;
+:El usuario ingresa la descripción del gasto;
+|Servidor|
+:Cargar categorías de gastos;
+|Sistema|
+:Mostrar categorías de gastos;
+:El usuario selecciona la categoría del gasto (mercancía, sueldos, mobiliario y equipo u otros);
+:Validar datos ingresados;
+if (Datos válidos?) then (si)
+    |Servidor|
+    :Guardar gasto en el sistema;
+    |Sistema|
+    :Mostrar mensaje de confirmación de creación;
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar creación de gasto;
+stop
+
+@enduml
