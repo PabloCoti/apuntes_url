@@ -1,0 +1,22 @@
+@startuml Eliminar usuario
+
+|Sistema|
+start
+:Iniciar eliminación de usuario;
+:El administrador ingresa el nombre del usuario a eliminar;
+|Servidor|
+:Buscar usuario en el sistema;
+if (¿Usuario encontrado?) then (si)
+    |Sistema|
+    :Confirmar eliminación del usuario;
+    |Servidor|
+    :Eliminar usuario;
+    |Sistema|
+    :Mostrar mensaje de confirmación de eliminación;
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar eliminación de usuario;
+stop
+
+@enduml

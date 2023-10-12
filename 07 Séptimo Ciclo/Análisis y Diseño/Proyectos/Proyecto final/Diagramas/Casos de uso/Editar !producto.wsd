@@ -1,0 +1,29 @@
+@startuml Editar !producto
+
+|Sistema|
+start
+:Iniciar edición de producto;
+:El usuario ingresa el nombre del producto a editar;
+|Servidor|
+:Buscar producto en el sistema;
+if (¿Producto encontrado?) then (si)
+    |Sistema|
+    :Mostrar datos actuales del producto;
+    :El usuario modifica el nombre del producto;
+    :El usuario modifica si el producto es un conjunto;
+    :Validar datos modificados;
+    if (Datos válidos?) then (si)
+        |Servidor|
+        :Guardar cambios en el sistema;
+        |Sistema|
+        :Mostrar mensaje de confirmación de edición;
+    else (no)
+        :Mostrar mensaje de error;
+    endif
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar edición de producto;
+stop
+
+@enduml

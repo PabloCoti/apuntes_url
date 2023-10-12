@@ -1,0 +1,21 @@
+@startuml Sistema propuesto
+title Diagrama de Flujo del Sistema Propuesto
+
+start
+
+:Iniciar sesión en el sistema;
+:Gerente revisa inventario actual en el sistema;
+:Identifica necesidades de stock basado en informes del sistema;
+:Realiza la compra de materiales necesarios;
+:Registra la recepción de materia prima en el sistema;
+:Operario recibe notificación de nueva materia prima;
+:Procesa materia prima en prendas;
+:Registra prendas producidas en el sistema;
+:Administrador distribuye prendas a sucursales usando el sistema;
+:Vendedor recibe notificación de nuevas prendas disponibles;
+:Vendedor vende prendas utilizando el sistema;
+:El sistema registra automáticamente la venta y ajusta inventario;
+
+stop
+
+@enduml

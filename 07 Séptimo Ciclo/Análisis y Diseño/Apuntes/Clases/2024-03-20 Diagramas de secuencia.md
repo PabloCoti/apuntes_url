@@ -1,0 +1,4 @@
+# Diagramas de secuencia
+
+---
+

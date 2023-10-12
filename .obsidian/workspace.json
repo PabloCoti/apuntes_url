@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "ccd507e5aa6774e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "94fb19df1d201266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25cd4a4b5e0e21d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apuntes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9543179881b0b7cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a81a65e423476f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b0babf766e066ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "238f8573693a8da5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4997908c87ca2fce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 12 VTP"
+            }
+          },
+          {
+            "id": "14c43d878b3a9f70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "939afa6e1f82bddd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b75ad0bb2ebec2c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89cd9276fd773bdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "438806aa76933f50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "187ed3c763f21b6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd4efc1aaa35f6a3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "fe227be694f4526b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "25cd4a4b5e0e21d7",
+  "lastOpenFiles": [
+    "09 Noveno Ciclo/Ética Profesional/Actividades/01 Ética profesional, moral en ingeniería.md",
+    "09 Noveno Ciclo/Ética Profesional/Actividades",
+    "09 Noveno Ciclo/Ética Profesional",
+    "09 Noveno Ciclo/Programación Web/Actividades/03 Ejercicio inspector.md",
+    "09 Noveno Ciclo/Modelación y Simulación/Actividades/01 Ejercicio dos sistemas continuos y dos sistemas discretos.md",
+    "09 Noveno Ciclo/Modelación y Simulación/Actividades",
+    "09 Noveno Ciclo/Ingeniería de Software II/Actividades/03 Ejercicio Ventajas y desventajas de herramientas presentadas.md",
+    "00 Attachments/Untitled 18.jpg",
+    "00 Attachments/Pasted image 20250121113759.png",
+    "00 Attachments/Pasted image 20250121112906.png",
+    "00 Attachments/Pasted image 20250121112659.png",
+    "00 Attachments/Pasted image 20250121112632.png",
+    "00 Attachments/Pasted image 20250121111454.png",
+    "00 Attachments/Pasted image 20250121111447.png",
+    "00 Attachments/Pasted image 20250121111336.png",
+    "00 Attachments/Pasted image 20250121111152.png",
+    "00 Attachments/Pasted image 20250121111012.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
+    "09 Noveno Ciclo/Virtualización/Apuntes.md",
+    "08 Octavo Ciclo/Ingeniería de Software/Apuntes/01 Calidad del software.md",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+    "09 Noveno Ciclo/Virtualización/Actividades/01 Ejercicio aplicación de virtualización en una empresa.md",
+    "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Actividades/05 Investigación progreso web3 - web semántica.md",
+    "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Apuntes.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
+    "09 Noveno Ciclo/Programación Web/Apuntes.md",
+    "09 Noveno Ciclo/Programación Web/Actividades/04 Ejercicio primera página web con html.html",
+    "09 Noveno Ciclo/Programación Web/Actividades/New Text Document.txt",
+    "09 Noveno Ciclo/Programación Web/Actividades/New folder",
+    "09 Noveno Ciclo/Programación Web/Actividades/04 Ejercicio primera página web.html.md",
+    "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Actividades/04 Preguntas vídeo.md",
+    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/06 Razones Financieras.md",
+    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/05 Método horizontal y vertical.md",
+    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/04 Recesión económica.md",
+    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/03  Inflación y deflación factores económicos que inciden en la empresa.md",
+    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/02 oferta y demanda.md",
+    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/01 Ejercicio planteaamiento de proyecto.md",
+    "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Actividades/03 Investigación Biopsia liquida.md",
+    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
+    "09 Noveno Ciclo/Ética Profesional/Untitled.md",
+    "09 Noveno Ciclo/Virtualización/Actividades",
+    "09 Noveno Ciclo/Virtualización",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero",
+    "Ingeniería de Software/Apuntes/Untitled.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían la práctica.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían el proceso.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios del modelado del diseño.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de planeación.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de modelado.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de comunicación.canvas"
+  ]
+}

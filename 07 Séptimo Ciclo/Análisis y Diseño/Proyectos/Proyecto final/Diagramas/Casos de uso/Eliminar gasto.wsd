@@ -1,0 +1,22 @@
+@startuml Eliminar gasto
+
+|Sistema|
+start
+:Iniciar eliminación de gasto;
+:El usuario ingresa la fecha del gasto a eliminar;
+|Servidor|
+:Buscar gasto en el sistema;
+if (¿Gasto encontrado?) then (si)
+    |Sistema|
+    :Confirmar eliminación del gasto;
+    |Servidor|
+    :Eliminar gasto del sistema;
+    |Sistema|
+    :Mostrar mensaje de confirmación de eliminación;
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar eliminación de gasto;
+stop
+
+@enduml

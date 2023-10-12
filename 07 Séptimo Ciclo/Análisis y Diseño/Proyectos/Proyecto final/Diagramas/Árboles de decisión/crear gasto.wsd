@@ -1,0 +1,40 @@
+@startuml crear gasto
+
+start
+
+if (¿El usuario ingresó la fecha del gasto?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar la fecha del gasto";
+  stop
+endif
+
+if (¿El usuario ingresó el total del gasto?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar el total del gasto";
+  stop
+endif
+
+if (¿El usuario ingresó la descripción del gasto?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar la descripción del gasto";
+  stop
+endif
+
+:Sistema: Cargar categorías de gastos;
+:Sistema: Mostrar categorías de gastos;
+:El usuario selecciona la categoría del gasto (mercancía, sueldos, mobiliario y equipo u otros);
+:Validar datos ingresados;
+if (Datos válidos?) then (sí)
+  :Sistema: Guardar gasto en el sistema;
+  :Sistema: Mostrar mensaje de confirmación de creación;
+else (no)
+  :Sistema: Mostrar mensaje de error;
+endif
+
+:Sistema: Finalizar creación de gasto;
+stop
+
+@enduml

@@ -1,0 +1,20 @@
+@startuml Editar sucursal
+
+|Sistema|
+start
+:Iniciar edición de sucursal;
+|Servidor|
+:Cargar datos actuales de la sucursal;
+|Sistema|
+:Mostrar datos actuales de la sucursal;
+:El usuario modifica el nombre de la sucursal;
+:El usuario modifica el teléfono de la sucursal;
+:El usuario modifica la dirección de la sucursal;
+|Servidor|
+:Guardar cambios en el sistema;
+|Sistema|
+:Mostrar mensaje de confirmación de edición;
+:Finalizar edición de sucursal;
+stop
+
+@enduml

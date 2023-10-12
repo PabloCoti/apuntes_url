@@ -1,0 +1,25 @@
+@startuml crear cliente especial
+
+start
+
+if (¿El vendedor ingresó el nombre del cliente?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar el nombre del cliente";
+  stop
+endif
+
+if (¿El vendedor ingresó el NIT del cliente?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar el NIT del cliente";
+  stop
+endif
+
+:Sistema: Iniciar creación de nuevo cliente especial;
+:Sistema: Guardar datos del cliente especial en el sistema;
+:Sistema: Mostrar mensaje de confirmación de creación;
+:Sistema: Finalizar creación de cliente especial;
+stop
+
+@enduml

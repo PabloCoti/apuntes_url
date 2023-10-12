@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"9c6d80a06321c926","type":"text","text":"## 6. El diseño en el nivel de componentes debe tener independencia funcional","x":380,"y":-405,"width":380,"height":105},
+		{"id":"247494864e746a2e","type":"text","text":"Agilizar y simplificar el flujo del programa por medio de componentes.","x":-1160,"y":-265,"width":260,"height":130},
+		{"id":"e9cc8657316068c6","type":"text","text":"## 7. Los componentes deben estar acoplados con holgura entre sí y con el ambiente externo","x":380,"y":-252,"width":380,"height":105},
+		{"id":"f11687576cb02b6c","type":"text","text":"## 5. El diseño de la interfaz de usuario debe ajustarse a las necesidades del usuario final. Sin embargo, en todo caso debe resaltar la facilidad de uso","x":380,"y":-565,"width":380,"height":125},
+		{"id":"6caddf68912504a5","type":"text","text":"## 4. Las interfaces (tanto internas como externas) deben diseñarse con cuidado","x":-790,"y":-100,"width":380,"height":125},
+		{"id":"5b147c4a87c32557","type":"text","text":"## 3. El diseño de los datos es tan importante como el de las funciones de procesamiento","x":-790,"y":-252,"width":380,"height":105},
+		{"id":"28f37f0844b0bee0","type":"text","text":"## 2. Siempre tomar en cuenta la arquitectura del sistema que se va a construir","x":-790,"y":-405,"width":380,"height":105},
+		{"id":"81e0d11dc039d24e","type":"text","text":"## 1. El diseño debe poderse rastrear hasta el modelo de requerimientos","x":-790,"y":-565,"width":380,"height":125},
+		{"id":"5dfb0ed5dc3cf849","type":"text","text":"Es el esqueleto del sistema","x":-1160,"y":-417,"width":260,"height":130},
+		{"id":"822add6d87361c38","type":"text","text":"Diseñar una buena interfaz que integra facilmente los componentes","x":-1160,"y":-102,"width":260,"height":130},
+		{"id":"158c792924341cef","type":"text","text":"Manifestación visible del software.","x":880,"y":-567,"width":260,"height":130},
+		{"id":"d5589586aa4cefed","type":"text","text":"Medida de la mentalidad única de un componente que entrega un componente centrado en una función.","x":880,"y":-417,"width":260,"height":130},
+		{"id":"6906ed869381e3b1","type":"text","text":"Se acopla por medio de una interfaz con mensajería por medio de datos globales, etc.","x":880,"y":-264,"width":260,"height":130},
+		{"id":"8f533a45a8dd7864","type":"text","text":"El modelo de requerimientos describe el dominio de información del problema.","x":-1160,"y":-567,"width":260,"height":130},
+		{"id":"47c2559b1a7b483b","type":"text","text":"# Principios del modelado del diseño","x":-260,"y":-320,"width":480,"height":80},
+		{"id":"22651b81621fcc16","type":"text","text":"El propósito del diseño es comunicar información a los profesionales.","x":880,"y":-102,"width":260,"height":130},
+		{"id":"b179a9deabeea862","type":"text","text":"## 8. Las representaciones del diseño (modelos) deben entenderse con facilidad","x":380,"y":-100,"width":380,"height":125},
+		{"id":"4db02233f325520a","type":"text","text":"## 9. El diseño debe desarrollarse en forma iterativa. El diseñador debe buscar más sencillez en cada iteración","x":-220,"y":62,"width":380,"height":125},
+		{"id":"88fb55390ca6188e","type":"text","text":"Mejorar el diseño poco a poco","x":-160,"y":240,"width":260,"height":130}
+	],
+	"edges":[
+		{"id":"cc81aabc271a30d3","fromNode":"47c2559b1a7b483b","fromSide":"left","toNode":"81e0d11dc039d24e","toSide":"right"},
+		{"id":"7dd6727c95619eb4","fromNode":"47c2559b1a7b483b","fromSide":"left","toNode":"28f37f0844b0bee0","toSide":"right"},
+		{"id":"1722f8aceb1a8ea2","fromNode":"47c2559b1a7b483b","fromSide":"left","toNode":"5b147c4a87c32557","toSide":"right"},
+		{"id":"dcd4accfc0012a89","fromNode":"47c2559b1a7b483b","fromSide":"left","toNode":"6caddf68912504a5","toSide":"right"},
+		{"id":"9784f2ead0d828e5","fromNode":"47c2559b1a7b483b","fromSide":"right","toNode":"f11687576cb02b6c","toSide":"left"},
+		{"id":"d8f7122bc4eed3a6","fromNode":"47c2559b1a7b483b","fromSide":"right","toNode":"9c6d80a06321c926","toSide":"left"},
+		{"id":"5aee948c69253d25","fromNode":"47c2559b1a7b483b","fromSide":"right","toNode":"e9cc8657316068c6","toSide":"left"},
+		{"id":"e044952c5b5d3f9d","fromNode":"47c2559b1a7b483b","fromSide":"right","toNode":"b179a9deabeea862","toSide":"left"},
+		{"id":"79f317f0da3c5a9a","fromNode":"81e0d11dc039d24e","fromSide":"left","toNode":"8f533a45a8dd7864","toSide":"right"},
+		{"id":"d9bf35034dc5c8bb","fromNode":"28f37f0844b0bee0","fromSide":"left","toNode":"5dfb0ed5dc3cf849","toSide":"right"},
+		{"id":"663b55b21f3a7258","fromNode":"5b147c4a87c32557","fromSide":"left","toNode":"247494864e746a2e","toSide":"right"},
+		{"id":"81af42f0363abd7c","fromNode":"6caddf68912504a5","fromSide":"left","toNode":"822add6d87361c38","toSide":"right"},
+		{"id":"2e314e15c4d318ee","fromNode":"f11687576cb02b6c","fromSide":"right","toNode":"158c792924341cef","toSide":"left"},
+		{"id":"08f34060380d0677","fromNode":"9c6d80a06321c926","fromSide":"right","toNode":"d5589586aa4cefed","toSide":"left"},
+		{"id":"b37bb6c4f48d191e","fromNode":"e9cc8657316068c6","fromSide":"right","toNode":"6906ed869381e3b1","toSide":"left"},
+		{"id":"b1c1244656811755","fromNode":"b179a9deabeea862","fromSide":"right","toNode":"22651b81621fcc16","toSide":"left"},
+		{"id":"6e33bb1908a4aa0d","fromNode":"4db02233f325520a","fromSide":"bottom","toNode":"88fb55390ca6188e","toSide":"top"},
+		{"id":"c68e0c7a3eda35dc","fromNode":"47c2559b1a7b483b","fromSide":"bottom","toNode":"4db02233f325520a","toSide":"top"}
+	]
+}

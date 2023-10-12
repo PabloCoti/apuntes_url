@@ -1,0 +1,30 @@
+@startuml Editar usuario
+
+|Sistema|
+start
+:Iniciar edición de usuario;
+:El administrador ingresa el nombre del usuario a editar;
+|Servidor|
+:Buscar usuario en el sistema;
+|Sistema|
+if (¿Usuario encontrado?) then (si)
+    :Mostrar datos actuales del usuario;
+    :El administrador modifica el nombre del usuario;
+    :El administrador modifica la contraseña del usuario;
+    :El administrador modifica el área del usuario;
+    :Validar datos modificados;
+    if (Datos válidos?) then (si)
+        |Servidor|
+        :Guardar cambios en el sistema;
+        |Sistema|
+        :Mostrar mensaje de confirmación de edición;
+    else (no)
+        :Mostrar mensaje de error;
+    endif
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar edición de usuario;
+stop
+
+@enduml

@@ -1,0 +1,4 @@
+# Qué es portal captive
+El objetivo principal de un portal cautivo es garantizar que solo los usuarios autorizados puedan acceder a una red determinada y proporcionar un medio de autenticación para los nuevos usuarios. Este se mostrará con mayor frecuencia como una página de inicio de sesión (página de bienvenida) o una solicitud de contraseña. Una vez que un usuario se ha autenticado, se le otorga acceso a la red y puede navegar en internet con normalidad.
+
+Los portales cautivos también se utilizan para mostrar términos y condiciones o para dar mensajes de mercadeo a los usuarios antes de otorgarles acceso a la red. Además de ser una capa adicional de seguridad, las empresas pueden aprovechar al máximo estos portales para capturar información clave sobre los clientes que ingresan a su lugar físico.

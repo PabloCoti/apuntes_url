@@ -1,0 +1,47 @@
+@startuml nueva venta
+
+start
+
+:Iniciar creación de nueva venta;
+
+:Cargar productos;
+
+:Mostrar pantalla de selección de productos;
+:El vendedor selecciona productos;
+
+if (¿El vendedor busca productos?) then (si)
+    :Buscar productos por código, talla, color o nombre;
+    :Mostrar resultados de la búsqueda en pantalla;
+else (no)
+    :Cargar productos disponibles en la localidad;
+    :Mostrar lista de productos disponibles en la localidad;
+    :El vendedor selecciona productos de la lista;
+endif
+
+:El vendedor ingresa la cantidad a vender de cada producto;
+
+if (¿El cliente tiene descuento especial?) then (si)
+    :Aplicar descuento especial a los productos seleccionados;
+else (no)
+    :No aplicar descuento especial;
+endif
+
+:El vendedor ingresa el NIT del cliente;
+:El vendedor ingresa el nombre del cliente;
+
+:Buscar NIT en base de datos;
+
+if (¿El cliente es nuevo o CF?) then (si)
+    :Registrar nuevo cliente en el sistema;
+else (no)
+    :No registrar nuevo cliente;
+endif
+
+:Generar venta con los productos seleccionados y los datos del cliente;
+
+:Mostrar resumen de la venta en pantalla; 
+:Finalizar venta;
+
+stop
+
+@enduml

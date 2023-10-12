@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"f788d5c77b061808","type":"text","text":"A\n6","x":-270,"y":-120,"width":250,"height":60},
+		{"id":"5b82a71468420896","type":"text","text":"B\n9","x":-270,"y":100,"width":250,"height":60},
+		{"id":"af9a306733f069d7","type":"text","text":"F\n12","x":590,"y":-120,"width":250,"height":60},
+		{"id":"26634519a6b788c6","type":"text","text":"Inicio\n0","x":-580,"y":-20,"width":250,"height":60},
+		{"id":"a1b3b34d4b4fecd1","type":"text","text":"D\n7","x":180,"y":100,"width":250,"height":60},
+		{"id":"8e429bbfe7707e73","type":"text","text":"C\n8","x":140,"y":-120,"width":250,"height":60},
+		{"id":"cb38275b3b2f04f9","type":"text","text":"E\n10","x":520,"y":100,"width":250,"height":60},
+		{"id":"134cd4a89a5b5c8d","type":"text","text":"Fin\n0","x":900,"y":10,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"32a829004183ccc2","fromNode":"26634519a6b788c6","fromSide":"right","toNode":"f788d5c77b061808","toSide":"left"},
+		{"id":"4d97d1b2abbf44af","fromNode":"26634519a6b788c6","fromSide":"right","toNode":"5b82a71468420896","toSide":"left"},
+		{"id":"ab3ad4e9036d44b0","fromNode":"5b82a71468420896","fromSide":"right","toNode":"8e429bbfe7707e73","toSide":"left"},
+		{"id":"140b9eb101799a96","fromNode":"f788d5c77b061808","fromSide":"right","toNode":"8e429bbfe7707e73","toSide":"top"},
+		{"id":"ced96979e52f4550","fromNode":"f788d5c77b061808","fromSide":"right","toNode":"a1b3b34d4b4fecd1","toSide":"left"},
+		{"id":"c125072db7305094","fromNode":"a1b3b34d4b4fecd1","fromSide":"right","toNode":"cb38275b3b2f04f9","toSide":"left"},
+		{"id":"e9b01819a90485d3","fromNode":"8e429bbfe7707e73","fromSide":"right","toNode":"af9a306733f069d7","toSide":"left"},
+		{"id":"a4cea04501843e88","fromNode":"cb38275b3b2f04f9","fromSide":"top","toNode":"af9a306733f069d7","toSide":"bottom"},
+		{"id":"711d2e6690cd38e3","fromNode":"af9a306733f069d7","fromSide":"right","toNode":"134cd4a89a5b5c8d","toSide":"left"},
+		{"id":"8bb71e8fbb7de975","fromNode":"5b82a71468420896","fromSide":"right","toNode":"a1b3b34d4b4fecd1","toSide":"bottom"}
+	]
+}

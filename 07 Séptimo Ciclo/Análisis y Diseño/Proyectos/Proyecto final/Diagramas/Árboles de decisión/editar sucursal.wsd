@@ -1,0 +1,24 @@
+@startuml editar sucursal
+
+start
+
+:Iniciar edición de sucursal;
+:Sistema: Cargar datos actuales de la sucursal;
+if (¿Datos de la sucursal cargados correctamente?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Error al cargar los datos de la sucursal";
+  stop
+endif
+
+:Sistema: Mostrar datos actuales de la sucursal;
+:El usuario modifica el nombre de la sucursal;
+:El usuario modifica el teléfono de la sucursal;
+:El usuario modifica la dirección de la sucursal;
+
+:Sistema: Guardar cambios en el sistema;
+:Sistema: Mostrar mensaje de confirmación de edición;
+:Sistema: Finalizar edición de sucursal;
+stop
+
+@enduml

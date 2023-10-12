@@ -1,0 +1,36 @@
+# Virtualización
+- [[##Introducción|Introducción]]
+	- [[#Virtualización#Ventajas|Ventajas]]
+	- [[#Virtualización#Tipos de virtualización|Tipos de virtualización]]
+	- [[#Virtualización#Ejercicio: ejemplo de cómo usaría la virtualización en una empresa|Ejercicio: ejemplo de cómo usaría la virtualización en una empresa]]
+- [[#Ejercicio repaso de redes|Ejercicio repaso de redes]]
+## Introducción
+En la primera clase tuvimos unos repasos respecto a redes y el ingeniero nos dio una pauta de lo que tenemos que preparar en caso de privados y nos incentivó a participar en clase para que al momento de llegar al privado estar más preparados.
+
+## Virtualización
+La virtualización es la tecnología que permite crear versiones virtuales de recursos físicos.
+
+### Ventajas
+La virtualización presenta varios beneficios como lo podría ser la reducción de costos operativos, uso eficiente de recursos, flexibilidad y escalabilidad, mayor disponibilidad, integridad, confidencialidad y recuperación ante desastres y simplificación de gestión de TI.
+
+Respecto al aspecto de recuperación es parte del aspecto de continuidad del negocio. Se refiere a la capacidad de recuperarse. Un ejemplo de esto sería lo que paso en claro, ellos no tenían un plan de contingencia para cuando pasó de que regalaron los servicios de claro.
+
+Hay que entender que la virtualización tiene sus ventajas, especialmente en lo mencionado anteriormente, esto es conveniente para todos. Pero lo importante a tomar en cuenta es que también si virtualizamos o no *depende* de las necesidades y capacidades de la empresa.
+
+### Tipos de virtualización
+- Servidores
+- Escritorio
+- Almacenamiento
+- Redes
+
+Hay que tener presente que la virtualización no es solo usar virtual box, sino que es hacer uso de recursos virtualizados.
+
+### Ejercicio: ejemplo de cómo usaría la virtualización en una empresa
+[01 Ejercicio aplicación de virtualización en una empresa](Actividades/01%20Ejercicio%20aplicación%20de%20virtualización%20en%20una%20empresa.md)
+
+## Ejercicio repaso de redes
+[02 Ejercicio repaso de redes](Actividades/02%20Ejercicio%20repaso%20de%20redes.md)
+
+## Primer red virtualizada
+**Revisar carpeta:** `09 Noveno ciclo\Virtualización\Actividades\01 Primeras conexiones casa con IoT.pkt`
+

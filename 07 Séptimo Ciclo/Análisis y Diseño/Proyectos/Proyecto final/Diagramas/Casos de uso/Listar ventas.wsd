@@ -1,0 +1,25 @@
+@startuml Listar Ventas
+
+|Sistema|
+start
+:Iniciar listado de ventas;
+if (Se busca una venta por ID?) then (si)
+    |Servidor|
+    :Cargar venta por ID;
+else (no)
+    :Cargar lista completa de ventas;
+endif
+|Sistema|
+if (¿Se hace clic en "cargar más"?) then (si)
+|Servidor|
+:Cargar siguientes treinta ventas;
+|Sistema|
+elseif (¿Se hace clic en "reiniciar"?) then (si)
+:Mostrar primeras treinta ventas;
+:Limpiar filtro de búsqueda;
+else (no)
+:Mostrar ventas en pantalla;
+endif
+stop
+
+@enduml
