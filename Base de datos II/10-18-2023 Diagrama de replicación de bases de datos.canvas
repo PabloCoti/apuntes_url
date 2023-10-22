@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9da84fbcbdbea9dc","type":"text","text":"Cliente","x":-600,"y":-240,"width":250,"height":60},
+		{"id":"deda6553c18cd0d0","x":-320,"y":-240,"width":250,"height":60,"color":"5","type":"text","text":"Base de datos principal"},
+		{"id":"b755d4280a7d90ff","type":"text","text":"Réplica","x":-40,"y":-120,"width":250,"height":60,"color":"6"},
+		{"id":"478914bc378bc49b","type":"text","text":"Réplica","x":40,"y":-240,"width":250,"height":60,"color":"6"},
+		{"id":"c2c4d25024092c98","x":-40,"y":-360,"width":250,"height":60,"color":"6","type":"text","text":"Réplica"}
+	],
+	"edges":[
+		{"id":"321ed520df49f99b","fromNode":"9da84fbcbdbea9dc","fromSide":"right","toNode":"deda6553c18cd0d0","toSide":"left"},
+		{"id":"f17fb2aabb31030c","fromNode":"deda6553c18cd0d0","fromSide":"right","toNode":"c2c4d25024092c98","toSide":"left"},
+		{"id":"66e752d7247878a9","fromNode":"deda6553c18cd0d0","fromSide":"right","toNode":"478914bc378bc49b","toSide":"left"},
+		{"id":"5bbcae719e0a2909","fromNode":"deda6553c18cd0d0","fromSide":"right","toNode":"b755d4280a7d90ff","toSide":"left"}
+	]
+}
