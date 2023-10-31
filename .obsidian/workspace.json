@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d12092655413f38d",
+        "id": "b6dff438d80ddc3a",
         "type": "tabs",
         "children": [
           {
-            "id": "9af1a4b3dd0ee9fe",
+            "id": "c94a72adc71588f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ética General/10-19-2023 Bioética.md",
-                "mode": "source",
+                "file": "Simposio Ingeniería 2023/09-28-2023 Charlas de simposio.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ética General/10-19-2023 Bioética.md",
+                "file": "Simposio Ingeniería 2023/09-28-2023 Charlas de simposio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ética General/10-19-2023 Bioética.md",
+                "file": "Simposio Ingeniería 2023/09-28-2023 Charlas de simposio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ética General/10-19-2023 Bioética.md"
+                "file": "Simposio Ingeniería 2023/09-28-2023 Charlas de simposio.md"
               }
             }
           },
@@ -156,56 +156,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9af1a4b3dd0ee9fe",
+  "active": "c94a72adc71588f5",
   "lastOpenFiles": [
-    "Microprogramación/10-19-2023 Práctica 4.md",
-    "Ética General/10-19-2023 Bioética.md",
-    "zzzAttachmentszzz/Untitled.jpg",
-    "Untitled.jpg",
-    "Pasted image 20231019162803.png.md",
-    "Microprogramación/2023-10-19-Practica-4.md",
-    "Base de datos II/09-06-2023 Alta disponibilidad.md",
-    "Base de datos II/10-18-2023 Diagrama de replicación de bases de datos.canvas",
-    "zzzAttachmentszzz/Untitled.md",
-    "Base de datos II/10-16-2023 Bases de datos no relacionales.md",
-    "Base de datos II/10-16-2023 Contenidos para segundo parcial.md",
+    "Fundamentos de economía/10-29-2023 Costos 1 y 2.md",
+    "2023-10-30.md",
+    "zzzAttachmentszzz/Pasted image 20231030001155.png",
+    "Fundamentos de economía/10-29-2023 Eficiencia y equidad.md",
+    "zzzAttachmentszzz/Pasted image 20231029231946.png",
+    "zzzAttachmentszzz/Pasted image 20231029231509.png",
+    "zzzAttachmentszzz/Pasted image 20231029230600.png",
+    "zzzAttachmentszzz/Pasted image 20231029225838.png",
     "Compiladores/10-14-2023 Ejercicios GIC 2.md",
-    "Compiladores/2023-10-13-TAREA-gramaticas.md",
     "Untitled.md",
-    "Estadística Inferencial",
-    "Microprogramación/09-07-2023 Laboratorio TASM 1.md",
-    "Ética General/10-12-2023 Jerarquía de valores.md",
-    "Ética General",
     "Compiladores/10-04-2023 Ejercicios GIC.md",
-    "Compiladores/10-04-2023 Análisis sintáctico.md",
-    "Base de datos II/10-2-2023 Replicación.md",
-    "Simposio Ingeniería 2023/09-28-2023 Charlas de simposio.md",
-    "Simposio Ingeniería 2023",
-    "Compiladores/09-29-2023 Expresiones regulares en lex.md",
+    "Arquitectura del Computador II/10-27-2023 Nodejs y arduino.md",
+    "Fundamentos de economía/10-27-2023 Resumen el gran crack de 2929.md",
+    "Microprogramación/10-26-2023 Segunda hoja de trabajo y proyecto final.md",
+    "Microprogramación/10-26-2023 Procedimientos.md",
+    "Compiladores/Untitled.md",
     "Compiladores/09-20-2023 Lex.md",
-    "Arquitectura del Computador II/09-29-2023 Lab Arduino 2.md",
-    "Microprogramación/09-25-2023 Formulario para parcial 1.md",
+    "Compiladores/09-29-2023 Expresiones regulares en lex.md",
+    "Compiladores/10-04-2023 Análisis sintáctico.md",
+    "Compiladores/09-06-2023 Análisis Léxico.md",
+    "Compiladores/09-06-2023 Ejercicio expresiones regulares.md",
+    "Microprogramación/10-24-2023 Segundo parcial.md",
+    "zzzAttachmentszzz/Pasted image 20231024094433.png",
+    "zzzAttachmentszzz/Pasted image 20231024094343.png",
+    "zzzAttachmentszzz/Pasted image 20231024094234.png",
+    "Untitled",
+    "zzzAttachmentszzz/Pasted image 20231023095227.png",
+    "Fundamentos de economía/10-22-2023 Elasticidades.md",
+    "Fundamentos de economía/10-23-2023 Segundo parcial tercera serie.md",
+    "Fundamentos de economía/10-22-2023 Resolución de examen.md",
+    "zzzAttachmentszzz/Pasted image 20231023094357.png",
+    "Fundamentos de economía/10-22-2023 Oferta, demanda y equilibrio.md",
+    "Fundamentos de economía/10-22-2023 Hoja de trabajo 4.md",
+    "Fundamentos de economía/09-04-2023 Hoja de trabajo 2.md",
+    "Ética General/10-19-2023 Bioética.md",
+    "Microprogramación/10-19-2023 Práctica 4.md",
+    "Pasted image 20231019162803.png.md",
+    "Base de datos II/10-18-2023 Diagrama de replicación de bases de datos.canvas",
+    "Estadística Inferencial",
+    "Ética General",
+    "Simposio Ingeniería 2023",
     "zape",
-    "zzzAttachmentszzz/Pasted image 20230925234457.png",
-    "Microprogramación/08-22-2023 CISC, RISC y paralelismo de instrucciones.md",
-    "zzzAttachmentszzz/Pasted image 20230925234436.png",
     "Microprogramación/Untitled.canvas",
     "zzzAttachmentszzz",
-    "zzzAttachmentszzz/Pasted image 20230926001248.png",
-    "zzzAttachmentszzz/Pasted image 20230926001240.png",
-    "zzzAttachmentszzz/Pasted image 20230926001143.png",
-    "zzzAttachmentszzz/Pasted image 20230926001123.png",
-    "zzzAttachmentszzz/Pasted image 20230926001116.png",
-    "zzzAttachmentszzz/Pasted image 20230926001056.png",
-    "Microprogramación/08-24-2023 Programas en ensamblador.md",
-    "Microprogramación/09-08-2023 Contenidos primer parcial.md",
     "Microprogramación/img",
-    "Microprogramación/08-24-2023 UCP.md",
-    "Microprogramación/08-22-2023 Cuestionario Caché.md",
     "Microprogramación",
     "Base de datos II/EXPORT POSGRESQL.txt",
     "Base de datos II/EXPORT MYSQL.txt",
-    "Compiladores",
     "Untitled.canvas"
   ]
 }
