@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0e121f67ddecdf",
+        "id": "98960a1b14ab5779",
         "type": "tabs",
         "children": [
           {
-            "id": "957f7644a92f74e3",
+            "id": "c655e6930dac4a09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "2da07ddf6b4f8fd0",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md"
+              }
             }
           }
         ]
@@ -138,29 +146,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "957f7644a92f74e3",
+  "active": "c655e6930dac4a09",
   "lastOpenFiles": [
-    "Comportamiento Organizacional/2024-01-19 Habilidades gerenciales.md",
-    "Comportamiento Organizacional/2024-01-17 Bienvenida.md",
-    "Ingeniería de Métodos/2024-01-19 Ingeniería de métodos.md",
-    "Ingeniería de Métodos/2024-01-15 Contenidos del curso.md",
-    "Investigación de Operaciones/2024-01-18 Investigación de Operaciones.md",
-    "Ingeniería de Costos/2024-01-18 Libro diario.md",
-    "zzz/WhatsApp Image 2024-01-18 at 12.27.11_00b1b219 1.jpg",
-    "zzz/WhatsApp Image 2024-01-18 at 12.27.11_00b1b219.jpg",
-    "Ingeniería de Costos/2024-01-18 Investigación 1.md",
+    "Análisis y Diseño/2024-01-26 Noticia de tecnología.md",
+    "Análisis y Diseño/2024-02-02 Identificación de problemas oportunidades y objetivos.md",
+    "Etica Social/2024-02-01 Guión vídeo.md",
+    "Etica Social",
+    "Ingeniería de Costos/2024-01-23 Depreciaciones y cuotas laborales.md",
+    "Ingeniería de Costos/2024-02-01.md",
+    "Sistemas Operativos/2024-01-25 Conceptos.md",
+    "Sistemas Operativos/2024-02-01 Tipos de software.md",
+    "Análisis y Diseño/2024-01-30 Lectura pág 12 - 21.md",
+    "Análisis y Diseño/2024-01-31 Ciclo de vida clásico.md",
+    "Análisis y Diseño/2024-01-29 Mitos.md",
+    "Análisis y Diseño/2024-01-31.md",
+    "Análisis y Diseño/2024-01-29 Marcas de ERP.md",
+    "Comportamiento Organizacional/2024-01-31 ergonomía y seguridad industrial.md",
+    "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
+    "Investigación de Operaciones/2024-01-30 Ejercicios del libro.md",
+    "zzz/Pasted image 20240130181933.png",
+    "zzz/Pasted image 20240130180738.png",
+    "Ingeniería de Costos/2024-01-30 Descuentos sobre ventas y sobre compras.md",
+    "Sistemas Operativos/2024-01-23 Proceso.md",
     "Sistemas Operativos/2024-01-18 Sistema operativo.md",
-    "Análisis y Diseño/2024-01-17 Sistema.md",
-    "Comportamiento Organizacional",
-    "Investigación de Operaciones/2024-01-16 Contenido del curso.md",
-    "Ingeniería de Costos/2024-01-16 Contenido del curso.md",
-    "Investigación de Operaciones",
     "Sistemas Operativos/2024-01-16 Contenidos del curso.md",
+    "Sistemas Operativos/2024-01-30.md",
+    "Untitled.md",
+    "Análisis y Diseño/2024-01-19 Análisis de sistemas.md",
+    "Análisis y Diseño/2024-01-22 Analista de sistemas.md",
+    "Análisis y Diseño/2024-01-17 Sistema.md",
+    "Análisis y Diseño/2024-01-24 Estructura organizacional.md",
+    "Análisis y Diseño/2024-01-26 Por qué fracasan los sistemas.md",
+    "zzz/bg3.png",
+    "zzz/bg2.png",
+    "zzz/Pasted image 20240123233103.png",
+    "zzz/Pasted image 20240123232912.png",
+    "zzz/Pasted image 20240123232845.png",
+    "zzz/Pasted image 20240123232819.png",
+    "zzz/Pasted image 20240123232535.png",
+    "zzz/Pasted image 20240123232516.png",
+    "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas",
+    "Comportamiento Organizacional",
+    "Investigación de Operaciones",
     "Ingeniería de Costos",
     "Sistemas Operativos",
-    "Análisis y Diseño/2024-01-15 Contenidos del curso.md",
     "Análisis y Diseño",
-    "Inteligencia Artificial/2024-01-15 Contenidos del curso.md",
     "Ingeniería de Métodos",
     "Inteligencia Artificial",
     "zzz"
