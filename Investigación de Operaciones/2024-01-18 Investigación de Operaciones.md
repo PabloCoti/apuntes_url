@@ -1,3 +1,4 @@
+
 # Investigación de operaciones
 ---
 Recursos

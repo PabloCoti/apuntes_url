@@ -1,5 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "",
-  "baseFontSize": 15
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 15,
+  "translucency": false,
+  "theme": "system",
+  "showViewHeader": true
 }

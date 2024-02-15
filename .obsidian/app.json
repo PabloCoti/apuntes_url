@@ -7,6 +7,9 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "zzz",
-  "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "trashOption": "local"
 }

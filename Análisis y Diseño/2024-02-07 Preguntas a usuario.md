@@ -1,0 +1,26 @@
+Integrantes de grupo
+- Diego Abdo
+- Daniel Bautista
+- Pablo Cotí
+# Preguntas a usuario
+---
+- ¿Para qué le servirá el sistema?
+- ¿Cuánto quiere invertir en su sistema?
+- ¿Qué le gustaría que haga el sistema?
+- ¿Por qué quiere este software?
+- ¿Qué problema solucionaría tener este sistema?
+- ¿Cómo lo preferiría usar?
+	- Teléfono
+	- Computador
+	- Ambos
+- ¿Qué herramienta tecnológica se le facilita más utilizar?
+	- Aplicación de teléfono
+	- Aplicación de computador
+	- Página web
+- ¿Desde dónde planea usar el sistema?
+	- Casa
+	- Local
+	- Cualquier lugar
+- ¿Qué aplicación ha usado que le parezca vistosa?
+- ¿Ha utilizado alguna aplicación que haga algo parecido a lo que quiere?
+- ¿Cómo tiene estructurado sus sistema actualmente?

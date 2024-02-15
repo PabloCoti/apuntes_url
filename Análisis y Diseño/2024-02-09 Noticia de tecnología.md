@@ -1,0 +1,1 @@
+[Noticia](https://www.androidcentral.com/apps-software/google-bard-gemini-rebrand-app-launch)

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98960a1b14ab5779",
+        "id": "e0eb99c601e399a3",
         "type": "tabs",
         "children": [
           {
-            "id": "c655e6930dac4a09",
+            "id": "e22079baa12da6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
-                "mode": "source",
+                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -32,16 +32,6 @@
         "id": "800f480736695333",
         "type": "tabs",
         "children": [
-          {
-            "id": "ccbb88a871dcd3f3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "3751c22a877a087c",
             "type": "leaf",
@@ -64,8 +54,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2719f0bc09c5b669",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
+                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
+                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligencia Artificial/2024-01-31 Regresión lineal.md"
+                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md"
               }
             }
           }
@@ -143,56 +144,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c655e6930dac4a09",
+  "active": "e22079baa12da6c8",
   "lastOpenFiles": [
-    "Análisis y Diseño/2024-01-26 Noticia de tecnología.md",
-    "Análisis y Diseño/2024-02-02 Identificación de problemas oportunidades y objetivos.md",
-    "Etica Social/2024-02-01 Guión vídeo.md",
-    "Etica Social",
-    "Ingeniería de Costos/2024-01-23 Depreciaciones y cuotas laborales.md",
-    "Ingeniería de Costos/2024-02-01.md",
-    "Sistemas Operativos/2024-01-25 Conceptos.md",
-    "Sistemas Operativos/2024-02-01 Tipos de software.md",
-    "Análisis y Diseño/2024-01-30 Lectura pág 12 - 21.md",
-    "Análisis y Diseño/2024-01-31 Ciclo de vida clásico.md",
-    "Análisis y Diseño/2024-01-29 Mitos.md",
-    "Análisis y Diseño/2024-01-31.md",
-    "Análisis y Diseño/2024-01-29 Marcas de ERP.md",
-    "Comportamiento Organizacional/2024-01-31 ergonomía y seguridad industrial.md",
-    "Inteligencia Artificial/2024-01-31 Regresión lineal.md",
-    "Investigación de Operaciones/2024-01-30 Ejercicios del libro.md",
-    "zzz/Pasted image 20240130181933.png",
-    "zzz/Pasted image 20240130180738.png",
-    "Ingeniería de Costos/2024-01-30 Descuentos sobre ventas y sobre compras.md",
+    "zzz/piramide-maslow-necesidades-1.jpg",
+    "2024-02-21.md",
+    "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
+    "Comportamiento Organizacional/2024-01-19 Habilidades gerenciales.md",
+    "Comportamiento Organizacional/2024-01-26 Estrés laboral.md",
+    "Untitled.canvas",
+    "zzz/Recording 20240221110046.webm",
+    "Investigación de Operaciones/2024-02-20 Ejercicio modelo linea de espera.md",
+    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_5078cae5.jpg",
+    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_9d4f5bf5.jpg",
+    "Investigación de Operaciones/2024-02-06 Modelo de línea de espera de múltiples canales.md",
+    "Sistemas Operativos/2024-02-15 procesador.md",
+    "Investigación de Operaciones/2024-02-20 Ejercicio modelo linea de espera",
     "Sistemas Operativos/2024-01-23 Proceso.md",
-    "Sistemas Operativos/2024-01-18 Sistema operativo.md",
-    "Sistemas Operativos/2024-01-16 Contenidos del curso.md",
-    "Sistemas Operativos/2024-01-30.md",
-    "Untitled.md",
-    "Análisis y Diseño/2024-01-19 Análisis de sistemas.md",
-    "Análisis y Diseño/2024-01-22 Analista de sistemas.md",
-    "Análisis y Diseño/2024-01-17 Sistema.md",
-    "Análisis y Diseño/2024-01-24 Estructura organizacional.md",
-    "Análisis y Diseño/2024-01-26 Por qué fracasan los sistemas.md",
-    "zzz/bg3.png",
-    "zzz/bg2.png",
-    "zzz/Pasted image 20240123233103.png",
-    "zzz/Pasted image 20240123232912.png",
-    "zzz/Pasted image 20240123232845.png",
-    "zzz/Pasted image 20240123232819.png",
-    "zzz/Pasted image 20240123232535.png",
-    "zzz/Pasted image 20240123232516.png",
+    "Análisis y Diseño/2024-02-19 Ejercicio modelo para sistemas.md",
+    "zzz/image.png",
+    "Análisis y Diseño/image.png",
+    "zzz/20240219_120650.jpg",
+    "zzz/20240219_113219 3.jpg",
+    "Ingeniería de Métodos/2024-02-19 CPM-PERT 2.md",
+    "Ingeniería de Métodos/20240219_113219.jpg",
+    "zzz/20240219_113219 2.jpg",
+    "zzz/20240219_113219 1.jpg",
+    "zzz/20240219_113219.jpg",
+    "Ingeniería de Métodos/2024-02-19 CPM-PERT 2 ejemplo.canvas",
+    "Análisis y Diseño/2024-02-16 Modelos de proceso personal y del equipo.md",
+    "Análisis y Diseño/2024-02-16 Noticia.md",
+    "Análisis y Diseño/2024-02-12 Desarrollo Evolutivo - prototipos.md",
+    "Análisis y Diseño/2024-02-12 Desarrollo basado en componentes.md",
+    "Ingeniería de Métodos/2024-02-16 Secuencia de armado de un pc de escritorio.md",
+    "Comportamiento Organizacional/2024-02-09 Retos oportunidades y desafíos.md",
+    "Comportamiento Organizacional/2024-02-08 Investigación sobre las diferentes generaciones y el impacto en el trabajo actual.md",
+    "Comportamiento Organizacional/2024-02-07 Ambiente laboral.md",
+    "Comportamiento Organizacional/2024-01-31 ergonomía y seguridad industrial.md",
+    "Comportamiento Organizacional/2024-01-24 Fuerzas del cambio.md",
+    "Comportamiento Organizacional/2024-01-21 Análisis de Facing de giants.md",
+    "Comportamiento Organizacional/2024-01-17 Bienvenida.md",
+    "Análisis y Diseño/2024-02-12 Elementos funcionales, no funcionales de nuestro proyecto.md",
+    "Sistemas Operativos/2024-02-13 hoja de trabajo.md",
+    "Sistemas Operativos/2024-02-06 Git bash.md",
     "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas",
+    "Etica Social",
     "Comportamiento Organizacional",
     "Investigación de Operaciones",
     "Ingeniería de Costos",
     "Sistemas Operativos",
     "Análisis y Diseño",
     "Ingeniería de Métodos",
-    "Inteligencia Artificial",
-    "zzz"
+    "Inteligencia Artificial"
   ]
 }
