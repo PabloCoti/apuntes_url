@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0eb99c601e399a3",
+        "id": "20948b5e1f2e592c",
         "type": "tabs",
         "children": [
           {
-            "id": "e22079baa12da6c8",
+            "id": "be11de9a9863c673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
+                "file": "Análisis y Diseño/Apuntes/2024-01-22 Analista de sistemas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
+                "file": "Análisis y Diseño/Apuntes/2024-01-22 Analista de sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
+                "file": "Análisis y Diseño/Apuntes/2024-01-22 Analista de sistemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md"
+                "file": "Análisis y Diseño/Apuntes/2024-01-22 Analista de sistemas.md"
               }
             }
           }
@@ -148,56 +148,57 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e22079baa12da6c8",
+  "active": "be11de9a9863c673",
   "lastOpenFiles": [
-    "zzz/piramide-maslow-necesidades-1.jpg",
-    "2024-02-21.md",
-    "Comportamiento Organizacional/2024-02-21 Satisfacción laboral.md",
-    "Comportamiento Organizacional/2024-01-19 Habilidades gerenciales.md",
-    "Comportamiento Organizacional/2024-01-26 Estrés laboral.md",
+    "Análisis y Diseño/Apuntes/2024-01-31 Ciclo de vida clásico.md",
+    "Análisis y Diseño/Apuntes/2024-01-30 Lectura pág 12 - 21.md",
+    "Análisis y Diseño/Apuntes/2024-01-29 Mitos.md",
+    "Análisis y Diseño/Apuntes/2024-01-17 Sistema.md",
+    "Análisis y Diseño/Apuntes/2024-02-02 Identificación de problemas oportunidades y objetivos.md",
+    "Análisis y Diseño/Apuntes/2024-01-24 Estructura organizacional.md",
+    "Análisis y Diseño/Apuntes/2024-01-15 Contenidos del curso.md",
+    "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
+    "PropuestaAsignacion1653221.pdf",
+    "~$Pensum primer semestre 2024.xlsx",
+    "rHorarioWeb.pdf",
+    "Análisis y Diseño/Apuntes/2024-02-07 Ingeniería de requerimientos.md",
+    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
+    "Pensum primer semestre 2024.xlsx",
+    "Horario u y trabajo.xlsx",
+    "Ingeniería de Métodos/Tareas/2024-01-21 Room layout.pdf",
+    "Sistemas Operativos/Apuntes",
+    "Investigación de Operaciones/Tareas/Casos reales/Caso 1/Caso_real chris y pablo.pdf",
+    "Investigación de Operaciones/Tareas/Casos reales/Caso 1/Caso_real chris y pablo.docx",
+    "Investigación de Operaciones/Tareas/Casos reales/Caso 1/Caso real 1 presentación.pdf",
+    "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
+    "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
+    "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
+    "Investigación de Operaciones/Apuntes/2024-01-25 Varios modelos matemáticos.md",
+    "Investigación de Operaciones/Apuntes/2024-01-24 apuntes lectura cap 1.md",
+    "Investigación de Operaciones/Apuntes/2024-01-21 apuntes lectura cap 2.md",
+    "Investigación de Operaciones/Apuntes/2024-01-18 Investigación de Operaciones.md",
+    "Investigación de Operaciones/Apuntes/2024-01-16 Contenido del curso.md",
+    "Inteligencia Artificial/Resources/tabla4.jpg",
+    "Inteligencia Artificial/Resources/resistencia-cables.png",
+    "Inteligencia Artificial/Resources/dureza de materiales.jpg",
+    "Inteligencia Artificial/Resources/agravios por departamento.png",
+    "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
+    "Inteligencia Artificial/Apuntes/2024-02-07 web scraping.md",
+    "Inteligencia Artificial/Apuntes/2024-01-31 Regresión lineal.md",
+    "Inteligencia Artificial/Apuntes/2024-01-29 Análisis estadístico con python 2.md",
+    "Inteligencia Artificial/Apuntes/2024-01-24 Análisis estadístico con python.md",
+    "Inteligencia Artificial/Apuntes/2024-01-24 Análisis estadístico con python 1.md",
+    "Inteligencia Artificial/Apuntes/2024-01-15 Contenidos del curso.md",
+    "Ingeniería de Métodos/Apuntes/2024-01-15 Contenidos del curso.md",
+    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de software ajeno al programa.png",
+    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de usuario.png",
+    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de estructuración.png",
+    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de código.png",
+    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de hardware.png",
+    "Ingeniería de Costos/Apuntes/2024-01-16 Contenido del curso.md",
+    "Etica Social/Tareas/2024-02-05 Video/tierra.jpg",
     "Untitled.canvas",
-    "zzz/Recording 20240221110046.webm",
-    "Investigación de Operaciones/2024-02-20 Ejercicio modelo linea de espera.md",
-    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_5078cae5.jpg",
-    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_9d4f5bf5.jpg",
-    "Investigación de Operaciones/2024-02-06 Modelo de línea de espera de múltiples canales.md",
-    "Sistemas Operativos/2024-02-15 procesador.md",
-    "Investigación de Operaciones/2024-02-20 Ejercicio modelo linea de espera",
-    "Sistemas Operativos/2024-01-23 Proceso.md",
-    "Análisis y Diseño/2024-02-19 Ejercicio modelo para sistemas.md",
-    "zzz/image.png",
-    "Análisis y Diseño/image.png",
-    "zzz/20240219_120650.jpg",
-    "zzz/20240219_113219 3.jpg",
-    "Ingeniería de Métodos/2024-02-19 CPM-PERT 2.md",
-    "Ingeniería de Métodos/20240219_113219.jpg",
-    "zzz/20240219_113219 2.jpg",
-    "zzz/20240219_113219 1.jpg",
-    "zzz/20240219_113219.jpg",
-    "Ingeniería de Métodos/2024-02-19 CPM-PERT 2 ejemplo.canvas",
-    "Análisis y Diseño/2024-02-16 Modelos de proceso personal y del equipo.md",
-    "Análisis y Diseño/2024-02-16 Noticia.md",
-    "Análisis y Diseño/2024-02-12 Desarrollo Evolutivo - prototipos.md",
-    "Análisis y Diseño/2024-02-12 Desarrollo basado en componentes.md",
-    "Ingeniería de Métodos/2024-02-16 Secuencia de armado de un pc de escritorio.md",
-    "Comportamiento Organizacional/2024-02-09 Retos oportunidades y desafíos.md",
-    "Comportamiento Organizacional/2024-02-08 Investigación sobre las diferentes generaciones y el impacto en el trabajo actual.md",
-    "Comportamiento Organizacional/2024-02-07 Ambiente laboral.md",
-    "Comportamiento Organizacional/2024-01-31 ergonomía y seguridad industrial.md",
-    "Comportamiento Organizacional/2024-01-24 Fuerzas del cambio.md",
-    "Comportamiento Organizacional/2024-01-21 Análisis de Facing de giants.md",
-    "Comportamiento Organizacional/2024-01-17 Bienvenida.md",
-    "Análisis y Diseño/2024-02-12 Elementos funcionales, no funcionales de nuestro proyecto.md",
-    "Sistemas Operativos/2024-02-13 hoja de trabajo.md",
-    "Sistemas Operativos/2024-02-06 Git bash.md",
-    "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas",
-    "Etica Social",
-    "Comportamiento Organizacional",
-    "Investigación de Operaciones",
-    "Ingeniería de Costos",
-    "Sistemas Operativos",
-    "Análisis y Diseño",
-    "Ingeniería de Métodos",
-    "Inteligencia Artificial"
+    "Ingeniería de Métodos/Apuntes/2024-02-19 CPM-PERT 2 ejemplo.canvas",
+    "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"
   ]
 }
