@@ -37,3 +37,5 @@ La satisfacción laboral es importante porque se ve reflejado en el ==ambiente l
 	- Los colaboradores faltan mucho.
 - Rotación de personal
 - Anomalías en el lugar de trabajo
+
+De aquí surge la tarea [[2024-02-21 Temas relacionados con las insatisfacción laboral]]

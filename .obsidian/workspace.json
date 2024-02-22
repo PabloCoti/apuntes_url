@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
+                "file": "Análisis y Diseño/Apuntes/2024-01-31 Ciclo de vida clásico.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
+                "file": "Análisis y Diseño/Apuntes/2024-01-31 Ciclo de vida clásico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
+                "file": "Análisis y Diseño/Apuntes/2024-01-31 Ciclo de vida clásico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md"
+                "file": "Análisis y Diseño/Apuntes/2024-01-31 Ciclo de vida clásico.md"
               }
             }
           }
@@ -150,28 +150,41 @@
   },
   "active": "be11de9a9863c673",
   "lastOpenFiles": [
-    "Análisis y Diseño/Apuntes/2024-01-15 Contenidos del curso.md",
-    "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
-    "Ingeniería de Costos/Tareas/Resumenes",
-    "Análisis y Diseño/Apuntes/2024-01-22 Analista de sistemas.md",
+    "Análisis y Diseño/Apuntes/2024-02-07 Ingeniería de requerimientos.md",
+    "Análisis y Diseño/Apuntes/2024-02-02 Identificación de problemas oportunidades y objetivos.md",
+    "Análisis y Diseño/Apuntes/2024-02-19 Ejercicio modelo para sistemas.md",
+    "Análisis y Diseño/Apuntes/2024-02-16 Modelos de proceso personal y del equipo.md",
+    "Análisis y Diseño/Apuntes/2024-02-12 Desarrollo basado en componentes.md",
     "Análisis y Diseño/Apuntes/2024-01-31 Ciclo de vida clásico.md",
+    "zzz/Pasted image 20240222002132.png",
+    "zzz/Pasted image 20240222002123.png",
+    "zzz/Pasted image 20240222002115.png",
+    "zzz/Pasted image 20240222002056.png",
     "Análisis y Diseño/Apuntes/2024-01-30 Lectura pág 12 - 21.md",
     "Análisis y Diseño/Apuntes/2024-01-29 Mitos.md",
-    "Análisis y Diseño/Apuntes/2024-01-17 Sistema.md",
-    "Análisis y Diseño/Apuntes/2024-02-02 Identificación de problemas oportunidades y objetivos.md",
+    "Análisis y Diseño/Apuntes/2024-01-26 Por qué fracasan los sistemas.md",
     "Análisis y Diseño/Apuntes/2024-01-24 Estructura organizacional.md",
+    "Análisis y Diseño/Apuntes/2024-01-22 Analista de sistemas.md",
+    "Análisis y Diseño/Apuntes/2024-01-19 Análisis de sistemas.md",
+    "Análisis y Diseño/Apuntes/2024-01-17 Sistema.md",
+    "zzz/Pasted image 20240221233702.png",
+    "Análisis y Diseño/Apuntes/2024-01-15 Contenidos del curso.md",
+    "Comportamiento Organizacional/Tareas/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
+    "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
+    "Comportamiento Organizacional/Tareas",
+    "Ingeniería de Costos/Tareas/Resumenes",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "PropuestaAsignacion1653221.pdf",
     "~$Pensum primer semestre 2024.xlsx",
     "rHorarioWeb.pdf",
-    "Análisis y Diseño/Apuntes/2024-02-07 Ingeniería de requerimientos.md",
     "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Pensum primer semestre 2024.xlsx",
     "Horario u y trabajo.xlsx",
     "Ingeniería de Métodos/Tareas/2024-01-21 Room layout.pdf",
     "Sistemas Operativos/Apuntes",
     "Investigación de Operaciones/Tareas/Casos reales/Caso 1/Caso_real chris y pablo.pdf",
-    "Investigación de Operaciones/Tareas/Casos reales/Caso 1/Caso_real chris y pablo.docx",
     "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
     "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
     "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
@@ -179,24 +192,11 @@
     "Investigación de Operaciones/Apuntes/2024-01-24 apuntes lectura cap 1.md",
     "Investigación de Operaciones/Apuntes/2024-01-21 apuntes lectura cap 2.md",
     "Investigación de Operaciones/Apuntes/2024-01-18 Investigación de Operaciones.md",
-    "Investigación de Operaciones/Apuntes/2024-01-16 Contenido del curso.md",
     "Inteligencia Artificial/Resources/tabla4.jpg",
     "Inteligencia Artificial/Resources/resistencia-cables.png",
     "Inteligencia Artificial/Resources/dureza de materiales.jpg",
     "Inteligencia Artificial/Resources/agravios por departamento.png",
-    "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
-    "Inteligencia Artificial/Apuntes/2024-02-07 web scraping.md",
-    "Inteligencia Artificial/Apuntes/2024-01-31 Regresión lineal.md",
-    "Inteligencia Artificial/Apuntes/2024-01-29 Análisis estadístico con python 2.md",
-    "Inteligencia Artificial/Apuntes/2024-01-24 Análisis estadístico con python.md",
-    "Inteligencia Artificial/Apuntes/2024-01-24 Análisis estadístico con python 1.md",
-    "Inteligencia Artificial/Apuntes/2024-01-15 Contenidos del curso.md",
     "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de software ajeno al programa.png",
-    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de usuario.png",
-    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de estructuración.png",
-    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de código.png",
-    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de hardware.png",
-    "Etica Social/Tareas/2024-02-05 Video/tierra.jpg",
     "Untitled.canvas",
     "Ingeniería de Métodos/Apuntes/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"
