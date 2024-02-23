@@ -17,8 +17,11 @@ Planeación de recursos empresariales
 
 ## Por qué fallan los RP
 - Falta de establecimiento de expectativas realistas
+	- Los usuarios piensan que el programa va a hacer todo por ellos o piensan que el programa va a hacer más de lo que se había prometido.
 - Falta de presentar una buena visión del sistema a los usuarios
+	- Por parte de las personas que venden el programa no venden bien la idea de la implementación del programa por lo que los usuarios no se ven interesados en comprar el programa e implementarlo.
 - Falta de compromiso por parte de la gerencia
+	- La gerencia no se ve interesada en integrar el programa dentro de la empresa.
 - Falta de gerentes de proyecto competentes
 - Fallo al modificar o alinear el sistema con los procesos del negocio
 - Falta de presupuesto para software complementario
