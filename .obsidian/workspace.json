@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "20948b5e1f2e592c",
+        "id": "9255cef97bbcd407",
         "type": "tabs",
         "children": [
           {
-            "id": "be11de9a9863c673",
+            "id": "c8e6e63eb68fb98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md",
-                "mode": "source",
+                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f56d18feea2fef83",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md",
+                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md",
+                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md"
+                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md"
               }
             }
           }
@@ -159,13 +148,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f56d18feea2fef83",
+  "active": "c8e6e63eb68fb98d",
   "lastOpenFiles": [
-    "Análisis y Diseño/Apuntes/Clases/2024-01-31 Ciclo de vida clásico.md",
+    "Análisis y Diseño/Apuntes/Clases/2024-01-17 Sistema.md",
+    "Análisis y Diseño/Apuntes/Clases/2024-01-22 Analista de sistemas.md",
+    "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
+    "Análisis y Diseño/Apuntes/Clases/2024-01-24 Estructura organizacional.md",
+    "Análisis y Diseño/Apuntes/Clases/2024-01-26 Por qué fracasan los sistemas.md",
+    "Comportamiento Organizacional/Tareas/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-30 Lectura pág 12 - 21.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md",
-    "Análisis y Diseño/Tareas/En clase/2024-02-19 Ejercicio modelo para sistemas.md",
+    "Análisis y Diseño/Apuntes/Repaso/2024-02-23 repaso.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-15 Contenidos del curso.md",
+    "Ingeniería de Métodos/Apuntes/2024-01-15 Contenidos del curso.md",
+    "Ingeniería de Costos/Tareas/Investigaciones/2024-01-18 Investigación 1.md",
+    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_4b774501.jpg",
+    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2 1.jpg",
+    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2.jpg",
+    "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md",
+    "Análisis y Diseño/Apuntes/Repaso",
+    "Análisis y Diseño/Apuntes/Clases/2024-01-31 Ciclo de vida clásico.md",
+    "Análisis y Diseño/Tareas/En clase/2024-02-19 Ejercicio modelo para sistemas.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-02-12 Desarrollo basado en componentes.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-02-12 Desarrollo Evolutivo - prototipos.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-02-16 Modelos de proceso personal y del equipo.md",
@@ -174,17 +176,11 @@
     "Análisis y Diseño/Apuntes/Untitled.md",
     "Análisis y Diseño/Apuntes/2024-02-02 Identificación de problemas oportunidades y objetivos.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-29 Mitos.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-26 Por qué fracasan los sistemas.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-24 Estructura organizacional.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-22 Analista de sistemas.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-17 Sistema.md",
     "zzz/Pasted image 20240222002132.png",
     "zzz/Pasted image 20240222002123.png",
     "zzz/Pasted image 20240222002115.png",
     "zzz/Pasted image 20240222002056.png",
     "zzz/Pasted image 20240221233702.png",
-    "Comportamiento Organizacional/Tareas/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
     "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
     "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
     "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
@@ -197,16 +193,10 @@
     "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Pensum primer semestre 2024.xlsx",
     "Horario u y trabajo.xlsx",
-    "Ingeniería de Métodos/Tareas/2024-01-21 Room layout.pdf",
     "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
     "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
-    "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
-    "Investigación de Operaciones/Apuntes/2024-01-25 Varios modelos matemáticos.md",
     "Inteligencia Artificial/Resources/tabla4.jpg",
     "Inteligencia Artificial/Resources/resistencia-cables.png",
-    "Inteligencia Artificial/Resources/dureza de materiales.jpg",
-    "Inteligencia Artificial/Resources/agravios por departamento.png",
-    "Ingeniería de Métodos/Tareas/Prácticas/2024-02-08 Práctica no 1/Imágenes/Problemas de software ajeno al programa.png",
     "Untitled.canvas",
     "Ingeniería de Métodos/Apuntes/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"

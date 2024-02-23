@@ -141,6 +141,7 @@ Daniel Bautista 2121323
 
 O
 
+**Actividades genéricas**
 - Análisis
 	- Comunicación
 	- Planeación
