@@ -11,11 +11,14 @@
             "id": "c8e6e63eb68fb98d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
-                "mode": "preview",
-                "source": false
+                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
+                "viewState": {
+                  "x": -5,
+                  "y": -34,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
+                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
+                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md"
+                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
               }
             }
           }
@@ -150,9 +153,17 @@
   },
   "active": "c8e6e63eb68fb98d",
   "lastOpenFiles": [
+    "Análisis y Diseño/Apuntes/Clases/2024-02-26 Modelado del sistema.md",
+    "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
+    "Análisis y Diseño/Apuntes/Clases/Untitled.md",
+    "zzz/20240226_121534.jpg",
+    "Ingeniería de Métodos/Apuntes/2024-02-26 dop dfp y dr.md",
+    "zzz/20240226_104347.jpg",
+    "zzz/20240226_102658.jpg",
+    "zzz/WhatsApp Image 2024-02-26 at 10.23.26_53e2ba45.jpg",
+    "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-17 Sistema.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-22 Analista de sistemas.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-24 Estructura organizacional.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-26 Por qué fracasan los sistemas.md",
     "Comportamiento Organizacional/Tareas/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
@@ -179,24 +190,16 @@
     "zzz/Pasted image 20240222002132.png",
     "zzz/Pasted image 20240222002123.png",
     "zzz/Pasted image 20240222002115.png",
-    "zzz/Pasted image 20240222002056.png",
-    "zzz/Pasted image 20240221233702.png",
     "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
     "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
-    "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
     "Comportamiento Organizacional/Tareas",
     "Ingeniería de Costos/Tareas/Resumenes",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "PropuestaAsignacion1653221.pdf",
     "~$Pensum primer semestre 2024.xlsx",
     "rHorarioWeb.pdf",
-    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Pensum primer semestre 2024.xlsx",
     "Horario u y trabajo.xlsx",
-    "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
-    "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
-    "Inteligencia Artificial/Resources/tabla4.jpg",
-    "Inteligencia Artificial/Resources/resistencia-cables.png",
     "Untitled.canvas",
     "Ingeniería de Métodos/Apuntes/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"

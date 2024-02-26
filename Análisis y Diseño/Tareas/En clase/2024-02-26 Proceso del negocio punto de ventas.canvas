@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ab061c0ca074bd74","type":"text","text":"Salidas\n- Ventas","x":260,"y":-30,"width":250,"height":79},
+		{"id":"c8a34fb7571ca718","type":"text","text":"Entradas\n- Productos","x":-520,"y":-30,"width":250,"height":79},
+		{"id":"a869ef2ad4e7f9cc","type":"text","text":"Responsables\n- Clientes\n- Vendedores\n- Proveedores\n- Operadores\n- Administradores","x":-125,"y":-320,"width":250,"height":211},
+		{"id":"d9b34ae97109de39","type":"text","text":"Objetivos\n- Vender\n- Producir","x":200,"y":-221,"width":250,"height":112},
+		{"id":"459a447b2b3b3bdc","type":"text","text":"Proceso del Negocio\nPunto de ventas","x":-125,"y":-18,"width":250,"height":56},
+		{"id":"b8e33c3a520b77e1","type":"text","text":"Apoyo\n- Proveedores\n- Servicios externos","x":-125,"y":140,"width":250,"height":112}
+	],
+	"edges":[
+		{"id":"8edd4b14b1d7b494","fromNode":"c8a34fb7571ca718","fromSide":"right","toNode":"459a447b2b3b3bdc","toSide":"left"},
+		{"id":"071b887248a79b1a","fromNode":"b8e33c3a520b77e1","fromSide":"top","toNode":"459a447b2b3b3bdc","toSide":"bottom"},
+		{"id":"6a7bb4b6f04b73bf","fromNode":"459a447b2b3b3bdc","fromSide":"right","toNode":"ab061c0ca074bd74","toSide":"left"},
+		{"id":"b9ba378452cf1714","fromNode":"459a447b2b3b3bdc","fromSide":"top","toNode":"d9b34ae97109de39","toSide":"bottom"},
+		{"id":"bb01a0daf226aaf2","fromNode":"a869ef2ad4e7f9cc","fromSide":"bottom","toNode":"459a447b2b3b3bdc","toSide":"top"}
+	]
+}
