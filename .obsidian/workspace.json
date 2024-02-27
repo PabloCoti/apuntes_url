@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9255cef97bbcd407",
+        "id": "e56e808327164933",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e6e63eb68fb98d",
+            "id": "1ab281c52724a374",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
-                "viewState": {
-                  "x": -5,
-                  "y": -34,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,7 +140,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c8e6e63eb68fb98d",
+  "active": "1ab281c52724a374",
   "lastOpenFiles": [
     "Análisis y Diseño/Apuntes/Clases/2024-02-26 Modelado del sistema.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",

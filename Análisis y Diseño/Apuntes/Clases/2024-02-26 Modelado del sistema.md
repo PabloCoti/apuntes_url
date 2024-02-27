@@ -36,3 +36,10 @@ En el proceso de la universidad:
 **Ejercicio**
 ![[2024-02-26 Proceso del negocio punto de ventas.canvas]]
 ## Modelado del Sistema
+Para modelar tanto el negocio como el sistema se tiene varias herramientas
+- Diagrama de bloques
+- Diagramas de procesos
+- Diagramas UML
+- Diagramas de flujo de datos
+
+Para los diagramas uml se usa algo que no sé qué, pero son los diagramas de los muñequitos que 
