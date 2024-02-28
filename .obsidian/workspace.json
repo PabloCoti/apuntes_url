@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e56e808327164933",
+        "id": "5f52bca4490c00c2",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab281c52724a374",
+            "id": "bfdfcf5bb20d805d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "2da07ddf6b4f8fd0",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md"
+                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md"
               }
             }
           }
@@ -148,8 +149,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1ab281c52724a374",
+  "active": "bfdfcf5bb20d805d",
   "lastOpenFiles": [
+    "zzz/Pasted image 20240227190616.png",
+    "zzz/Pasted image 20240227190600.png",
+    "zzz/Pasted image 20240227185950.png",
+    "zzz/Pasted image 20240227185933.png",
+    "zzz/Pasted image 20240227184902.png",
+    "zzz/Pasted image 20240227183758.png",
+    "zzz/Pasted image 20240227183732.png",
+    "zzz/Pasted image 20240227183650.png",
+    "zzz/Pasted image 20240227182506.png",
+    "zzz/Pasted image 20240227182403.png",
+    "zzz/20240227_181651.jpg",
+    "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
+    "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
     "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
     "Sistemas Operativos/Apuntes/2024-01-23 Proceso.md",
@@ -157,16 +171,11 @@
     "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
     "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
     "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
-    "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
     "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Análisis y Diseño/Apuntes/Clases/2024-02-26 Modelado del sistema.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
     "Análisis y Diseño/Apuntes/Clases/Untitled.md",
-    "zzz/20240226_121534.jpg",
     "Ingeniería de Métodos/Apuntes/2024-02-26 dop dfp y dr.md",
-    "zzz/20240226_104347.jpg",
-    "zzz/20240226_102658.jpg",
-    "zzz/WhatsApp Image 2024-02-26 at 10.23.26_53e2ba45.jpg",
     "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-17 Sistema.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-22 Analista de sistemas.md",
@@ -178,18 +187,10 @@
     "Análisis y Diseño/Apuntes/Clases/2024-01-15 Contenidos del curso.md",
     "Ingeniería de Métodos/Apuntes/2024-01-15 Contenidos del curso.md",
     "Ingeniería de Costos/Tareas/Investigaciones/2024-01-18 Investigación 1.md",
-    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_4b774501.jpg",
-    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2 1.jpg",
-    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2.jpg",
     "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md",
     "Análisis y Diseño/Apuntes/Repaso",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-31 Ciclo de vida clásico.md",
-    "Análisis y Diseño/Tareas/En clase/2024-02-19 Ejercicio modelo para sistemas.md",
     "Análisis y Diseño/Apuntes/Clases",
     "Análisis y Diseño/Apuntes/Exposiciones",
-    "zzz/Pasted image 20240222002132.png",
-    "zzz/Pasted image 20240222002123.png",
-    "zzz/Pasted image 20240222002115.png",
     "Comportamiento Organizacional/Tareas",
     "Ingeniería de Costos/Tareas/Resumenes",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
