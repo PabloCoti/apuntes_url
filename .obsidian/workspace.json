@@ -11,8 +11,12 @@
             "id": "1ab281c52724a374",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md"
+              }
             }
           }
         ]
@@ -142,6 +150,15 @@
   },
   "active": "1ab281c52724a374",
   "lastOpenFiles": [
+    "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
+    "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
+    "Sistemas Operativos/Apuntes/2024-01-23 Proceso.md",
+    "Sistemas Operativos/Apuntes/2024-01-25 Conceptos.md",
+    "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
+    "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
+    "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
+    "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Análisis y Diseño/Apuntes/Clases/2024-02-26 Modelado del sistema.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
     "Análisis y Diseño/Apuntes/Clases/Untitled.md",
@@ -168,19 +185,11 @@
     "Análisis y Diseño/Apuntes/Repaso",
     "Análisis y Diseño/Apuntes/Clases/2024-01-31 Ciclo de vida clásico.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-19 Ejercicio modelo para sistemas.md",
-    "Análisis y Diseño/Apuntes/Exposiciones/2024-02-12 Desarrollo basado en componentes.md",
-    "Análisis y Diseño/Apuntes/Exposiciones/2024-02-12 Desarrollo Evolutivo - prototipos.md",
-    "Análisis y Diseño/Apuntes/Exposiciones/2024-02-16 Modelos de proceso personal y del equipo.md",
     "Análisis y Diseño/Apuntes/Clases",
     "Análisis y Diseño/Apuntes/Exposiciones",
-    "Análisis y Diseño/Apuntes/Untitled.md",
-    "Análisis y Diseño/Apuntes/2024-02-02 Identificación de problemas oportunidades y objetivos.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-29 Mitos.md",
     "zzz/Pasted image 20240222002132.png",
     "zzz/Pasted image 20240222002123.png",
     "zzz/Pasted image 20240222002115.png",
-    "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
     "Comportamiento Organizacional/Tareas",
     "Ingeniería de Costos/Tareas/Resumenes",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
