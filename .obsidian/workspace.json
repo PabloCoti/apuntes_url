@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
+                "file": "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,6 +30,71 @@
     "children": [
       {
         "id": "800f480736695333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb310300c19f6ce1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9e707b51f79ef87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "917d29ae9db2cc25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "306e0a059b06be8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2da07ddf6b4f8fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e918348ecbbc2de",
         "type": "tabs",
         "children": [
           {
@@ -70,73 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "2da07ddf6b4f8fd0",
-    "type": "split",
-    "children": [
-      {
-        "id": "4e918348ecbbc2de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb310300c19f6ce1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f9e707b51f79ef87",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "917d29ae9db2cc25",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "306e0a059b06be8a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,6 +150,19 @@
   },
   "active": "bfdfcf5bb20d805d",
   "lastOpenFiles": [
+    "zzz/Recording 20240228114159.webm",
+    "Comportamiento Organizacional/Apuntes/2024-01-19 Habilidades gerenciales.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
+    "zzz/Pasted image 20240228110635.png",
+    "Comportamiento Organizacional/Apuntes/2024-01-24 Fuerzas del cambio.md",
+    "Comportamiento Organizacional/Apuntes/2024-01-26 Estrés laboral.md",
+    "Comportamiento Organizacional/Tareas/2024-02-06 tarea 25 valores.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-07 Ambiente laboral.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-08 Investigación sobre las diferentes generaciones y el impacto en el trabajo actual.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-09 Retos oportunidades y desafíos.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
+    "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
     "zzz/Pasted image 20240227190616.png",
     "zzz/Pasted image 20240227190600.png",
     "zzz/Pasted image 20240227185950.png",
@@ -160,9 +172,6 @@
     "zzz/Pasted image 20240227183732.png",
     "zzz/Pasted image 20240227183650.png",
     "zzz/Pasted image 20240227182506.png",
-    "zzz/Pasted image 20240227182403.png",
-    "zzz/20240227_181651.jpg",
-    "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
     "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
     "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
@@ -178,16 +187,6 @@
     "Ingeniería de Métodos/Apuntes/2024-02-26 dop dfp y dr.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-17 Sistema.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-22 Analista de sistemas.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-24 Estructura organizacional.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-26 Por qué fracasan los sistemas.md",
-    "Comportamiento Organizacional/Tareas/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-30 Lectura pág 12 - 21.md",
-    "Análisis y Diseño/Apuntes/Repaso/2024-02-23 repaso.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-15 Contenidos del curso.md",
-    "Ingeniería de Métodos/Apuntes/2024-01-15 Contenidos del curso.md",
-    "Ingeniería de Costos/Tareas/Investigaciones/2024-01-18 Investigación 1.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-02-07 Ingeniería de requerimientos.md",
     "Análisis y Diseño/Apuntes/Repaso",
     "Análisis y Diseño/Apuntes/Clases",
     "Análisis y Diseño/Apuntes/Exposiciones",
