@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f52bca4490c00c2",
+        "id": "1c50d8a90726abfa",
         "type": "tabs",
         "children": [
           {
-            "id": "bfdfcf5bb20d805d",
+            "id": "22fb45f8d08b76e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
-                "mode": "source",
+                "file": "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
+                "file": "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
+                "file": "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md"
+                "file": "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md"
               }
             }
           }
@@ -148,22 +148,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bfdfcf5bb20d805d",
+  "active": "22fb45f8d08b76e9",
   "lastOpenFiles": [
-    "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
-    "Ingeniería de Costos/Tareas/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
+    "zzz/Pasted image 20240304224918.png",
+    "zzz/Pasted image 20240304224714.png",
+    "zzz/Pasted image 20240304224532.png",
+    "zzz/Pasted image 20240304224457.png",
+    "zzz/Pasted image 20240304224342.png",
+    "zzz/Pasted image 20240304224310.png",
+    "zzz/Pasted image 20240304224244.png",
+    "zzz/Pasted image 20240304224203.png",
+    "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
+    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2.md",
+    "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
+    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
+    "Ingeniería de Métodos/Apuntes/Clase/2024-02-12 CPM-PERT.md",
+    "Ingeniería de Métodos/Tareas/Investigaciones/2024-02-16 Secuencia de armado de un pc de escritorio.md",
+    "zzz/Pasted image 20240304222602.png",
+    "zzz/Pasted image 20240304222551.png",
     "zzz/Pasted image 20240304212347.png",
+    "zzz/Recording 20240221110046.webm",
+    "zzz/Recording 20240228114159.webm",
+    "Ingeniería de Métodos/Apuntes/Repaso",
+    "Ingeniería de Costos/Tareas/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
+    "Ingeniería de Métodos/Apuntes/Clase",
+    "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
     "Comportamiento Organizacional/Apuntes/2024-03-01 Sucesión.md",
     "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
     "Investigación de Operaciones/Tareas/2024-02-28 Cálculos de viaje.md",
     "Ingeniería de Costos/Tareas/Investigaciones/2024-01-18 Investigación 1.md",
-    "zzz/2013-mazda-mazda2-sport-5-door-auto-hatchback-angular-front-1641965379.png",
-    "zzz/Pasted image 20240228221833.png",
-    "zzz/Pasted image 20240228221641.png",
     "Investigación de Operaciones/Tareas",
-    "zzz/Recording 20240228114159.webm",
     "Comportamiento Organizacional/Apuntes/2024-01-19 Habilidades gerenciales.md",
-    "zzz/Pasted image 20240228110635.png",
     "Comportamiento Organizacional/Apuntes/2024-01-24 Fuerzas del cambio.md",
     "Comportamiento Organizacional/Apuntes/2024-01-26 Estrés laboral.md",
     "Comportamiento Organizacional/Tareas/2024-02-06 tarea 25 valores.md",
@@ -173,20 +188,10 @@
     "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
     "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
     "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
-    "zzz/Pasted image 20240227190616.png",
-    "zzz/Pasted image 20240227190600.png",
-    "zzz/Pasted image 20240227185950.png",
-    "zzz/Pasted image 20240227185933.png",
-    "zzz/Pasted image 20240227184902.png",
     "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
     "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
     "Sistemas Operativos/Apuntes/2024-01-23 Proceso.md",
-    "Sistemas Operativos/Apuntes/2024-01-25 Conceptos.md",
-    "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
-    "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
-    "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
-    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
     "Análisis y Diseño/Apuntes/Repaso",
     "Análisis y Diseño/Apuntes/Clases",
@@ -194,11 +199,7 @@
     "Comportamiento Organizacional/Tareas",
     "Ingeniería de Costos/Tareas/Resumenes",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
-    "PropuestaAsignacion1653221.pdf",
-    "~$Pensum primer semestre 2024.xlsx",
-    "rHorarioWeb.pdf",
     "Untitled.canvas",
-    "Ingeniería de Métodos/Apuntes/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"
   ]
 }
