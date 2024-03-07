@@ -11,8 +11,12 @@
             "id": "ab4bf14cce35d92d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería de Costos/Tareas/Casa/Cuestionarios/2024-03-06 cuestionario.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,6 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingeniería de Costos/Tareas/Casa/Cuestionarios/2024-03-06 cuestionario.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -50,6 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ingeniería de Costos/Tareas/Casa/Cuestionarios/2024-03-06 cuestionario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -71,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ingeniería de Costos/Tareas/Casa/Cuestionarios/2024-03-06 cuestionario.md"
+              }
             }
           }
         ]
@@ -142,8 +150,11 @@
   },
   "active": "ab4bf14cce35d92d",
   "lastOpenFiles": [
-    "Ingeniería de Costos/Tareas/Resumenes/2034-03-06 Libro mayor - balance de situaciones.md",
-    "Ingeniería de Costos/Tareas/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
+    "Ingeniería de Costos/Tareas/Casa/Cuestionarios/2024-03-06 cuestionario.md",
+    "Ingeniería de Costos/Tareas/Casa/Cuestionarios",
+    "Ingeniería de Costos/Tareas/Casa",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2034-03-06 Libro mayor - balance de situaciones.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
     "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
     "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
     "Investigación de Operaciones/Apuntes/2024-01-25 Varios modelos matemáticos.md",
@@ -175,21 +186,18 @@
     "zzz/Recording 20240228114159.webm",
     "Ingeniería de Métodos/Apuntes/Repaso",
     "Ingeniería de Métodos/Apuntes/Clase",
-    "Ingeniería de Costos/Tareas/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
     "Comportamiento Organizacional/Apuntes/2024-03-01 Sucesión.md",
     "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
-    "Ingeniería de Costos/Tareas/Investigaciones/2024-01-18 Investigación 1.md",
+    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
     "Investigación de Operaciones/Tareas",
     "Comportamiento Organizacional/Apuntes/2024-01-19 Habilidades gerenciales.md",
     "Comportamiento Organizacional/Apuntes/2024-01-24 Fuerzas del cambio.md",
     "Comportamiento Organizacional/Apuntes/2024-01-26 Estrés laboral.md",
     "Comportamiento Organizacional/Tareas/2024-02-06 tarea 25 valores.md",
     "Comportamiento Organizacional/Apuntes/2024-02-07 Ambiente laboral.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-08 Investigación sobre las diferentes generaciones y el impacto en el trabajo actual.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
     "Análisis y Diseño/Apuntes/Repaso",
-    "Análisis y Diseño/Apuntes/Clases",
-    "Análisis y Diseño/Apuntes/Exposiciones",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Untitled.canvas",
     "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"
