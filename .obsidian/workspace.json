@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb508e112a1c96d4",
+        "id": "f381262b23185f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "df5f8a5aa09eb27f",
+            "id": "32165844f924b8cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -55,7 +50,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -77,9 +71,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "df5f8a5aa09eb27f",
+  "active": "32165844f924b8cc",
   "lastOpenFiles": [
+    "Investigación de Operaciones/Apuntes/2024-03-05 Transporte.md",
     "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
     "Ingeniería de Costos/Tareas/Casa/Cuestionarios/2024-03-06 cuestionario.md",
     "Ingeniería de Costos/Tareas/Casa/Cuestionarios",
@@ -164,7 +157,6 @@
     "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md",
     "Investigación de Operaciones/Tareas/Casa",
     "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
-    "Investigación de Operaciones/Apuntes/2024-03-05 Transporte.md",
     "Comportamiento Organizacional/Apuntes/2024-03-06 Sistema de compensación.md",
     "zzz/20240219_105045.jpg",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2.md",
