@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f381262b23185f5b",
+        "id": "b089c8e76abcdd30",
         "type": "tabs",
         "children": [
           {
-            "id": "32165844f924b8cc",
+            "id": "78eac2b8cf06c559",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,6 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -50,6 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -71,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md"
+              }
             }
           }
         ]
@@ -140,8 +148,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "32165844f924b8cc",
+  "active": "78eac2b8cf06c559",
   "lastOpenFiles": [
+    "Análisis y Diseño/Apuntes/Clases/2024-03-08 UML.md",
+    "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
+    "zzz/Pasted image 20240308121814.png",
+    "zzz/Pasted image 20240308121757.png",
+    "zzz/Pasted image 20240308121358.png",
+    "zzz/Pasted image 20240308121307.png",
+    "Comportamiento Organizacional/Tareas/Casa/2024-02-06 tarea 25 valores.md",
+    "Comportamiento Organizacional/Tareas/En clase/2024-03-08 Preguntas.md",
+    "Comportamiento Organizacional/Tareas/Casa/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
+    "Comportamiento Organizacional/Tareas/Casa",
+    "Comportamiento Organizacional/Tareas/En clase",
     "Investigación de Operaciones/Apuntes/2024-03-05 Transporte.md",
     "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
     "Ingeniería de Costos/Tareas/Casa/Cuestionarios/2024-03-06 cuestionario.md",
@@ -166,11 +185,7 @@
     "Investigación de Operaciones/Tareas/En clase",
     "zzz/Pasted image 20240305185038.png",
     "zzz/WhatsApp Image 2024-03-05 at 18.06.12_0b5288bf 1.jpg",
-    "zzz/WhatsApp Image 2024-03-05 at 18.06.12_0b5288bf.jpg",
-    "zzz/WhatsApp Image 2024-03-05 at 18.04.53_4bb742ea.jpg",
     "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
-    "zzz/Pasted image 20240304224918.png",
-    "zzz/Pasted image 20240304224714.png",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-12 CPM-PERT.md",
@@ -182,14 +197,7 @@
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
     "Comportamiento Organizacional/Apuntes/2024-03-01 Sucesión.md",
     "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
-    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
-    "Investigación de Operaciones/Tareas",
-    "Comportamiento Organizacional/Apuntes/2024-01-19 Habilidades gerenciales.md",
-    "Comportamiento Organizacional/Apuntes/2024-01-24 Fuerzas del cambio.md",
-    "Comportamiento Organizacional/Apuntes/2024-01-26 Estrés laboral.md",
-    "Comportamiento Organizacional/Tareas/2024-02-06 tarea 25 valores.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
-    "Análisis y Diseño/Apuntes/Repaso",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Untitled.canvas",
     "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"
