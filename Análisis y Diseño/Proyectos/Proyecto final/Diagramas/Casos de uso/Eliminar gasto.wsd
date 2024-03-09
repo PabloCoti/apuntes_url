@@ -1,0 +1,17 @@
+@startuml Eliminar gasto
+
+start
+:Iniciar eliminación de gasto;
+:El usuario ingresa la fecha del gasto a eliminar;
+:Buscar gasto en el sistema;
+if (¿Gasto encontrado?) then (si)
+    :Confirmar eliminación del gasto;
+    :Eliminar gasto del sistema;
+    :Mostrar mensaje de confirmación de eliminación;
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar eliminación de gasto;
+stop
+
+@enduml

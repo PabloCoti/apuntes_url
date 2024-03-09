@@ -1,0 +1,17 @@
+@startuml Eliminar producto
+
+start
+:Iniciar eliminación de producto;
+:El usuario ingresa el nombre del producto a eliminar;
+:Buscar producto en el sistema;
+if (¿Producto encontrado?) then (si)
+    :Confirmar eliminación del producto;
+    :Eliminar producto del sistema;
+    :Mostrar mensaje de confirmación de eliminación;
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar eliminación de producto;
+stop
+
+@enduml

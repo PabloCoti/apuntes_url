@@ -1,0 +1,13 @@
+@startuml Editar cliente especial
+
+start
+:Iniciar edición de cliente especial;
+:Mostrar datos actuales del cliente especial;
+:El vendedor modifica el nombre del cliente;
+:El vendedor modifica el NIT del cliente;
+:Guardar cambios en el sistema;
+:Mostrar mensaje de confirmación de edición;
+:Finalizar edición de cliente especial;
+stop
+
+@enduml

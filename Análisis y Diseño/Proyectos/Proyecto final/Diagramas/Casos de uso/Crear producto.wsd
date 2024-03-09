@@ -1,0 +1,18 @@
+@startuml Crear producto
+
+start
+:Iniciar creación de producto;
+:El usuario ingresa el nombre del producto;
+:El usuario selecciona si el producto es un conjunto;
+:Validar datos ingresados;
+if (Datos válidos?) then (si)
+    :Guardar producto en el sistema;
+    :Mostrar mensaje de confirmación de creación;
+else (no)
+    :Mostrar mensaje de error;
+endif
+:Finalizar creación de producto;
+:Iniciar asignación de detalles del producto;
+stop
+
+@enduml

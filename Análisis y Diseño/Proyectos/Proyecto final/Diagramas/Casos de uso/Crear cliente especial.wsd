@@ -1,0 +1,12 @@
+@startuml crear cliente especial
+
+start
+:Iniciar creación de nuevo cliente especial;
+:El vendedor ingresa el nombre del cliente;
+:El vendedor ingresa el NIT del cliente;
+:Guardar datos del cliente especial en el sistema;
+:Mostrar mensaje de confirmación de creación;
+:Finalizar creación de cliente especial;
+stop
+
+@enduml
