@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b089c8e76abcdd30",
+        "id": "c6697c8b1a6fd1de",
         "type": "tabs",
         "children": [
           {
-            "id": "78eac2b8cf06c559",
+            "id": "962a756ccba41062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md"
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "div",
+                "query": "page-brea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,14 +148,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "78eac2b8cf06c559",
+  "active": "962a756ccba41062",
   "lastOpenFiles": [
-    "Análisis y Diseño/Apuntes/Clases/2024-03-08 UML.md",
+    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
+    "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
+    "Análisis y Diseño/Tareas/Casa/2024-03-01 Cuadro comparativo modelos de desarrollo.md",
+    "zzz/ad7330_f5cd83d9c05e465b9096abeb4f0c8217-1040975452 1.png",
+    "zzz/ad7330_f5cd83d9c05e465b9096abeb4f0c8217-1040975452.png",
+    "zzz/modelos-de-desarrollo-de-software-21-638-283503595.jpg",
+    "zzz/modelo_prototipos-1123426760.png",
+    "zzz/modelos-de-proceso-evolutivo-3-1024-2234039632.jpg",
+    "zzz/ModeloIncremental_grafica-542852384.jpg",
+    "zzz/Pasted image 20240309120714.png",
+    "zzz/Pasted image 20240309120707.png",
     "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
+    "Análisis y Diseño/Apuntes/Clases/2024-03-08 UML.md",
     "zzz/Pasted image 20240308121814.png",
     "zzz/Pasted image 20240308121757.png",
-    "zzz/Pasted image 20240308121358.png",
-    "zzz/Pasted image 20240308121307.png",
     "Comportamiento Organizacional/Tareas/Casa/2024-02-06 tarea 25 valores.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-03-08 Preguntas.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
@@ -177,14 +186,8 @@
     "Investigación de Operaciones/Tareas/Casa",
     "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
     "Comportamiento Organizacional/Apuntes/2024-03-06 Sistema de compensación.md",
-    "zzz/20240219_105045.jpg",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2.md",
-    "zzz/WhatsApp Image 2024-03-05 at 19.12.28_805e4d87.jpg",
-    "zzz/Pasted image 20240305190239.png",
-    "zzz/Pasted image 20240305190152.png",
     "Investigación de Operaciones/Tareas/En clase",
-    "zzz/Pasted image 20240305185038.png",
-    "zzz/WhatsApp Image 2024-03-05 at 18.06.12_0b5288bf 1.jpg",
     "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
@@ -194,9 +197,6 @@
     "zzz/Recording 20240228114159.webm",
     "Ingeniería de Métodos/Apuntes/Repaso",
     "Ingeniería de Métodos/Apuntes/Clase",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-01 Sucesión.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Untitled.canvas",
