@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c693bfcf480436c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -55,7 +68,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md"
+                "file": "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md"
               }
             }
           }
@@ -148,8 +161,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b7748f8b91c817f4",
+  "active": "c693bfcf480436c4",
   "lastOpenFiles": [
+    "zzz/Pasted image 20240312191033.png",
+    "zzz/Pasted image 20240312190835.png",
+    "zzz/Pasted image 20240312190826.png",
+    "Investigación de Operaciones/Apuntes/2024-01-16 Contenido del curso.md",
+    "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
     "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Ingeniería de Métodos/Tareas/En clase/2024-03-11 Análisis de mi área de trabajo.md",
@@ -168,8 +186,6 @@
     "zzz/Pasted image 20240309120707.png",
     "Análisis y Diseño/Tareas/En clase/2024-03-08 Ejercicio diagrama UML.md",
     "Análisis y Diseño/Apuntes/Clases/2024-03-08 UML.md",
-    "zzz/Pasted image 20240308121814.png",
-    "zzz/Pasted image 20240308121757.png",
     "Comportamiento Organizacional/Tareas/Casa/2024-02-06 tarea 25 valores.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-03-08 Preguntas.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-02-21 Temas relacionados con las insatisfacción laboral.md",
@@ -190,10 +206,7 @@
     "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md",
     "Investigación de Operaciones/Tareas/Casa",
     "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-06 Sistema de compensación.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2.md",
     "Investigación de Operaciones/Tareas/En clase",
-    "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "zzz/Recording 20240221110046.webm",
     "zzz/Recording 20240228114159.webm",
