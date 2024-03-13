@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6697c8b1a6fd1de",
+        "id": "c809caf404873614",
         "type": "tabs",
         "children": [
           {
-            "id": "962a756ccba41062",
+            "id": "b7748f8b91c817f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Métodos/Tareas/En clase/2024-03-11 Análisis de mi área de trabajo.md",
+                "file": "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Métodos/Tareas/En clase/2024-03-11 Análisis de mi área de trabajo.md",
+                "file": "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Métodos/Tareas/En clase/2024-03-11 Análisis de mi área de trabajo.md",
+                "file": "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Métodos/Tareas/En clase/2024-03-11 Análisis de mi área de trabajo.md"
+                "file": "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md"
               }
             }
           }
@@ -148,10 +148,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "962a756ccba41062",
+  "active": "b7748f8b91c817f4",
   "lastOpenFiles": [
-    "Etica Social/Tareas/2024-03-09 Trabajo sobre los valores sociales.md",
+    "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
+    "Sistemas Operativos/Hojas de Trabajo",
     "Ingeniería de Métodos/Tareas/En clase/2024-03-11 Análisis de mi área de trabajo.md",
+    "Etica Social/Tareas/2024-03-09 Trabajo sobre los valores sociales.md",
     "Ingeniería de Métodos/Tareas/En clase",
     "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
     "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
@@ -192,11 +194,9 @@
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2.md",
     "Investigación de Operaciones/Tareas/En clase",
     "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "zzz/Recording 20240221110046.webm",
     "zzz/Recording 20240228114159.webm",
-    "Ingeniería de Métodos/Apuntes/Repaso",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Untitled.canvas",
