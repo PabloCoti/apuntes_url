@@ -5,4 +5,4 @@
 Pablo Andrés Cotí Arredondo
 1653221
 
-1. [Repositorio](https://github.com/PabloCoti/HT3.git)
+1. [Repositorio](https://github.com/PabloCoti/HT3)
