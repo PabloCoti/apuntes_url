@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "58a19568091209da",
+    "id": "c668a37a6101e20d",
     "type": "split",
     "children": [
       {
-        "id": "c72767cb0d81cff6",
+        "id": "88928c4e40317ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "89f8a2790c253b72",
+            "id": "b0594ec3fba61c5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,23 +25,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "380d42e58c23a43e",
+    "id": "aa4e8a3f1795a58e",
     "type": "split",
     "children": [
       {
-        "id": "800f480736695333",
+        "id": "974c3822f28513ca",
         "type": "tabs",
         "children": [
           {
-            "id": "cb310300c19f6ce1",
+            "id": "095ec65ca8c6f2f0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -45,18 +50,19 @@
             }
           },
           {
-            "id": "f9e707b51f79ef87",
+            "id": "81ce16df6badf063",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "917d29ae9db2cc25",
+            "id": "53b7b20ded74794e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -67,53 +73,41 @@
             }
           },
           {
-            "id": "306e0a059b06be8a",
+            "id": "1e920a112b4e5e2a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "2da07ddf6b4f8fd0",
-    "type": "split",
-    "children": [
-      {
-        "id": "4e918348ecbbc2de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3751c22a877a087c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
               "state": {
-                "query": "Mochila",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md"
               }
             }
           },
           {
-            "id": "1a53446302eba0a9",
+            "id": "b9a3005d6521d730",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d630d8ff37283db2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b46569dd818a9c14",
+        "type": "tabs",
+        "children": [
           {
-            "id": "2719f0bc09c5b669",
+            "id": "aa9d05a4aa145e84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -121,9 +115,23 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bcc8824cc3dc971d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,67 +139,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "89f8a2790c253b72",
+  "active": "b0594ec3fba61c5c",
   "lastOpenFiles": [
-    "Comportamiento Organizacional/Apuntes/2024-03-13 Grupos.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-15 Grupos 2.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-03-15 Análisis de operación.md",
-    "Comportamiento Organizacional/Tareas/Casa/2024-03-13 Bunker - Administración de Poder del Grupo.md",
-    "Ingeniería de Métodos/Tareas/En clase/2024-03-15 Análisis de las operaciones que hago.md",
-    "Ingeniería de Métodos/Tareas/En clase/2024-03-11 Análisis de mi área de trabajo.md",
-    "Ingeniería de Métodos/Apuntes/Repaso/2024-03-04 General.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
-    "Ingeniería de Métodos/Apuntes/Clase/Untitled",
     "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-13 Saldo libro caja - Análisis de los estados financieros.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-06 Libro mayor - balance de situaciones.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 Contabilidad - Clases de cuentas y de saldos.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-05 Ecuación patrimonial - Libros contables.md",
-    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
-    "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-01-19 Análisis de sistemas.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-09 Retos oportunidades y desafíos.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-01 Sucesión.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
-    "Comportamiento Organizacional/Apuntes/2024-01-19 Habilidades gerenciales.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-08 Investigación sobre las diferentes generaciones y el impacto en el trabajo actual.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-07 Ambiente laboral.md",
-    "Comportamiento Organizacional/Apuntes/2024-01-31 ergonomía y seguridad industrial.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-06 Sistema de compensación.md",
-    "Untitled",
-    "zzz/Pasted image 20240312191033.png",
-    "zzz/Pasted image 20240312190835.png",
-    "zzz/Pasted image 20240312190826.png",
+    "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
+    "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
+    "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
+    "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
+    "Sistemas Operativos/Apuntes/2024-01-25 Conceptos.md",
+    "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
+    "Sistemas Operativos/Apuntes/2024-01-23 Proceso.md",
+    "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
+    "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Sistemas Operativos/Hojas de Trabajo",
-    "Ingeniería de Métodos/Tareas/En clase",
-    "zzz/ad7330_f5cd83d9c05e465b9096abeb4f0c8217-1040975452 1.png",
-    "zzz/ad7330_f5cd83d9c05e465b9096abeb4f0c8217-1040975452.png",
-    "zzz/modelos-de-desarrollo-de-software-21-638-283503595.jpg",
-    "zzz/modelo_prototipos-1123426760.png",
-    "zzz/modelos-de-proceso-evolutivo-3-1024-2234039632.jpg",
-    "zzz/ModeloIncremental_grafica-542852384.jpg",
-    "zzz/Pasted image 20240309120714.png",
-    "Comportamiento Organizacional/Tareas/Casa",
-    "Comportamiento Organizacional/Tareas/En clase",
-    "Ingeniería de Costos/Tareas/Casa/Cuestionarios",
-    "Ingeniería de Costos/Tareas/Casa",
-    "Investigación de Operaciones/Tareas/Casa",
+    "Sistemas Operativos/Apuntes",
+    "Sistemas Operativos",
+    "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
+    "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md",
     "Investigación de Operaciones/Tareas/En clase",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
-    "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
+    "Investigación de Operaciones/Tareas/Casa",
+    "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
+    "Investigación de Operaciones/Apuntes/2024-03-05 Transporte.md",
+    "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
+    "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
+    "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
+    "Investigación de Operaciones/Apuntes/2024-01-25 Varios modelos matemáticos.md",
+    "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
-    "Untitled.canvas",
-    "Investigación de Operaciones/2024-01-23 Mapa conceptual procesos de IO.canvas"
+    "Investigación de Operaciones/Apuntes/2024-01-24 apuntes lectura cap 1.md",
+    "Investigación de Operaciones/Apuntes/2024-01-21 apuntes lectura cap 2.md",
+    "Investigación de Operaciones/Apuntes/2024-01-18 Investigación de Operaciones.md",
+    "Investigación de Operaciones/Apuntes/2024-01-16 Contenido del curso.md",
+    "Investigación de Operaciones/Tareas",
+    "Investigación de Operaciones/Apuntes",
+    "Investigación de Operaciones",
+    "Ingeniería de Métodos/Tareas/Investigaciones/2024-02-16 Secuencia de armado de un pc de escritorio.md",
+    "Ingeniería de Métodos/Tareas/Investigaciones/2024-01-22 Investigación Therblings.md",
+    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
+    "Ingeniería de Métodos/Tareas/Investigaciones",
+    "Ingeniería de Métodos/Tareas/En clase",
+    "zzz/WhatsApp Image 2024-03-05 at 19.12.28_805e4d87.jpg",
+    "zzz/WhatsApp Image 2024-03-05 at 18.06.12_0b5288bf.jpg",
+    "zzz/WhatsApp Image 2024-03-05 at 18.06.12_0b5288bf 1.jpg",
+    "zzz/WhatsApp Image 2024-03-05 at 18.04.53_4bb742ea.jpg",
+    "zzz/WhatsApp Image 2024-02-26 at 10.23.26_53e2ba45.jpg",
+    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_4b774501.jpg",
+    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2.jpg",
+    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2 1.jpg",
+    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_9d4f5bf5.jpg",
+    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_5078cae5.jpg",
+    "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
   ]
 }
