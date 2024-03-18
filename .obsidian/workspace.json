@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88928c4e40317ff1",
+        "id": "832c104905ac274d",
         "type": "tabs",
         "children": [
           {
-            "id": "b0594ec3fba61c5c",
+            "id": "7231e9e6683d294f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md"
+                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md"
               }
             }
           },
@@ -148,8 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0594ec3fba61c5c",
+  "active": "7231e9e6683d294f",
   "lastOpenFiles": [
+    "Ingeniería de Métodos/Apuntes/Clase/2024-03-15 Análisis de operación.md",
+    "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
+    "Inteligencia Artificial/Apuntes/2024-02-07 web scraping.md",
+    "Inteligencia Artificial/Apuntes/2024-01-31 Regresión lineal.md",
     "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
     "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
     "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
@@ -178,13 +182,9 @@
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Investigación de Operaciones/Apuntes/2024-01-24 apuntes lectura cap 1.md",
     "Investigación de Operaciones/Apuntes/2024-01-21 apuntes lectura cap 2.md",
-    "Investigación de Operaciones/Apuntes/2024-01-18 Investigación de Operaciones.md",
-    "Investigación de Operaciones/Apuntes/2024-01-16 Contenido del curso.md",
     "Investigación de Operaciones/Tareas",
     "Investigación de Operaciones/Apuntes",
     "Investigación de Operaciones",
-    "Ingeniería de Métodos/Tareas/Investigaciones/2024-02-16 Secuencia de armado de un pc de escritorio.md",
-    "Ingeniería de Métodos/Tareas/Investigaciones/2024-01-22 Investigación Therblings.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Ingeniería de Métodos/Tareas/Investigaciones",
     "Ingeniería de Métodos/Tareas/En clase",

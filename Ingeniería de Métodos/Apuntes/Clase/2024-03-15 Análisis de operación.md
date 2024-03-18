@@ -20,3 +20,11 @@ Quizá el más **importante** de los nueve
 	- Utilizar mejores materiales
 	- Liberar tolerancias y apoyar la exactitud en las operaciones clave, en lugar de aplicar una serie de límites estrechos.
 	- Diseño para la fabricación y el ensamble.
+
+## Tolerancia y especificaciones
+- Calidad del producto (habilidad de satisfacer una necesidad)
+- A Aunque se analiza en propósito de operación, se debe analizar independientemente
+- Las tolerancias y especificaciones van de la mano de los costos son proporcionales
+- Estos costos tiene efecto en precios de venta
+- Si hay mucha tolerancia establecer tolerancias y especificaciones, la administración debe emprender un programa de capacitación que presente con claridad la economía de las especificaciones.
+La tolerancias se puede tomar como el +- de un porcentaje

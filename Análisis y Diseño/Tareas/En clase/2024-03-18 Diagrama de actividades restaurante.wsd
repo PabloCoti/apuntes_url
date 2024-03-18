@@ -1,0 +1,65 @@
+@startuml Restaurante
+
+|Mesero|
+start
+
+while (Generar orden)
+|Sistema|
+:Buscar producto;
+
+
+|Mesero|
+:Validar producto;
+:Seleccionar producto;
+endwhile
+
+if (Cobrar) then 
+:Cobrar Efectivo;
+else
+:Cobrar Tarjeta;
+endif
+
+|Sistema|
+:Registrar cobro;
+
+|Mesero|
+:Confirmar orden;
+:Registrar Pedido;
+
+|Sistema|
+:Informar Meseros;
+
+|Mesero|
+if (Cancelar) then (Si)
+|Mesero Jefe|
+:Cancelar;
+else (No)
+|Cocinero|
+:Listar Pedidos;
+
+|Sistema|
+:Retornar Pedidos;
+
+|Cocinero|
+:Recibir Pedido;
+:Asignar Pedido;
+
+|Sistema|
+:Informar Cocinero Auxiliar;
+
+|Auxiliar cocinero|
+:Recibir Pedido;
+:Cocinar;
+:Entregar Pedido;
+
+
+|Sistema|
+:Informar Mesero;
+
+|Mesero|
+:Recibir Pedido;
+:Entregar Pedido;
+endif
+end
+
+@enduml
