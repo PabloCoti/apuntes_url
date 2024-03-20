@@ -11,8 +11,12 @@
             "id": "b13e11d12a4ddfe3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,6 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -50,6 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -71,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md"
+              }
             }
           },
           {
@@ -142,6 +150,9 @@
   },
   "active": "b13e11d12a4ddfe3",
   "lastOpenFiles": [
+    "Comportamiento Organizacional/Apuntes/2024-03-15 Grupos 2.md",
+    "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
+    "Inteligencia Artificial/Apuntes/2024-03-20 Redes neuronales artificiales.md",
     "Etica Social/Tareas/2024-03-19 Link a podcast ética y política.md",
     "Etica Social/Tareas/2024-03-19 Guión podcast sobre ética y política.md",
     "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
@@ -170,9 +181,6 @@
     "Investigación de Operaciones/Tareas/Casa",
     "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
     "Investigación de Operaciones/Apuntes/2024-03-05 Transporte.md",
-    "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
-    "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
-    "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Investigación de Operaciones/Tareas",
     "Investigación de Operaciones/Apuntes",
