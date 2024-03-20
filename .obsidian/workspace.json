@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "832c104905ac274d",
+        "id": "2e49e368b97122e4",
         "type": "tabs",
         "children": [
           {
-            "id": "7231e9e6683d294f",
+            "id": "b13e11d12a4ddfe3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2127e4a7f6ee150",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +34,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -66,7 +50,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -88,9 +71,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,10 +140,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2127e4a7f6ee150",
+  "active": "b13e11d12a4ddfe3",
   "lastOpenFiles": [
-    "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
+    "Etica Social/Tareas/2024-03-19 Link a podcast ética y política.md",
+    "Etica Social/Tareas/2024-03-19 Guión podcast sobre ética y política.md",
     "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
+    "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-03-15 Análisis de operación.md",
     "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
     "Inteligencia Artificial/Apuntes/2024-02-07 web scraping.md",
@@ -190,8 +173,6 @@
     "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
     "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
     "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
-    "Investigación de Operaciones/Apuntes/2024-01-25 Varios modelos matemáticos.md",
-    "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Investigación de Operaciones/Tareas",
     "Investigación de Operaciones/Apuntes",
