@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2127e4a7f6ee150",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +49,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md"
+                "file": "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md"
               }
             }
           },
@@ -148,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7231e9e6683d294f",
+  "active": "a2127e4a7f6ee150",
   "lastOpenFiles": [
+    "Análisis y Diseño/Tareas/Casa/2024-03-11 Como agente de Cambio.md",
+    "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-03-15 Análisis de operación.md",
     "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
     "Inteligencia Artificial/Apuntes/2024-02-07 web scraping.md",
@@ -180,8 +193,6 @@
     "Investigación de Operaciones/Apuntes/2024-01-25 Varios modelos matemáticos.md",
     "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
     "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
-    "Investigación de Operaciones/Apuntes/2024-01-24 apuntes lectura cap 1.md",
-    "Investigación de Operaciones/Apuntes/2024-01-21 apuntes lectura cap 2.md",
     "Investigación de Operaciones/Tareas",
     "Investigación de Operaciones/Apuntes",
     "Investigación de Operaciones",
