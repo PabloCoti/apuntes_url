@@ -1,5 +1,6 @@
 @startuml Generar reporte
 
+|Sistema|
 start
 :Iniciar creación de reporte;
 if (¿El usuario selecciona un reporte entre dos fechas?) then (si)
@@ -12,6 +13,10 @@ if (¿El usuario selecciona un reporte financiero?) then (si)
 else (no)
     :Mostrar opciones de reporte de productos (productos, envíos entre sucursales, productos más comprados);
 endif
+|Servidor|
+:Cargar información para el reporte;
+
+|Sistema|
 :Generar el reporte seleccionado;
 :Mostrar el reporte en pantalla;
 :Finalizar creación de reporte;

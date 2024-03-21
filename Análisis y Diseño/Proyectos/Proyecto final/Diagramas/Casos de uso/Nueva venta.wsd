@@ -1,13 +1,22 @@
 @startuml Nueva venta
 
+|Sistema|
 start
 :Iniciar creación de nueva venta;
+|Servidor|
+:Cargar productos;
+|Sistema|
 :Mostrar pantalla de selección de productos;
 :El vendedor selecciona productos;
 if (¿El vendedor busca productos?) then (si)
+    |Servidor|
     :Buscar productos por código, talla, color o nombre;
+    |Sistema|
     :Mostrar resultados de la búsqueda en pantalla;
 else (no)
+    |Servidor|
+    :Cargar productos disponibles en la localidad;
+    |Sistema|
     :Mostrar lista de productos disponibles en la localidad;
     :El vendedor selecciona productos de la lista;
 endif
@@ -19,12 +28,17 @@ else (no)
 endif
 :El vendedor ingresa el NIT del cliente;
 :El vendedor ingresa el nombre del cliente;
+|Servidor|
+:Buscar nit en base de datos;
+|Sistema|
 if (¿El cliente es nuevo o CF?) then (si)
     :Registrar nuevo cliente en el sistema;
 else (no)
     :No registrar nuevo cliente;
 endif
+|Servidor|
 :Generar venta con los productos seleccionados y los datos del cliente;
+|Sistema|
 :Mostrar resumen de la venta en pantalla;
 :Finalizar venta;
 stop

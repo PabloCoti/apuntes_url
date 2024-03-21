@@ -1,11 +1,17 @@
 @startuml Editar cliente especial
 
+|Sistema|
 start
 :Iniciar edición de cliente especial;
+|Servidor|
+:Cargar datos del cliente especial;
+|Sistema|
 :Mostrar datos actuales del cliente especial;
 :El vendedor modifica el nombre del cliente;
 :El vendedor modifica el NIT del cliente;
+|Servidor|
 :Guardar cambios en el sistema;
+|Sistema|
 :Mostrar mensaje de confirmación de edición;
 :Finalizar edición de cliente especial;
 stop
