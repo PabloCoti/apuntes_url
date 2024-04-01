@@ -1,0 +1,18 @@
+@startuml Login
+
+actor Usuario
+participant "Interfaz de Inicio de Sesión" as UI
+participant "Sistema de Autenticación" as Auth
+
+Usuario -> UI : Ingresa credenciales
+UI -> Auth : Solicita autenticación
+Auth -> Auth : Verifica credenciales
+alt Credenciales Correctas
+    Auth -> UI : Autenticación exitosa
+    UI -> Usuario : Acceso concedido
+else Credenciales Incorrectas
+    Auth -> UI : Autenticación fallida
+    UI -> Usuario : Acceso denegado
+end
+
+@enduml

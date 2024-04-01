@@ -1,0 +1,18 @@
+@startuml Generar reporte
+
+actor Usuario
+
+participant "Interfaz" as UI
+participant "Generador de Reportes" as GR
+participant "Base de datos" as BD
+
+Usuario -> UI: Solicitar creación de reporte
+UI -> Usuario: Solicitar detalles del reporte
+Usuario -> UI: Proporcionar detalles del reporte
+UI -> GR: Generar reporte con detalles proporcionados
+GR -> BD: Consultar datos para el reporte
+BD --> GR: Devolver datos del reporte
+GR -> UI: Devolver reporte generado
+UI -> Usuario: Mostrar reporte generado
+
+@enduml

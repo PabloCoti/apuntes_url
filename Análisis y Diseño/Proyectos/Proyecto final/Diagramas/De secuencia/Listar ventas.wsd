@@ -1,0 +1,14 @@
+@startuml Listar ventas
+
+actor Usuario
+participant "Interfaz" as UI
+participant "DAO Ventas" as DAOV
+participant "Base de datos" as BD
+
+Usuario -> UI: Solicitar listar ventas
+UI -> DAOV: Solicitar listar ventas
+DAOV -> BD: Consultar ventas
+BD --> DAOV: Devolver lista de ventas
+UI -> Usuario: Mostrar lista de ventas
+
+@enduml
