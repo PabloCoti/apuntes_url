@@ -11,8 +11,12 @@
             "id": "8f80050a425d54d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -34,6 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -50,6 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -71,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md"
+              }
             }
           },
           {
@@ -122,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "div",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,6 +158,19 @@
   },
   "active": "8f80050a425d54d2",
   "lastOpenFiles": [
+    "zzz/Pasted image 20240404230750.png",
+    "zzz/Pasted image 20240404230352.png",
+    "zzz/Pasted image 20240404230227.png",
+    "zzz/Pasted image 20240404221903.png",
+    "zzz/Pasted image 20240404220451.png",
+    "zzz/Pasted image 20240404215444.png",
+    "zzz/Pasted image 20240404214352.png",
+    "zzz/Pasted image 20240404214034.png",
+    "zzz/Pasted image 20240404211613.png",
+    "zzz/Pasted image 20240404210707.png",
+    "zzz/Pasted image 20240404103104.png",
+    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
+    "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-03 Artículo 29 a costo de producción.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-20 Análisis de los estados financieros.md",
     "Análisis y Diseño/Tareas/En clase/2024-04-03 Arquitectura que se usa en el proyecto.md",
@@ -159,7 +180,6 @@
     "Ingeniería de Métodos/Apuntes/Clase/2024-03-22 Análisis de operaciones.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-03-15 Análisis de operación.md",
-    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
     "Análisis y Diseño/Apuntes/Clases/2024-03-20 Diagramas de secuencia.md",
     "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
     "Comportamiento Organizacional/Apuntes/2024-03-15 Grupos 2.md",
@@ -174,8 +194,6 @@
     "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
     "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
     "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
-    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
-    "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
@@ -188,16 +206,6 @@
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Ingeniería de Métodos/Tareas/Investigaciones",
     "Ingeniería de Métodos/Tareas/En clase",
-    "zzz/WhatsApp Image 2024-03-05 at 19.12.28_805e4d87.jpg",
-    "zzz/WhatsApp Image 2024-03-05 at 18.06.12_0b5288bf.jpg",
-    "zzz/WhatsApp Image 2024-03-05 at 18.06.12_0b5288bf 1.jpg",
-    "zzz/WhatsApp Image 2024-03-05 at 18.04.53_4bb742ea.jpg",
-    "zzz/WhatsApp Image 2024-02-26 at 10.23.26_53e2ba45.jpg",
-    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_4b774501.jpg",
-    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2.jpg",
-    "zzz/WhatsApp Image 2024-02-23 at 09.51.38_34cf63f2 1.jpg",
-    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_9d4f5bf5.jpg",
-    "zzz/WhatsApp Image 2024-02-20 at 19.19.02_5078cae5.jpg",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
   ]
 }
