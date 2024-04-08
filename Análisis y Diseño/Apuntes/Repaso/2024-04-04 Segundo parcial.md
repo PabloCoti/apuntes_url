@@ -150,7 +150,7 @@ de suposiciones clave acerca de la mayoría de proyectos de software:
 ### Agilidad
 1. La prioridad más alta es satisfacer al cliente a través de la entrega pronta y continua de software valioso.
 2. Son bienvenidos los requerimientos cambiantes, aun en una etapa avanzada del desarrollo. Los procesos ágiles dominan el cambio para provecho de la ventaja competitiva del cliente.
-3. Entregar con frecuencia software que funcione, de dos semanas a un par de meses, de preferencia 10 más pronto que se pueda.
+3. Entregar con frecuencia software que funcione, de dos semanas a un par de meses, de preferencia lo más pronto que se pueda.
 4. Las personas de negocios y los desarrolladores deben trabajar juntos, a diario y durante todo el proyecto.
 5. Hay que desarrollar los proyectos con individuos motivados. Debe darse a éstos el ambiente y el apoyo que necesiten, y confiar en que harán eI trabajo.
 6. EI método más eficiente y eficaz para transmitir información a los integrantes de un equipo de desarrollo, y entre éstos, es la conversación cara a cara.
