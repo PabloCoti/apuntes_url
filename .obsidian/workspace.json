@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3aae87778f01f8b3",
+        "id": "6ff4c39dd17e904a",
         "type": "tabs",
         "children": [
           {
-            "id": "ca0e098aee04382d",
+            "id": "742c8f192363053d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
+                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-08 Distribución de planta.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
+                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-08 Distribución de planta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
+                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-08 Distribución de planta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md"
+                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-08 Distribución de planta.md"
               }
             }
           },
@@ -156,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca0e098aee04382d",
+  "active": "aa9d05a4aa145e84",
   "lastOpenFiles": [
+    "Ingeniería de Métodos/Apuntes/Clase/2024-04-08 Distribución de planta.md",
+    "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
     "Análisis y Diseño/Apuntes/Repaso/2024-02-23 repaso.md",
     "Análisis y Diseño/Tareas/En clase/2024-04-03 Arquitectura que se usa en el proyecto.md",
     "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
-    "Análisis y Diseño/Apuntes/Repaso/2024-04-04 Segundo parcial.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-22 Analista de sistemas.md",
     "zzz/Pasted image 20240404230750.png",
     "zzz/Pasted image 20240404230352.png",
@@ -193,7 +194,6 @@
     "Inteligencia Artificial/Apuntes/2024-02-14 Clasificación con python scikyt-learn.md",
     "Inteligencia Artificial/Apuntes/2024-02-07 web scraping.md",
     "Inteligencia Artificial/Apuntes/2024-01-31 Regresión lineal.md",
-    "Sistemas Operativos/Hojas de Trabajo/2024-03-12 Hoja de trabajo 3.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
