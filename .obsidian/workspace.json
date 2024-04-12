@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56ffd76099bf9f8f",
+        "id": "20ad85d8d3b3f43c",
         "type": "tabs",
         "children": [
           {
-            "id": "bbbffa2c0a96e81d",
+            "id": "037e2dd3f5a62801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md"
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +157,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbbffa2c0a96e81d",
+  "active": "037e2dd3f5a62801",
   "lastOpenFiles": [
+    "zzz/Pasted image 20240411191425.png",
+    "zzz/Pasted image 20240411191412.png",
+    "zzz/Pasted image 20240411191138.png",
+    "zzz/Pasted image 20240411191128.png",
+    "zzz/Pasted image 20240411191105.png",
+    "zzz/Pasted image 20240411191055.png",
+    "zzz/Pasted image 20240411191032.png",
+    "zzz/Pasted image 20240411191022.png",
+    "zzz/Pasted image 20240411190951.png",
+    "zzz/Pasted image 20240411190940.png",
+    "zzz/Pasted image 20240411184932.png",
+    "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/-tabla-de-contenidos.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/-importancia-de-los-procesos-de-transformación-de-materia-prima.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
     "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
     "Untitled.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-02-06 tarea 25 valores.md",
@@ -176,24 +189,12 @@
     "Análisis y Diseño/Apuntes/Repaso/2024-02-23 repaso.md",
     "Análisis y Diseño/Tareas/En clase/2024-04-03 Arquitectura que se usa en el proyecto.md",
     "Análisis y Diseño/Apuntes/Clases/2024-01-22 Analista de sistemas.md",
-    "zzz/Pasted image 20240404230750.png",
-    "zzz/Pasted image 20240404230352.png",
-    "zzz/Pasted image 20240404230227.png",
-    "zzz/Pasted image 20240404221903.png",
-    "zzz/Pasted image 20240404220451.png",
-    "zzz/Pasted image 20240404215444.png",
-    "zzz/Pasted image 20240404214352.png",
-    "zzz/Pasted image 20240404214034.png",
-    "zzz/Pasted image 20240404211613.png",
-    "zzz/Pasted image 20240404210707.png",
     "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-03 Artículo 29 a costo de producción.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-20 Análisis de los estados financieros.md",
     "Análisis y Diseño/Apuntes/Clases/2024-04-03 Investigación en clase.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-03-22 Análisis de operaciones.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-03-15 Análisis de operación.md",
-    "Análisis y Diseño/Apuntes/Clases/2024-03-20 Diagramas de secuencia.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
