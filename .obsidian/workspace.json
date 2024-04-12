@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ff4c39dd17e904a",
+        "id": "56ffd76099bf9f8f",
         "type": "tabs",
         "children": [
           {
-            "id": "742c8f192363053d",
+            "id": "bbbffa2c0a96e81d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md"
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "742c8f192363053d",
+  "active": "bbbffa2c0a96e81d",
   "lastOpenFiles": [
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/-tabla-de-contenidos.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/-importancia-de-los-procesos-de-transformación-de-materia-prima.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
     "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
     "Untitled.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-02-06 tarea 25 valores.md",
@@ -191,9 +194,6 @@
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-03-15 Análisis de operación.md",
     "Análisis y Diseño/Apuntes/Clases/2024-03-20 Diagramas de secuencia.md",
-    "Inteligencia Artificial/Apuntes/2024-03-20 Redes neuronales artificiales.md",
-    "Etica Social/Tareas/2024-03-19 Link a podcast ética y política.md",
-    "Etica Social/Tareas/2024-03-19 Guión podcast sobre ética y política.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
