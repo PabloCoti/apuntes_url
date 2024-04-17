@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md"
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,18 +159,19 @@
   },
   "active": "037e2dd3f5a62801",
   "lastOpenFiles": [
-    "zzz/Pasted image 20240411191425.png",
-    "zzz/Pasted image 20240411191412.png",
-    "zzz/Pasted image 20240411191138.png",
-    "zzz/Pasted image 20240411191128.png",
-    "zzz/Pasted image 20240411191105.png",
-    "zzz/Pasted image 20240411191055.png",
-    "zzz/Pasted image 20240411191032.png",
-    "zzz/Pasted image 20240411191022.png",
-    "zzz/Pasted image 20240411190951.png",
-    "zzz/Pasted image 20240411190940.png",
-    "zzz/Pasted image 20240411184932.png",
+    "zzz/Pasted image 20240416184745.png",
+    "zzz/Pasted image 20240416184702.png",
+    "zzz/Pasted image 20240416184620.png",
+    "zzz/Pasted image 20240416184155.png",
+    "zzz/Pasted image 20240416184146.png",
+    "zzz/Pasted image 20240416184116.png",
+    "zzz/Pasted image 20240416184103.png",
+    "zzz/Pasted image 20240416184102.png",
+    "zzz/Pasted image 20240416183458.png",
+    "zzz/Pasted image 20240416183436.png",
+    "zzz/Pasted image 20240416183422.png",
     "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+    "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/-tabla-de-contenidos.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/-importancia-de-los-procesos-de-transformación-de-materia-prima.md",
@@ -193,7 +195,6 @@
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-20 Análisis de los estados financieros.md",
     "Análisis y Diseño/Apuntes/Clases/2024-04-03 Investigación en clase.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-03-22 Análisis de operaciones.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-02-26 dop dfp y dr.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
