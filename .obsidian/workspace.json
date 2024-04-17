@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
-                "mode": "source",
+                "file": "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
+                "file": "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
+                "file": "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md"
+                "file": "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,6 +158,8 @@
   },
   "active": "037e2dd3f5a62801",
   "lastOpenFiles": [
+    "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
+    "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
     "zzz/Pasted image 20240416184745.png",
     "zzz/Pasted image 20240416184702.png",
     "zzz/Pasted image 20240416184620.png",
@@ -169,9 +170,7 @@
     "zzz/Pasted image 20240416184102.png",
     "zzz/Pasted image 20240416183458.png",
     "zzz/Pasted image 20240416183436.png",
-    "zzz/Pasted image 20240416183422.png",
     "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
-    "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/-tabla-de-contenidos.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/-importancia-de-los-procesos-de-transformación-de-materia-prima.md",
