@@ -1,3 +1,4 @@
+# Importancia de los costos en la toma de decisiones
 ## Tabla de contenidos
 - [[#Artículo 29. Depreciación de activos fijos revaluados]]
 - [[#Importancia de los costos en la toma de decisiones]]

@@ -1,4 +1,4 @@
-# Libro mayor - balance de situaciones
+# Libro mayor
 ---
 ## Tabla de contenidos
 - [[#Libro mayor]]

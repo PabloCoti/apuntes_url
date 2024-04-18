@@ -1,4 +1,4 @@
-# Resumen Contabilidad - Clases de cuentas y de saldos
+# Contabilidad
 ---
 ## Tabla de contenidos
 ---

@@ -1,4 +1,4 @@
-# Resumen de Ecuación patrimonial y sus elementos - Libros contables
+# Ecuación patrimonial y sus elementos
 ---
 ## Tabla de contenidos
 - [[#La ecuación patrimonial y sus elementos]]
