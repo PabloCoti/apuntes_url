@@ -11,8 +11,12 @@
             "id": "bbf9009f89942a6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,6 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -50,6 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -71,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md"
+              }
             }
           },
           {
@@ -150,6 +158,7 @@
   },
   "active": "bbf9009f89942a6e",
   "lastOpenFiles": [
+    "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md",
     "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 Importancia de los procesos de transformación de la materia prima.md",
@@ -185,7 +194,6 @@
     "Comportamiento Organizacional/Apuntes/2024-03-15 Grupos 2.md",
     "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
     "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
