@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b4777bb781639e1",
+        "id": "226f5fb733642e71",
         "type": "tabs",
         "children": [
           {
-            "id": "9e43ed67fd458eab",
+            "id": "bbf9009f89942a6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +50,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -77,9 +71,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e43ed67fd458eab",
+  "active": "bbf9009f89942a6e",
   "lastOpenFiles": [
-    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md",
+    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 Importancia de los procesos de transformación de la materia prima.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-03 Importancia de los costos en la toma de decisiones.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-20 Análisis de los estados financieros.md",
