@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "29c5c7b4648e31b9",
+        "id": "cbc53375e9518eab",
         "type": "tabs",
         "children": [
           {
-            "id": "900034575b0a19dd",
+            "id": "d26466a270479670",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg"
+              }
+            }
+          },
+          {
+            "id": "7fda8490fc06d734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-24 Definición del punto de equilibrio.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bd2d29d46d3742f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-24 Definición del punto de equilibrio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-24 Definición del punto de equilibrio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md"
+                "file": "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-24 Definición del punto de equilibrio.md"
               }
             }
           },
@@ -139,7 +162,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,11 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "900034575b0a19dd",
+  "active": "7fda8490fc06d734",
   "lastOpenFiles": [
+    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-24 Definición del punto de equilibrio.md",
+    "Untitled.md",
+    "zzz/Pasted image 20240424104919.png",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg",
+    "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
     "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
     "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
-    "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
     "zzz/Pasted image 20240411190940.png",
     "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
     "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
@@ -174,7 +203,6 @@
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Ingeniería de Métodos/Apuntes/Repaso/2024-04-21 Formulario.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md",
-    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 Importancia de los procesos de transformación de la materia prima.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-03 Importancia de los costos en la toma de decisiones.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-20 Análisis de los estados financieros.md",
@@ -182,19 +210,15 @@
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-06 Libro mayor.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-03-05 Ecuación patrimonial.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 01 Contabilidad.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg",
     "Comportamiento Organizacional/Apuntes/2024-04-17 Liderazgo.md",
     "Comportamiento Organizacional/Apuntes/2024-04-03 Estructura organizacional.md",
     "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
-    "Investigación de Operaciones/Tareas/Casa/2024-02-28 Cálculos de viaje.md",
-    "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
     "zzz/Pasted image 20240416184745.png",
     "zzz/Pasted image 20240416184702.png",
     "zzz/Pasted image 20240416184620.png",
     "zzz/Pasted image 20240416184155.png",
     "zzz/Pasted image 20240416184146.png",
     "zzz/Pasted image 20240416184116.png",
-    "zzz/Pasted image 20240416184103.png",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
