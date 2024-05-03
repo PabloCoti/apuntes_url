@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ddacf63d12d183fc",
+        "id": "20ad85d8d3b3f43c",
         "type": "tabs",
         "children": [
           {
-            "id": "403ff12affb4af29",
+            "id": "729b41491528e24f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-29 Economía del movimiento.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-29 Economía del movimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +50,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-29 Economía del movimiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Métodos/Apuntes/Clase/2024-04-29 Economía del movimiento.md"
+                "file": "Investigación de Operaciones/Apuntes/2024-05-02 CPM PERT.md"
               }
             }
           },
@@ -130,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gerente",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,45 +150,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "403ff12affb4af29",
+  "active": "aa9d05a4aa145e84",
   "lastOpenFiles": [
-    "Ingeniería de Métodos/Apuntes/Clase/2024-04-08 Distribución de planta.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-04-29 Economía del movimiento.md",
-    "Inteligencia Artificial/Apuntes/2024-04-29 Clase uso de IA.md",
-    "Análisis y Diseño/Apuntes/Exposiciones/2024-04-26.md",
-    "Comportamiento Organizacional/Tareas/En clase/2024-04-26 recursos para gerente.md",
-    "Comportamiento Organizacional/Apuntes/2024-04-26 Gerencia Integral.md",
-    "Comportamiento Organizacional/Apuntes/2024-01-19 Habilidades gerenciales.md",
-    "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
-    "zzz/Sin título 1.jpg",
     "zzz/Sin título.jpg",
-    "Ingeniería de Métodos/Apuntes/Repaso/2024-04-21 Análisis de Operaciones.md",
-    "Ingeniería de Costos/Tareas/Casa/Investigaciones/2024-01-18 Investigación 1.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-24 Definición del punto de equilibrio.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg",
-    "Untitled.md",
+    "zzz/Sin título 1.jpg",
     "zzz/Pasted image 20240424104919.png",
-    "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
-    "Investigación de Operaciones/Apuntes/2024-03-12 Resolución de examen.md",
-    "Investigación de Operaciones/Apuntes/2024-03-19 Análisis de sensibilidad.md",
-    "zzz/Pasted image 20240411190940.png",
-    "Investigación de Operaciones/Apuntes/2024-02-27 Programación lineal.md",
-    "Investigación de Operaciones/Apuntes/2024-02-20 Ejercicio modelo linea de espera.md",
-    "Investigación de Operaciones/Apuntes/2024-02-06 Modelo de línea de espera de múltiples canales.md",
-    "Investigación de Operaciones/Apuntes/2024-01-30 Ejercicios del libro.md",
-    "Investigación de Operaciones/Apuntes/2024-01-25 Varios modelos matemáticos.md",
-    "Investigación de Operaciones/Apuntes/2024-01-24 apuntes lectura cap 1.md",
-    "Investigación de Operaciones/Apuntes/2024-01-21 apuntes lectura cap 2.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2.md",
-    "zzz/20240219_104608.jpg",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-18 Importancia de los costos en la toma de decisiones.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 Importancia de los procesos de transformación de la materia prima.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-03 Importancia de los costos en la toma de decisiones.md",
     "zzz/Pasted image 20240416184745.png",
     "zzz/Pasted image 20240416184702.png",
     "zzz/Pasted image 20240416184620.png",
     "zzz/Pasted image 20240416184155.png",
+    "zzz/Pasted image 20240416184146.png",
+    "zzz/Pasted image 20240416184116.png",
+    "zzz/Pasted image 20240416184103.png",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 01 Contabilidad.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg",
+    "Comportamiento Organizacional/Tareas/En clase/2024-04-26 recursos para gerente.md",
+    "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
+    "Comportamiento Organizacional/Apuntes/2024-04-26 Gerencia Integral.md",
+    "Comportamiento Organizacional/Apuntes/2024-04-17 Liderazgo.md",
+    "Análisis y Diseño/Apuntes/Exposiciones/2024-04-26.md",
+    "Investigación de Operaciones/Apuntes/2024-05-02 CPM PERT.md",
+    "Investigación de Operaciones/Apuntes/2024-04-30 Ruta crítica.md",
+    "Comportamiento Organizacional/Apuntes/2024-04-05 Comunicación.md",
+    "Comportamiento Organizacional/Apuntes/2024-04-03 Estructura organizacional.md",
+    "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
+    "Comportamiento Organizacional/Apuntes/2024-03-15 Grupos 2.md",
+    "Comportamiento Organizacional/Apuntes/2024-03-13 Grupos.md",
+    "Comportamiento Organizacional/Apuntes/2024-03-06 Sistema de compensación.md",
+    "Comportamiento Organizacional/Apuntes/2024-03-01 Sucesión.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
+    "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
+    "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/-tabla-de-contenidos.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/-importancia-de-los-procesos-de-transformación-de-materia-prima.md",
+    "Untitled.md",
+    "Comportamiento Organizacional/Tareas/Casa/2024-02-06 tarea 25 valores.md",
+    "Comportamiento Organizacional/Apuntes/2024-01-17 Bienvenida.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
@@ -204,6 +197,7 @@
     "Investigación de Operaciones/Tareas",
     "Investigación de Operaciones/Apuntes",
     "Investigación de Operaciones",
+    "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Ingeniería de Métodos/Tareas/Investigaciones",
     "Ingeniería de Métodos/Tareas/En clase",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
