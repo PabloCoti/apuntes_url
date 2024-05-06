@@ -1,0 +1,32 @@
+@startuml editar gasto
+
+start
+
+:Iniciar edición de gasto;
+:El usuario ingresa la fecha del gasto a editar;
+:Buscar gasto en el sistema;
+if (¿Gasto encontrado?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Gasto no encontrado";
+  stop
+endif
+
+:Sistema: Mostrar datos actuales del gasto;
+:El usuario modifica la fecha del gasto;
+:El usuario modifica el total del gasto;
+:El usuario modifica la descripción del gasto;
+:El usuario modifica la categoría del gasto;
+:Validar datos modificados;
+
+if (Datos válidos?) then (sí)
+  :Guardar cambios en el sistema;
+  :Mostrar mensaje de confirmación de edición;
+else (no)
+  :Mostrar mensaje de error;
+endif
+
+:Sistema: Finalizar edición de gasto;
+stop
+
+@enduml

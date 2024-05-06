@@ -1,0 +1,22 @@
+@startuml editar cliente
+
+start
+
+:Iniciar edición de cliente especial;
+:Sistema: Cargar datos del cliente especial;
+if (¿Datos del cliente especial cargados correctamente?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Error al cargar los datos del cliente especial";
+  stop
+endif
+
+:Sistema: Mostrar datos actuales del cliente especial;
+:El vendedor modifica el nombre del cliente;
+:El vendedor modifica el NIT del cliente;
+:Sistema: Guardar cambios en el sistema;
+:Sistema: Mostrar mensaje de confirmación de edición;
+:Sistema: Finalizar edición de cliente especial;
+stop
+
+@enduml

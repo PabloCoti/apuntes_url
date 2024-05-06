@@ -1,0 +1,31 @@
+@startuml crear sucursal
+
+start
+
+if (¿El usuario ingresó el nombre de la sucursal?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar el nombre de la sucursal";
+  stop
+endif
+
+if (¿El usuario ingresó el teléfono de la sucursal?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar el teléfono de la sucursal";
+  stop
+endif
+
+if (¿El usuario ingresó la dirección de la sucursal?) then (sí)
+  :Continuar;
+else (no)
+  :Mostrar mensaje de error: "Debe ingresar la dirección de la sucursal";
+  stop
+endif
+
+:Sistema: Guardar datos de la sucursal en el sistema;
+:Sistema: Mostrar mensaje de confirmación de creación;
+:Sistema: Finalizar creación de sucursal;
+stop
+
+@enduml
