@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20ad85d8d3b3f43c",
+        "id": "c457fe7beac6bfee",
         "type": "tabs",
         "children": [
           {
-            "id": "8993a662fc6a2309",
+            "id": "4a49e0edcaa6db93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-05-03 Endomarketing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "729b41491528e24f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-01-17 Bienvenida.md",
+                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-05-03 Endomarketing.md",
+                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -67,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-05-03 Endomarketing.md",
+                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comportamiento Organizacional/Apuntes/2024-05-03 Endomarketing.md"
+                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md"
               }
             }
           },
@@ -142,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Liderazgo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8993a662fc6a2309",
+  "active": "4a49e0edcaa6db93",
   "lastOpenFiles": [
+    "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-05-02 Importancia de la contabilidad en el año 2024.md",
+    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-05-09 Importancia de costos en 2024.md",
     "Comportamiento Organizacional/Apuntes/2024-01-17 Bienvenida.md",
     "Comportamiento Organizacional/Apuntes/2024-05-03 Endomarketing.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-05-03 Antropometría y diseño.md",
@@ -184,7 +175,6 @@
     "zzz/Untitled 4.jpg",
     "zzz/Untitled 3.jpg",
     "zzz/Untitled 2.jpg",
-    "zzz/Untitled 10.jpg",
     "Investigación de Operaciones/Apuntes/2024-04-30 Ruta crítica.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 01 Contabilidad.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-04-26 recursos para gerente.md",
@@ -204,9 +194,6 @@
     "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
     "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/-tabla-de-contenidos.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/-importancia-de-los-procesos-de-transformación-de-materia-prima.md",
-    "Untitled.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
