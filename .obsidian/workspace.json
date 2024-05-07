@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c457fe7beac6bfee",
+        "id": "8d93e3764292e1c6",
         "type": "tabs",
         "children": [
           {
-            "id": "4a49e0edcaa6db93",
+            "id": "8794e8992e7fd1b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
+                "file": "Análisis y Diseño/Tareas/Casa/2024-05-06 Tabla patrones de diseño.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b6191207baaa8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +68,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -98,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a49e0edcaa6db93",
+  "active": "7b6191207baaa8bc",
   "lastOpenFiles": [
+    "Análisis y Diseño/Tareas/Casa/2024-05-06 Tabla patrones de diseño.md",
+    "Untitled.md",
     "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-05-02 Importancia de la contabilidad en el año 2024.md",
@@ -192,8 +206,6 @@
     "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
     "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
     "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
-    "Investigación de Operaciones/Apuntes/2024-04-11 Flujo Máximo.md",
-    "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-04-10 32 - 36.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
