@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d93e3764292e1c6",
+        "id": "08d5e56fbbe105bd",
         "type": "tabs",
         "children": [
           {
-            "id": "8794e8992e7fd1b4",
+            "id": "4b9ea234b625519e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis y Diseño/Tareas/Casa/2024-05-06 Tabla patrones de diseño.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b6191207baaa8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -68,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md"
               }
             }
           },
@@ -155,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b6191207baaa8bc",
+  "active": "4b9ea234b625519e",
   "lastOpenFiles": [
-    "Análisis y Diseño/Tareas/Casa/2024-05-06 Tabla patrones de diseño.md",
+    "zzz/Pasted image 20240507190209.png",
+    "zzz/Pasted image 20240507190005.png",
+    "zzz/Pasted image 20240507185845.png",
+    "zzz/Pasted image 20240507185615.png",
+    "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
+    "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
+    "zzz/Pasted image 20240507184745.png",
+    "zzz/Pasted image 20240507184655.png",
+    "zzz/Pasted image 20240507184638.png",
+    "zzz/Pasted image 20240507184612.png",
+    "Investigación de Operaciones/Apuntes/Clase/2024-01-16 Contenido del curso.md",
+    "Investigación de Operaciones/Apuntes/Clase/2024-01-21 apuntes lectura cap 2.md",
+    "Investigación de Operaciones/Apuntes/Untitled.md",
+    "Investigación de Operaciones/Apuntes/Ejercicios",
+    "Investigación de Operaciones/Apuntes/Clase",
     "Untitled.md",
+    "Análisis y Diseño/Tareas/Casa/2024-05-06 Tabla patrones de diseño.md",
     "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 00 Lista de Temas.jpeg",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-05-02 Importancia de la contabilidad en el año 2024.md",
@@ -179,17 +182,10 @@
     "Comportamiento Organizacional/Apuntes/2024-01-17 Bienvenida.md",
     "Comportamiento Organizacional/Apuntes/2024-05-03 Endomarketing.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-05-03 Antropometría y diseño.md",
-    "Investigación de Operaciones/Apuntes/2024-05-02 CPM PERT.md",
+    "Investigación de Operaciones/Apuntes/Clase/2024-05-02 CPM PERT.md",
     "zzz/Untitled.jpg",
     "zzz/Untitled 9.jpg",
-    "zzz/Untitled 8.jpg",
-    "zzz/Untitled 7.jpg",
-    "zzz/Untitled 6.jpg",
-    "zzz/Untitled 5.jpg",
-    "zzz/Untitled 4.jpg",
-    "zzz/Untitled 3.jpg",
-    "zzz/Untitled 2.jpg",
-    "Investigación de Operaciones/Apuntes/2024-04-30 Ruta crítica.md",
+    "Investigación de Operaciones/Apuntes/Clase/2024-04-30 Ruta crítica.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 01 Contabilidad.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-04-26 recursos para gerente.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
@@ -200,24 +196,16 @@
     "Comportamiento Organizacional/Apuntes/2024-04-03 Estructura organizacional.md",
     "Comportamiento Organizacional/Apuntes/2024-03-20 Grupos 3.md",
     "Comportamiento Organizacional/Apuntes/2024-03-15 Grupos 2.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-13 Grupos.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-06 Sistema de compensación.md",
-    "Comportamiento Organizacional/Apuntes/2024-03-01 Sucesión.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-28 Participación del personal.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-21 Satisfacción laboral.md",
-    "Comportamiento Organizacional/Apuntes/2024-02-12 Síntesis guía de inclusión laboral de personas con discapacidad para empresas.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
     "Investigación de Operaciones/Tareas/En clase",
     "Investigación de Operaciones/Tareas/Casa",
-    "Investigación de Operaciones/Apuntes/2024-01-23 Mapa conceptual procesos de IO.canvas",
+    "Investigación de Operaciones/Apuntes/Clase/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Investigación de Operaciones/Tareas",
     "Investigación de Operaciones/Apuntes",
     "Investigación de Operaciones",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
-    "Ingeniería de Métodos/Tareas/Investigaciones",
-    "Ingeniería de Métodos/Tareas/En clase",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
   ]
 }
