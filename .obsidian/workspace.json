@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08d5e56fbbe105bd",
+        "id": "1d1bdeea952419df",
         "type": "tabs",
         "children": [
           {
-            "id": "4b9ea234b625519e",
+            "id": "8dd90646f411a693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
+                "file": "Comportamiento Organizacional/Apuntes/2024-05-08 Organización.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
+                "file": "Comportamiento Organizacional/Apuntes/2024-05-08 Organización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
+                "file": "Comportamiento Organizacional/Apuntes/2024-05-08 Organización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md"
+                "file": "Comportamiento Organizacional/Apuntes/2024-05-08 Organización.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b9ea234b625519e",
+  "active": "8dd90646f411a693",
   "lastOpenFiles": [
+    "Comportamiento Organizacional/Apuntes/2024-05-08 Organización.md",
+    "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
     "zzz/Pasted image 20240507190209.png",
     "zzz/Pasted image 20240507190005.png",
     "zzz/Pasted image 20240507185845.png",
     "zzz/Pasted image 20240507185615.png",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
-    "Investigación de Operaciones/Tareas/En clase/2024-05-07 Ejercicio 11 y 12 del libro.md",
     "zzz/Pasted image 20240507184745.png",
     "zzz/Pasted image 20240507184655.png",
     "zzz/Pasted image 20240507184638.png",
@@ -184,7 +184,6 @@
     "Ingeniería de Métodos/Apuntes/Clase/2024-05-03 Antropometría y diseño.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-05-02 CPM PERT.md",
     "zzz/Untitled.jpg",
-    "zzz/Untitled 9.jpg",
     "Investigación de Operaciones/Apuntes/Clase/2024-04-30 Ruta crítica.md",
     "Ingeniería de Costos/Tareas/Casa/Resumenes/2024-02-21 01 Contabilidad.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-04-26 recursos para gerente.md",
