@@ -8,31 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "172fc621495f5918",
+            "id": "2aa57ade00637872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis y Diseño/Apuntes/Exposiciones/2024-05-15 Arquitectura Cliente Servidor.md",
+                "file": "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "042e761b5f54bf92",
+            "id": "4f03d8e49ab3e358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26129989fc2371a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "172fc621495f5918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -68,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
+                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md"
+                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md"
               }
             }
           },
@@ -155,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +193,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "042e761b5f54bf92",
+  "active": "172fc621495f5918",
   "lastOpenFiles": [
+    "zzz/Pasted image 20240516190859.png",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 22 pág 603 o 633.md",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
+    "zzz/Pasted image 20240516190618.png",
+    "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
+    "zzz/Pasted image 20240516184814.png",
+    "zzz/Pasted image 20240516184639.png",
+    "zzz/Pasted image 20240516184327.png",
+    "zzz/Pasted image 20240516184319.png",
+    "zzz/Pasted image 20240516182703.png",
+    "zzz/Pasted image 20240516182643.png",
+    "zzz/Pasted image 20240516182633.png",
+    "zzz/Pasted image 20240516181948.png",
+    "zzz/Pasted image 20240516181938.png",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-07 Ejercicio 11 y 12 del libro.md",
+    "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
+    "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
+    "Análisis y Diseño/Apuntes/Exposiciones/2024-05-15 Arquitectura Cliente Servidor.md",
+    "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
     "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
@@ -178,37 +223,17 @@
     "Sistemas Operativos/Apuntes/2024-01-25 Conceptos.md",
     "Sistemas Operativos/Apuntes/2024-01-23 Proceso.md",
     "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
-    "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-05-15 Estructura P2P.md",
-    "Análisis y Diseño/Apuntes/Exposiciones/2024-05-15 Arquitectura Cliente Servidor.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-04-26.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-05-15.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
-    "zzz/Pasted image 20240514185548.png",
-    "zzz/Pasted image 20240514185535.png",
-    "zzz/Pasted image 20240514185526.png",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-07 Ejercicio 11 y 12 del libro.md",
-    "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
     "Investigación de Operaciones/Tareas/En clase/PERT",
-    "zzz/Pasted image 20240514183800.png",
-    "zzz/Pasted image 20240514183607.png",
-    "zzz/Pasted image 20240514183331.png",
-    "zzz/Pasted image 20240514183329.png",
-    "zzz/Pasted image 20240514183141.png",
     "Ingeniería de Métodos/Apuntes/Clase/2024-05-13.md",
     "Comportamiento Organizacional/Apuntes/2024-05-08 Organización.md",
-    "zzz/Pasted image 20240507190209.png",
-    "zzz/Pasted image 20240507190005.png",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-01-16 Contenido del curso.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-01-21 apuntes lectura cap 2.md",
-    "Investigación de Operaciones/Apuntes/Untitled.md",
     "Investigación de Operaciones/Apuntes/Ejercicios",
     "Investigación de Operaciones/Apuntes/Clase",
-    "Untitled.md",
-    "Análisis y Diseño/Tareas/Casa/2024-05-06 Tabla patrones de diseño.md",
-    "Etica Social/Tareas/2024-05-05 Derechos de la niñez.md",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",

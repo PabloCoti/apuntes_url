@@ -95,3 +95,17 @@ $$ Y_i >= 0 $$
 $$
 i = a, b, c, d, e
 $$
+## USO EN WINQSB
+CPM PERT
+CRASH TIME
+CARSH COST
+
+![[Pasted image 20240516181251.png]]
+![[Pasted image 20240516181831.png]]![[Pasted image 20240516181839.png]]
+
+### Averiguar dentro costo de hacerlo en n días
+![[Pasted image 20240516181929.png]]
+
+![[Pasted image 20240516181938.png]]
+![[Pasted image 20240516181948.png]]
+
