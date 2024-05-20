@@ -1,0 +1,8 @@
+# Empoderamiento en mi área
+## Definición personal
+Yo dentro de mi área de trabajo tengo que ser una persona capaz de tomar las decisiones necesarias para poder completar las tareas dentro de mi trabajo. Soy una persona que cumple con los objetivos que se propone a pesar de los sacrificios que tome, estoy dispuesto a hacer sacrificios para lograr las metas que tengo y hago lo posible por dar lo mejor de mí en todo momento para alcanzarlas.
+## Valores para implementación de empowerment en mi ámbito laboral profesional
+- Responsabilidad: Los colaboradores deben ser responsables con el desarrollo de sus tareas para que el flujo de entregas en el trabajo no se vea interrumpido ya que se buscan entregas constantes y de alta calidad.
+- Compromiso: El colaborador debe ser consciente de las tareas que tiene que desarrollar dentro de su trabajo y debe estar comprometido a desarrollarlas y finalizarlas dentro de su horario laboral.
+- Objetividad: El colaborador debe ser objetivo al momento de tomar decisiones que estén bajo su puesto y tomar responsabilidad de las consecuencias de estas decisiones sean buenas o malas, también debe ser consciente de cómo afectará esto al equipo.
+- Empatía: El colaborador debe entender que está trabajando con un equipo de personas con el mismo objetivo dentro de la empresa, este debe ser empático con estos otros colaboradores para no generar discordia dentro del área de trabajo.

@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f789d98855a49191",
+        "id": "45548c5b273acc56",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa57ade00637872",
+            "id": "566a1d852804223d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
+                "file": "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura de microservicios.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f03d8e49ab3e358",
+            "id": "4ac7c176da765757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e26129989fc2371a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "172fc621495f5918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
+                "file": "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura orientada a eventos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +51,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
+                "file": "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura orientada a eventos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +68,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
+                "file": "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura orientada a eventos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md"
+                "file": "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura orientada a eventos.md"
               }
             }
           },
@@ -179,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,14 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172fc621495f5918",
+  "active": "4ac7c176da765757",
   "lastOpenFiles": [
+    "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura de microservicios.md",
+    "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura orientada a eventos.md",
+    "Comportamiento Organizacional/Tareas/En clase/2024-05-17 Empoderamiento en mi área.md",
+    "Comportamiento Organizacional/Apuntes/2024-05-17 Empowerment.md",
+    "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
     "zzz/Pasted image 20240516190859.png",
     "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 22 pág 603 o 633.md",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
     "zzz/Pasted image 20240516190618.png",
-    "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
     "zzz/Pasted image 20240516184814.png",
     "zzz/Pasted image 20240516184639.png",
     "zzz/Pasted image 20240516184327.png",
@@ -209,7 +188,6 @@
     "zzz/Pasted image 20240516182643.png",
     "zzz/Pasted image 20240516182633.png",
     "zzz/Pasted image 20240516181948.png",
-    "zzz/Pasted image 20240516181938.png",
     "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-07 Ejercicio 11 y 12 del libro.md",
     "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
     "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
@@ -229,9 +207,6 @@
     "Investigación de Operaciones/Tareas/En clase/PERT",
     "Ingeniería de Métodos/Apuntes/Clase/2024-05-13.md",
     "Comportamiento Organizacional/Apuntes/2024-05-08 Organización.md",
-    "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-01-16 Contenido del curso.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-01-21 apuntes lectura cap 2.md",
     "Investigación de Operaciones/Apuntes/Ejercicios",
     "Investigación de Operaciones/Apuntes/Clase",
     "Sistemas Operativos/Hojas de Trabajo",
