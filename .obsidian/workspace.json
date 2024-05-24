@@ -11,8 +11,12 @@
             "id": "32673764f9d7a728",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,6 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -50,6 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -71,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md"
+              }
             }
           },
           {
@@ -149,6 +157,7 @@
   },
   "active": "32673764f9d7a728",
   "lastOpenFiles": [
+    "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-05-22 Laboratorio.md",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
@@ -185,7 +194,6 @@
     "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
     "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
     "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
-    "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
     "Investigación de Operaciones/Tareas/En clase/PERT",
     "Investigación de Operaciones/Apuntes/Ejercicios",
     "Investigación de Operaciones/Apuntes/Clase",
