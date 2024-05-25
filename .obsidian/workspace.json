@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d4f532e65c9aeb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -68,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
+                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md"
+                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md"
               }
             }
           },
@@ -169,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f532e65c9aeb96",
+  "active": "32673764f9d7a728",
   "lastOpenFiles": [
     "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
