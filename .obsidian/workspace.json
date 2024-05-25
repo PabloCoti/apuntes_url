@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md"
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md"
               }
             }
           },
@@ -158,9 +158,24 @@
   },
   "active": "32673764f9d7a728",
   "lastOpenFiles": [
+    "zzz/Pasted image 20240524235953.png",
+    "zzz/Pasted image 20240524235927.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Material de golf.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
+    "zzz/Pasted image 20240524235849.png",
+    "zzz/Pasted image 20240524235730.png",
+    "zzz/Pasted image 20240524235721.png",
+    "zzz/Pasted image 20240524235719.png",
+    "zzz/Pasted image 20240524235534.png",
+    "zzz/Pasted image 20240524235526.png",
+    "zzz/Pasted image 20240524235441.png",
+    "zzz/Pasted image 20240524235433.png",
+    "zzz/Pasted image 20240524235224.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Enunciados",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal",
+    "Investigación de Operaciones/Apuntes/Repaso",
     "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
-    "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
     "Ingeniería de Métodos/Apuntes/Clase/2024-05-13 Traumas Acumulativos.md",
     "Ingeniería de Métodos/Apuntes/Clase/Untitled.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-05-22 Laboratorio.md",
@@ -178,23 +193,11 @@
     "Comportamiento Organizacional/Apuntes/2024-05-17 Empowerment.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
     "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
-    "zzz/Pasted image 20240516190859.png",
     "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 22 pág 603 o 633.md",
-    "zzz/Pasted image 20240516190618.png",
-    "zzz/Pasted image 20240516184814.png",
-    "zzz/Pasted image 20240516184639.png",
-    "zzz/Pasted image 20240516184327.png",
-    "zzz/Pasted image 20240516184319.png",
-    "zzz/Pasted image 20240516182703.png",
-    "zzz/Pasted image 20240516182643.png",
-    "zzz/Pasted image 20240516182633.png",
-    "zzz/Pasted image 20240516181948.png",
     "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-07 Ejercicio 11 y 12 del libro.md",
     "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
     "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-05-15 Arquitectura Cliente Servidor.md",
-    "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
-    "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
     "Investigación de Operaciones/Tareas/En clase/PERT",
     "Investigación de Operaciones/Apuntes/Ejercicios",
     "Investigación de Operaciones/Apuntes/Clase",
@@ -202,9 +205,6 @@
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
     "Investigación de Operaciones/Tareas/En clase",
-    "Investigación de Operaciones/Tareas/Casa",
-    "Investigación de Operaciones/Tareas",
-    "Investigación de Operaciones/Apuntes",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
   ]
