@@ -37,3 +37,6 @@ La información se puede seleccionar en dimensión como
 - Tono
 - Modulación
 
+## Compatibilidad espacial
+Se refiere a arreglos físicos de controles y pantallas.
+

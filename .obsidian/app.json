@@ -1,6 +1,6 @@
 {
   "pdfExportSettings": {
-    "pageSize": "Tabloid",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100

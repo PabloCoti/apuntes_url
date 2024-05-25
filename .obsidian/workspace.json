@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4f532e65c9aeb96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
+                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +68,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
+                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/2024-05-23 PL.md"
+                "file": "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32673764f9d7a728",
+  "active": "d4f532e65c9aeb96",
   "lastOpenFiles": [
+    "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
+    "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
     "Investigación de Operaciones/Apuntes/2024-05-23 PL.md",
+    "Ingeniería de Métodos/Apuntes/Clase/2024-05-13 Traumas Acumulativos.md",
+    "Ingeniería de Métodos/Apuntes/Clase/Untitled.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-05-22 Laboratorio.md",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
@@ -167,7 +185,6 @@
     "Investigación de Operaciones/Apuntes/Clase/2024-01-24 apuntes lectura cap 1.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Sistemas Operativos/Hojas de Trabajo/2024-05-21 Hoja de trabajo 5.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-05-13 Traumas Acumulativos.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura de microservicios.md",
     "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura orientada a eventos.md",
     "Comportamiento Organizacional/Tareas/En clase/2024-05-17 Empoderamiento en mi área.md",
@@ -191,9 +208,6 @@
     "Análisis y Diseño/Apuntes/Exposiciones/2024-05-15 Arquitectura Cliente Servidor.md",
     "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
-    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
-    "Sistemas Operativos/Apuntes/2024-02-13 hoja de trabajo.md",
-    "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
     "Investigación de Operaciones/Tareas/En clase/PERT",
     "Investigación de Operaciones/Apuntes/Ejercicios",
     "Investigación de Operaciones/Apuntes/Clase",
