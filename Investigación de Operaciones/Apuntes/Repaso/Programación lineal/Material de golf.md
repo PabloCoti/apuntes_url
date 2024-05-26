@@ -49,15 +49,16 @@ Tiempo holgura de **inspección y empaque** = 0
 ![[Pasted image 20240524235224.png]]
 a) 
 $$\text{Max z} = 10x_e + 18x_l$$
-![[Pasted image 20240524235433.png]]![[Pasted image 20240524235441.png]]
+![[Pasted image 20240525120103.png]]
+![[Pasted image 20240525120115.png]]
 
 b) 
 $$\text{Max z} = 20x_e + 9x_l$$
-![[Pasted image 20240524235526.png]]
-![[Pasted image 20240524235534.png]]
+![[Pasted image 20240525120130.png]]
+![[Pasted image 20240525120142.png]]
 
 c)
 $$ \frac{1}{2}x_e + \frac{5}{6} <= 750 $$
-![[Pasted image 20240524235721.png]]
-![[Pasted image 20240524235730.png]]
 
+![[Pasted image 20240525120210.png]]
+![[Pasted image 20240525120218.png]]
