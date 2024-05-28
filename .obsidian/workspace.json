@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md"
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md"
               }
             }
           },
@@ -151,12 +151,20 @@
   },
   "active": "d550dae2cbad3a35",
   "lastOpenFiles": [
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
+    "zzz/Pasted image 20240527190445.png",
+    "zzz/Pasted image 20240527190438.png",
+    "zzz/Pasted image 20240527190428.png",
+    "zzz/Pasted image 20240527190419.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Trasbordo.md",
+    "zzz/Distro Transbordo.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Distro Transbordo.canvas",
+    "zzz/Pasted image 20240527184613.png",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Café.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Cervezas.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Fideicomiso.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Material de golf.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Combustible.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Red CPM.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Cervezas 1.md",
@@ -172,19 +180,12 @@
     "zzz/Pasted image 20240526214612.png",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Ruta más corta.md",
     "zzz/Pasted image 20240526205211.png",
-    "zzz/Pasted image 20240526205204.png",
-    "zzz/Pasted image 20240526205153.png",
-    "zzz/Pasted image 20240526205145.png",
-    "zzz/Pasted image 20240526203839.png",
-    "zzz/Pasted image 20240526203831.png",
-    "zzz/Pasted image 20240526203820.png",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Ruta más corta 1.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Combustible.canvas",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas",
     "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
     "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Trasbordo.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-03-05 Transporte.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Seguro de riesgos.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Salsas mexicanas.md",
@@ -192,7 +193,6 @@
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal",
     "Investigación de Operaciones/Apuntes/Repaso",
     "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
-    "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Investigación de Operaciones/Tareas/En clase/PERT",
     "Investigación de Operaciones/Apuntes/Ejercicios",
