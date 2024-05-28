@@ -19,8 +19,8 @@ $$ \frac{1}{10}x_e + \frac{1}{4}x_l <= 135 $$
 $$x_e >= 0$$
 $$x_l >=0$$
 **Solución**
-![[Pasted image 20240524234502.png]]
-![[Pasted image 20240524234542.png]]
+![[Pasted image 20240526173503.png]]
+![[Pasted image 20240526173511.png]]
 
 a)
 $$x_e = 82.5$$

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51f3ef0e21deead6",
+        "id": "dcaf0e21a7c6d9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "32673764f9d7a728",
+            "id": "d550dae2cbad3a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Café.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Café.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Café.md",
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Café.md"
+                "file": "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md"
               }
             }
           },
@@ -89,16 +89,9 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "aea0657f4b5cab05",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -129,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oferta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,54 +149,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32673764f9d7a728",
+  "active": "d550dae2cbad3a35",
   "lastOpenFiles": [
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Salsas mexicanas.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Material de golf.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Fideicomiso.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Café.md",
-    "zzz/Pasted image 20240526001909.png",
-    "zzz/Pasted image 20240526001900.png",
-    "zzz/WhatsApp Image 2024-05-24 at 21.23.49.jpeg",
-    "zzz/Pasted image 20240525233607.png",
-    "zzz/Pasted image 20240525233538.png",
-    "zzz/WhatsApp Image 2024-05-24 at 21.23.46.jpeg",
-    "zzz/Pasted image 20240525225950.png",
-    "zzz/Pasted image 20240525225948.png",
-    "zzz/Pasted image 20240525225938.png",
-    "zzz/Pasted image 20240525224551.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Cervezas.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Fideicomiso.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Material de golf.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Combustible.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Red CPM.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Cervezas 1.md",
+    "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
+    "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-07 Ejercicio 11 y 12 del libro.md",
+    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
+    "zzz/Pasted image 20240526222830.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Red CPM.canvas",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Red CPM.md",
+    "zzz/Untitled 17.jpg",
+    "zzz/Pasted image 20240526214612.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Ruta más corta.md",
+    "zzz/Pasted image 20240526205211.png",
+    "zzz/Pasted image 20240526205204.png",
+    "zzz/Pasted image 20240526205153.png",
+    "zzz/Pasted image 20240526205145.png",
+    "zzz/Pasted image 20240526203839.png",
+    "zzz/Pasted image 20240526203831.png",
+    "zzz/Pasted image 20240526203820.png",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Ruta más corta 1.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Combustible.canvas",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas",
+    "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
+    "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Trasbordo.md",
+    "Investigación de Operaciones/Apuntes/Clase/2024-03-05 Transporte.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Seguro de riesgos.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Salsas mexicanas.md",
     "Investigación de Operaciones/Apuntes/Repaso/Enunciados",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal",
     "Investigación de Operaciones/Apuntes/Repaso",
     "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
     "Comportamiento Organizacional/Tareas/Casa/2024-04-24 Análi reultado de encuenta de peronalidad.md",
-    "Ingeniería de Métodos/Apuntes/Clase/2024-05-13 Traumas Acumulativos.md",
-    "Ingeniería de Métodos/Apuntes/Clase/Untitled.md",
-    "Comportamiento Organizacional/Tareas/En clase/2024-05-22 Laboratorio.md",
-    "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
-    "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-07 PERT.md",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-01-30 Ejercicios del libro.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-01-25 Varios modelos matemáticos.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-01-24 apuntes lectura cap 1.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-01-23 Mapa conceptual procesos de IO.canvas",
-    "Sistemas Operativos/Hojas de Trabajo/2024-05-21 Hoja de trabajo 5.md",
-    "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura de microservicios.md",
-    "Análisis y Diseño/Apuntes/Exposiciones/2024-05-17 Arquitectura orientada a eventos.md",
-    "Comportamiento Organizacional/Tareas/En clase/2024-05-17 Empoderamiento en mi área.md",
-    "Comportamiento Organizacional/Apuntes/2024-05-17 Empowerment.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-05-14 Mezcla de costos con PERT.md",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-14 Ejercicio 20 pág 603 o 633.md",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 22 pág 603 o 633.md",
-    "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-07 Ejercicio 11 y 12 del libro.md",
     "Investigación de Operaciones/Tareas/En clase/PERT",
     "Investigación de Operaciones/Apuntes/Ejercicios",
     "Investigación de Operaciones/Apuntes/Clase",
     "Sistemas Operativos/Hojas de Trabajo",
     "Sistemas Operativos/Apuntes",
     "Sistemas Operativos",
-    "Investigación de Operaciones/Tareas/En clase",
     "Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
     "Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas"
   ]
