@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dcaf0e21a7c6d9b7",
+        "id": "26188d27a1268c1d",
         "type": "tabs",
         "children": [
           {
-            "id": "d550dae2cbad3a35",
+            "id": "6a39eb2dbfd9327f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
-                "mode": "source",
+                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
+                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
+                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md"
+                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md"
               }
             }
           },
@@ -148,10 +148,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d550dae2cbad3a35",
+  "active": "6a39eb2dbfd9327f",
   "lastOpenFiles": [
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
+    "Sistemas Operativos/Apuntes/2024-01-25 Conceptos.md",
+    "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
+    "Sistemas Operativos/Apuntes/2024-01-23 Proceso.md",
+    "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
+    "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
+    "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
+    "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
+    "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
+    "Sistemas Operativos/Hojas de Trabajo/2024-02-13 hoja de trabajo.md",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
+    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Red CPM.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Distro Transbordo.md",
     "zzz/Pasted image 20240527190445.png",
@@ -177,21 +187,12 @@
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Red CPM.md",
     "zzz/Untitled 17.jpg",
     "zzz/Pasted image 20240526214612.png",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Ruta más corta.md",
     "zzz/Pasted image 20240526205211.png",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Ruta más corta 1.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Motocicletas.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Combustible.canvas",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas",
-    "Investigación de Operaciones/Tareas/En clase/2024-03-05 ejercicio 18 métodos libro.md",
-    "Investigación de Operaciones/Tareas/En clase/2024-04-16 pág 464.md",
-    "Investigación de Operaciones/Apuntes/Clase/2024-03-05 Transporte.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Seguro de riesgos.md",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Salsas mexicanas.md",
     "Investigación de Operaciones/Apuntes/Repaso/Enunciados",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal",
     "Investigación de Operaciones/Apuntes/Repaso",
-    "Comportamiento Organizacional/Tareas/En clase/2024-05-24 Laboratorio 2.md",
     "Investigación de Operaciones/Apuntes/Clase/2024-01-23 Mapa conceptual procesos de IO.canvas",
     "Investigación de Operaciones/Tareas/En clase/PERT",
     "Investigación de Operaciones/Apuntes/Ejercicios",
