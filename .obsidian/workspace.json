@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
-                "mode": "preview",
+                "file": "Sistemas Operativos/FINAL.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
+                "file": "Sistemas Operativos/FINAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -55,7 +55,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
+                "file": "Sistemas Operativos/FINAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md"
+                "file": "Sistemas Operativos/FINAL.md"
               }
             }
           },
@@ -150,15 +150,16 @@
   },
   "active": "6a39eb2dbfd9327f",
   "lastOpenFiles": [
-    "Sistemas Operativos/Apuntes/2024-01-25 Conceptos.md",
+    "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
+    "Sistemas Operativos/FINAL.md",
+    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
+    "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
     "Sistemas Operativos/Apuntes/2024-02-01 Tipos de software.md",
+    "Sistemas Operativos/Apuntes/2024-01-25 Conceptos.md",
     "Sistemas Operativos/Apuntes/2024-01-23 Proceso.md",
     "Sistemas Operativos/Apuntes/2024-01-18 Sistema operativo.md",
     "Sistemas Operativos/Apuntes/2024-01-16 Contenidos del curso.md",
     "Sistemas Operativos/Apuntes/2024-03-07 Multihilamiento.md",
-    "Sistemas Operativos/Apuntes/2024-02-27 Hilos.md",
-    "Sistemas Operativos/Apuntes/2024-02-15 procesador.md",
-    "Sistemas Operativos/Apuntes/2024-02-06 Git bash.md",
     "Sistemas Operativos/Hojas de Trabajo/2024-02-13 hoja de trabajo.md",
     "Investigación de Operaciones/Apuntes/Ejercicios/2024-05-21 CPM PERT COMBINACIÓN.md",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Agricultura.md",
@@ -184,7 +185,6 @@
     "Investigación de Operaciones/Tareas/En clase/PERT/2024-05-16 Ejercicio 21 y 22 pág 603 o 633.md",
     "zzz/Pasted image 20240526222830.png",
     "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Red CPM.canvas",
-    "Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Red CPM.md",
     "zzz/Untitled 17.jpg",
     "zzz/Pasted image 20240526214612.png",
     "zzz/Pasted image 20240526205211.png",
