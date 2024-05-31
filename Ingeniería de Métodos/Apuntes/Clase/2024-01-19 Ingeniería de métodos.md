@@ -1,6 +1,6 @@
 # Ingeniería de métodos
 ---
-Es la técnica que somete cada operación de un adeterminada parte del trabajo a un delicado análisis en orden a eliminar toda operación innecesaria y en orden a encontrar el método más rápido para realizar toda operación necesaria.
+Es la técnica que somete cada operación de una determinada parte del trabajo a un delicado análisis en orden a eliminar toda operación innecesaria y en orden a encontrar el método más rápido para realizar toda operación necesaria.
 
 Un ejemplo de la optimización son los palitos de bambú en burger king, no solo son eficientes en el precio y son amigables con el ambiente.
 
