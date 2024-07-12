@@ -11,8 +11,12 @@
             "id": "ed73b30fb937bec3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md"
+              }
             }
           }
         ]
@@ -139,8 +147,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2b0babf766e066ae",
+  "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
+    "Ingeniería Económica/Apuntes/2024-07-08 micro y macro economía.md",
+    "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md",
+    "Ingeniería Económica/Tareas/En clase",
+    "Ingeniería Económica/Tareas",
+    "Ingeniería Económica/Apuntes",
+    "Ingeniería Económica",
     "ab",
     "00 Attachments"
   ]
