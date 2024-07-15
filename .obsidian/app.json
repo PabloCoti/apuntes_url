@@ -11,5 +11,6 @@
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "showInlineTitle": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "promptDelete": false
 }
