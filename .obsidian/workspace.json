@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 713.5
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -150,7 +150,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ed73b30fb937bec3",
+  "active": "2b0babf766e066ae",
   "lastOpenFiles": [
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían la práctica.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían el proceso.canvas",
