@@ -13,18 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
-                "viewState": {
-                  "x": -1059,
-                  "y": -398.5,
-                  "zoom": 0
-                }
-=======
                 "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
                 "mode": "source",
                 "source": false
->>>>>>> 1f2b6f7 (vault backup: 2024-07-15 21:36:11)
               }
             }
           }
@@ -94,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
-=======
                 "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
->>>>>>> 1f2b6f7 (vault backup: 2024-07-15 21:36:11)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
-=======
                 "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
->>>>>>> 1f2b6f7 (vault backup: 2024-07-15 21:36:11)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas"
-=======
                 "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md"
->>>>>>> 1f2b6f7 (vault backup: 2024-07-15 21:36:11)
               }
             }
           }
@@ -170,15 +149,11 @@
   },
   "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
-=======
     "Redes y Telecomunicaciones/Apuntes",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
     "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
     "Redes y Telecomunicaciones",
->>>>>>> 1f2b6f7 (vault backup: 2024-07-15 21:36:11)
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían la práctica.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían el proceso.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software",
@@ -193,7 +168,6 @@
     "Ingeniería Económica/Apuntes/2024-07-08 micro y macro economía.md",
     "Ingeniería Económica/Tareas/En clase",
     "Ingeniería Económica/Tareas",
-    "Ingeniería Económica/Apuntes",
-    "Ingeniería Económica"
+    "Ingeniería Económica/Apuntes"
   ]
 }
