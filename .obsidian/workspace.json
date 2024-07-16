@@ -11,11 +11,14 @@
             "id": "ed73b30fb937bec3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
-                "mode": "source",
-                "source": false
+                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
+                "viewState": {
+                  "x": -30,
+                  "y": -83.5,
+                  "zoom": -1.085753149119511
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
+                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
+                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md"
+                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas"
               }
             }
           }
@@ -149,13 +152,16 @@
   },
   "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
-    "Redes y Telecomunicaciones/Apuntes",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
-    "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
-    "Redes y Telecomunicaciones",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían la práctica.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían el proceso.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios del modelado del diseño.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de modelado.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
+    "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
+    "Redes y Telecomunicaciones/Apuntes",
+    "Redes y Telecomunicaciones",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software",
     "Ingeniería Económica/Tareas/Investigación/2024-07-14 Países con competencia perfecta.md",
     "Ingeniería de Software/Tareas/Lecturas/2024-07-16 Cap 4 del libro Ingeniería de Software (Pressman).md",

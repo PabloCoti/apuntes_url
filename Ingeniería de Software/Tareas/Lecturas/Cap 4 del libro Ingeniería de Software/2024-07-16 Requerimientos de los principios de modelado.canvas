@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"47c2559b1a7b483b","type":"text","text":"# Requerimientos de los principios de modelación","x":-260,"y":-315,"width":480,"height":90},
+		{"id":"5b147c4a87c32557","type":"text","text":"## 3. Debe representarse el comportamiento del software (como consecuencia de eventos externos)","x":320,"y":-468,"width":443,"height":153},
+		{"id":"6caddf68912504a5","type":"text","text":"## 4. Los modelos que representen información, función y comportamiento deben dividirse de manera que revelen los detalles en forma estratificada (o jerárquica)","x":320,"y":-225,"width":443,"height":153},
+		{"id":"247494864e746a2e","type":"text","text":"Definir las entradas y salidas que se desean para el usuario.","x":860,"y":-468,"width":260,"height":153},
+		{"id":"822add6d87361c38","type":"text","text":"Dividir el modelo por partes","x":860,"y":-225,"width":260,"height":153},
+		{"id":"5dfb0ed5dc3cf849","type":"text","text":"Definir las funciones finales brindan apoyo","x":-1180,"y":-228,"width":260,"height":160},
+		{"id":"28f37f0844b0bee0","type":"text","text":"## 2. Deben definirse las funciones que realizará el software","x":-873,"y":-228,"width":443,"height":160},
+		{"id":"8f533a45a8dd7864","type":"text","text":"Dominar la información que se va a maneja.","x":-1180,"y":-480,"width":260,"height":165},
+		{"id":"81e0d11dc039d24e","type":"text","text":"## 1. Debe representarse y entenderse el dominio de información de un problema","x":-873,"y":-480,"width":443,"height":165},
+		{"id":"3c0b254db1d296f0","type":"text","text":"## 5. El trabajo de análisis debe avanzar de la información esencial hacia la implementación en detalle","x":-241,"y":-72,"width":443,"height":153},
+		{"id":"5cabc7b7067cc60f","type":"text","text":"Analizar el modelo desde la perspectiva del usuario","x":-149,"y":160,"width":260,"height":153}
+	],
+	"edges":[
+		{"id":"cc81aabc271a30d3","fromNode":"47c2559b1a7b483b","fromSide":"left","toNode":"81e0d11dc039d24e","toSide":"right"},
+		{"id":"7dd6727c95619eb4","fromNode":"47c2559b1a7b483b","fromSide":"left","toNode":"28f37f0844b0bee0","toSide":"right"},
+		{"id":"1722f8aceb1a8ea2","fromNode":"47c2559b1a7b483b","fromSide":"right","toNode":"5b147c4a87c32557","toSide":"left"},
+		{"id":"dcd4accfc0012a89","fromNode":"47c2559b1a7b483b","fromSide":"right","toNode":"6caddf68912504a5","toSide":"left"},
+		{"id":"79f317f0da3c5a9a","fromNode":"81e0d11dc039d24e","fromSide":"left","toNode":"8f533a45a8dd7864","toSide":"right"},
+		{"id":"d9bf35034dc5c8bb","fromNode":"28f37f0844b0bee0","fromSide":"left","toNode":"5dfb0ed5dc3cf849","toSide":"right"},
+		{"id":"37dd6738ef9764e4","fromNode":"3c0b254db1d296f0","fromSide":"bottom","toNode":"5cabc7b7067cc60f","toSide":"top"},
+		{"id":"9c6e29cdb6978b4c","fromNode":"47c2559b1a7b483b","fromSide":"bottom","toNode":"3c0b254db1d296f0","toSide":"top"},
+		{"id":"970bc842173ec518","fromNode":"5b147c4a87c32557","fromSide":"right","toNode":"247494864e746a2e","toSide":"left"},
+		{"id":"1fcdf26cace98d51","fromNode":"6caddf68912504a5","fromSide":"right","toNode":"822add6d87361c38","toSide":"left"}
+	]
+}
