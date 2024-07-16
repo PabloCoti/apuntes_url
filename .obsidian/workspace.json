@@ -11,14 +11,11 @@
             "id": "ed73b30fb937bec3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
-                "viewState": {
-                  "x": -30,
-                  "y": -83.5,
-                  "zoom": -1.085753149119511
-                }
+                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 713.5
+    "width": 283.5
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
+                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
+                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas"
+                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md"
               }
             }
           }
@@ -150,15 +147,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2b0babf766e066ae",
+  "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Cómo funciona el correo electrónico.md",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
+    "00 Attachments/Correo-electronico-protocolo-1000x264-1.jpg",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían la práctica.canvas",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones",
+    "Redes y Telecomunicaciones/Tareas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían el proceso.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios del modelado del diseño.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
     "Redes y Telecomunicaciones/Apuntes/2024-07-15 Tipos de redes de computadoras.md",
     "Redes y Telecomunicaciones/Apuntes",
     "Redes y Telecomunicaciones",
@@ -172,8 +174,6 @@
     "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md",
     "Ingeniería Económica/Tareas/Investigación",
     "Ingeniería Económica/Apuntes/2024-07-08 micro y macro economía.md",
-    "Ingeniería Económica/Tareas/En clase",
-    "Ingeniería Económica/Tareas",
-    "Ingeniería Económica/Apuntes"
+    "Ingeniería Económica/Tareas/En clase"
   ]
 }
