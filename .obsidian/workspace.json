@@ -15,8 +15,8 @@
               "state": {
                 "file": "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
                 "viewState": {
-                  "x": 1052.8001403808594,
-                  "y": -430.7000274658203,
+                  "x": 1116.8001403808594,
+                  "y": -366.7000274658203,
                   "zoom": 0
                 }
               }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "939afa6e1f82bddd",
