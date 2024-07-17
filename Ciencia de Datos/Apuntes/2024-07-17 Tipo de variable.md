@@ -42,3 +42,4 @@ Otras son
 - Explicativa - Respuesta
 - Exógena - Endógena
 - Exposición - Resultado
+lkjlkjlñ
