@@ -38,3 +38,7 @@ Sirven para hacer comparaciones entre grupos de mejor manera. Puedo ver el tama�
 ### Independiente y Dependiente
 Son como las variables de la fórmula de la recta, una es la que es afectada a consecuencia del cambio de una variable y la otra no.
 
+Otras son
+- Explicativa - Respuesta
+- Exógena - Endógena
+- Exposición - Resultado
