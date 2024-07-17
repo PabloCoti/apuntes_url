@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
+                "file": "Ciencia de Datos/Apuntes/2024-07-17 Tipo de variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
+                "file": "Ciencia de Datos/Apuntes/2024-07-17 Tipo de variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
+                "file": "Ciencia de Datos/Apuntes/2024-07-17 Tipo de variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md"
+                "file": "Ciencia de Datos/Apuntes/2024-07-17 Tipo de variable.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Cómo funciona el correo electrónico.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
+    "Ciencia de Datos/Apuntes/2024-07-17 Tipo de variable.md",
+    "Ciencia de Datos/Apuntes/Untitled",
+    "Ciencia de Datos/Apuntes",
+    "Ciencia de Datos",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Cómo funciona el correo electrónico.md",
     "00 Attachments/Correo-electronico-protocolo-1000x264-1.jpg",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían la práctica.canvas",
     "Redes y Telecomunicaciones/Tareas/Investigaciones",
@@ -169,11 +173,8 @@
     "Ingeniería de Software/Tareas/Lecturas/2024-07-16 Cap 4 del libro Ingeniería de Software (Pressman).md",
     "Ingeniería de Software/Tareas/Lecturas",
     "Ingeniería de Software/Tareas",
-    "Ingeniería de Software",
     "Ingeniería Económica/Apuntes/2024-07-12 oferta y demanda.md",
     "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md",
-    "Ingeniería Económica/Tareas/Investigación",
-    "Ingeniería Económica/Apuntes/2024-07-08 micro y macro economía.md",
-    "Ingeniería Económica/Tareas/En clase"
+    "Ingeniería Económica/Apuntes/2024-07-08 micro y macro economía.md"
   ]
 }
