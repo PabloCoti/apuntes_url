@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Lectura/2024-07-17 Capas de aplicación.md",
+                "file": "Ingeniería de Software/Tareas/Exposiciones/Monday CRM/2024-07-18 Monday CRM.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 258.5
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Lectura/2024-07-17 Capas de aplicación.md",
+                "file": "Ingeniería de Software/Tareas/Exposiciones/Monday CRM/2024-07-18 Monday CRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Lectura/2024-07-17 Capas de aplicación.md",
+                "file": "Ingeniería de Software/Tareas/Exposiciones/Monday CRM/2024-07-18 Monday CRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Lectura/2024-07-17 Capas de aplicación.md"
+                "file": "Ingeniería de Software/Tareas/Exposiciones/Monday CRM/2024-07-18 Monday CRM.md"
               }
             }
           }
@@ -147,8 +147,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ed73b30fb937bec3",
+  "active": "2b0babf766e066ae",
   "lastOpenFiles": [
+    "Ingeniería de Software/Tareas/Exposiciones/Monday CRM",
+    "Ingeniería de Software/Tareas/Exposiciones",
+    "Ingeniería de Software/Tareas/En clase/Investigaciones/Untitled",
+    "Ingeniería de Software/Tareas/Evaluación sobre proyecto/2024-07-18 Evaluar sobre proyecto.md",
+    "Ingeniería de Software/Tareas/Exposiciones/Monday CRM/2024-07-18 Monday CRM.md",
+    "Ingeniería de Software/Tareas/En clase/Investigaciones",
+    "Ingeniería de Software/Tareas/Evaluación sobre proyecto",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían el proceso.canvas",
+    "Ingeniería de Software/Tareas/En clase",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
     "Redes y Telecomunicaciones/Apuntes/Lectura/2024-07-17 Capas de aplicación.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-19 Qué es Gnutella.md",
     "Redes y Telecomunicaciones/Apuntes/Lectura",
@@ -164,17 +174,10 @@
     "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Cómo funciona el correo electrónico.md",
     "00 Attachments/Correo-electronico-protocolo-1000x264-1.jpg",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían la práctica.canvas",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones",
-    "Redes y Telecomunicaciones/Tareas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían el proceso.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios del modelado del diseño.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
-    "Redes y Telecomunicaciones/Apuntes",
-    "Redes y Telecomunicaciones",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software",
     "Ingeniería Económica/Tareas/Investigación/2024-07-14 Países con competencia perfecta.md",
     "Ingeniería de Software/Tareas/Lecturas/2024-07-16 Cap 4 del libro Ingeniería de Software (Pressman).md",
     "Ingeniería Económica/Apuntes/2024-07-12 oferta y demanda.md",
