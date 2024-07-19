@@ -68,16 +68,4 @@ De la familia A saca la familia B.
 ### Dispositivos finales
 ### Dispositivos intermedios
 
-## Capas de aplicación y modelo OSI
-La capa de aplicación es la capa *siete* y es la capa por la cual interactúa el usuario. Los protocolos de capa de aplicación se usa para intercambiar datos entre los programas de host de origen y destino.
-
-
-### Protocolo de capas de aplicación
-En la granja de servidores se tiene
-- Servidor Domain Name Service (DNS): *Asigna dominios*
-- Servidor Telnet
-- Servidor e-mail
-- Servior DHCP
-- Servidor Web
-- Servidor FTP
 
