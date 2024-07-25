@@ -1,5 +1,5 @@
 {
-  "app:toggle-left-sidebar": [
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
         "Alt",
@@ -8,7 +8,7 @@
       "key": "B"
     }
   ],
-  "app:toggle-right-sidebar": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/2024-07-17 Capa de transporte.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/2024-07-17 Capa de transporte.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/2024-07-17 Capa de transporte.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/2024-07-17 Capa de transporte.md"
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md"
               }
             }
           }
@@ -149,40 +150,42 @@
   },
   "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
-    "Redes y Telecomunicaciones/Apuntes/Clase/2024-07-17 Capa de aplicación.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/2024-07-17 Capa de transporte.md",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Cómo funciona el correo electrónico.md",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-17 Qué es un filezilla.md",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/2024-07-19 Qué es Gnutella.md",
-    "Redes y Telecomunicaciones/Apuntes/Lectura/2024-07-17 Capas de aplicación.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/2024-07-15 Tipos de redes de computadoras.md",
-    "Ingeniería de Software/Tareas/Exposiciones/Monday CRM/2024-07-18 Monday CRM.md",
-    "Ingeniería de Software/Tareas/Exposiciones/Monday CRM",
+    "Redes y Telecomunicaciones/Apuntes/Clase/04 Los servicios y la función de la capa de transporte.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
+    "Ingeniería Económica/Tareas/Investigación/01 Países con competencia perfecta.md",
+    "Ingeniería Económica/Tareas/En clase/01 comentario sobre la clase.md",
+    "Ingeniería Económica/Apuntes/02 oferta y demanda.md",
+    "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían la práctica.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían el proceso.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios del modelado del diseño.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de planeación.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de modelado.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de comunicación.canvas",
+    "Ingeniería de Software/Tareas/Exposiciones/01 Monday CRM/Monday CRM.md",
+    "Ingeniería de Software/Tareas/01 Evaluación sobre proyecto/Evaluar sobre proyecto.md",
+    "Ciencia de Datos/Apuntes/01 Tipo de variable.md",
+    "00 Attachments/Correo-electronico-protocolo-1000x264-1.jpg",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/03 Qué es Gnutella.md",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/02 Qué es un filezilla.md",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/01 Cómo funciona el correo electrónico.md",
+    "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/03 Capa de transporte.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/02 Capa de aplicación.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/01 Tipos de redes de computadoras.md",
+    "Ingeniería de Software/Tareas/Exposiciones/01 Monday CRM",
     "Ingeniería de Software/Tareas/Exposiciones",
     "Ingeniería de Software/Tareas/En clase/Investigaciones/Untitled",
-    "Ingeniería de Software/Tareas/Evaluación sobre proyecto/2024-07-18 Evaluar sobre proyecto.md",
     "Ingeniería de Software/Tareas/En clase/Investigaciones",
-    "Ingeniería de Software/Tareas/Evaluación sobre proyecto",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían el proceso.canvas",
+    "Ingeniería de Software/Tareas/01 Evaluación sobre proyecto",
     "Ingeniería de Software/Tareas/En clase",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de planeación.canvas",
     "Redes y Telecomunicaciones/Apuntes/Lectura",
     "Redes y Telecomunicaciones/Apuntes/Clase",
     "Redes y Telecomunicaciones/Apuntes/Untitled.md",
     "Redes y Telecomunicaciones/Apuntes/2024-07-17.md",
-    "Ciencia de Datos/Apuntes/2024-07-17 Tipo de variable.md",
     "Ciencia de Datos/Apuntes/Untitled",
     "Ciencia de Datos/Apuntes",
-    "00 Attachments/Correo-electronico-protocolo-1000x264-1.jpg",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios que guían la práctica.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Requerimientos de los principios de modelado.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios del modelado del diseño.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de modelado.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/2024-07-16 Principios de comunicación.canvas",
-    "Ingeniería Económica/Tareas/Investigación/2024-07-14 Países con competencia perfecta.md",
-    "Ingeniería de Software/Tareas/Lecturas/2024-07-16 Cap 4 del libro Ingeniería de Software (Pressman).md",
-    "Ingeniería Económica/Apuntes/2024-07-12 oferta y demanda.md",
-    "Ingeniería Económica/Tareas/En clase/2024-07-08 comentario sobre la clase.md",
-    "Ingeniería Económica/Apuntes/2024-07-08 micro y macro economía.md"
+    "Ingeniería de Software/Tareas/Lecturas/2024-07-16 Cap 4 del libro Ingeniería de Software (Pressman).md"
   ]
 }
