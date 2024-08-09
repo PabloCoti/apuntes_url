@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md"
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md"
               }
             }
           }
@@ -150,6 +151,7 @@
   "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
     "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Ingeniería de Software/Tareas/Exposiciones/01 Monday CRM/Monday CRM.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/04 Los servicios y la función de la capa de transporte.md",
