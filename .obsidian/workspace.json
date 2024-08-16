@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md"
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
+    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
     "00 Attachments/Pasted image 20240816122039.png",
     "Redes y Telecomunicaciones/Apuntes/Clase/image-1.png",
     "Redes y Telecomunicaciones/Apuntes/Clase/image.png",
@@ -159,12 +162,10 @@
     "Redes y Telecomunicaciones/Apuntes/Clase/03 Capa de transporte.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/04 Los servicios y la función de la capa de transporte.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Ingeniería Económica/Apuntes/06 Razones Financieras.md",
     "Ingeniería Económica/Apuntes/05 Método horizontal y vertical.md",
     "Ingeniería Económica/Apuntes/04 Recesión económica.md",
     "Ingeniería Económica/Apuntes/03  Inflación y deflación factores económicos que inciden en la empresa.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
     "Ingeniería de Software/Tareas/Exposiciones/01 Monday CRM/Monday CRM.md",
     "Ingeniería Económica/Tareas/Investigación/01 Países con competencia perfecta.md",
     "Ingeniería Económica/Tareas/En clase/01 comentario sobre la clase.md",
