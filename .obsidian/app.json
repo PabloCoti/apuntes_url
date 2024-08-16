@@ -12,5 +12,7 @@
   "showLineNumber": false,
   "showInlineTitle": false,
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "28cc5e310cf5297d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +147,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "28cc5e310cf5297d",
+  "active": "ed73b30fb937bec3",
   "lastOpenFiles": [
+    "00 Attachments/Pasted image 20240816122039.png",
+    "Redes y Telecomunicaciones/Apuntes/Clase/image-1.png",
+    "Redes y Telecomunicaciones/Apuntes/Clase/image.png",
+    "00 Attachments/Pasted image 20240816121437.png",
+    "00 Attachments/Pasted image 20240816121416.png",
     "Redes y Telecomunicaciones/Apuntes/Clase/01 Tipos de redes de computadoras.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/02 Capa de aplicación.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/03 Capa de transporte.md",
