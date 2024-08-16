@@ -30,3 +30,16 @@ Ping con ip determinada
 Ver configuración del router
 `do show run`
 
+
+Seguridad de puerto:
+
+line console 0 
+password "1234"
+login -- para confirmar
+
+line vty 0 4
+password "universidad"
+login
+
+enable secret "1234"
+
