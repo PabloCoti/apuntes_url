@@ -1,25 +1,29 @@
 # Documentación de estructura de red
-## Configuración del router
-Asumiendo que los dispositivos de la red solo utilizarían la red de 2.4 GHz solo se procederá a hacer la configuración de la red en esta frecuencia
 
+**Integrantes**
+- Pablo Andrés Cotí Arredondo 1653221
+- María Luisa Cos Alvarez 1567519
+- Diego José Abdo Estrada 1625021
+## Configuración del router
+Se va a hacer la configuración de un router cisco modelo número EA2700. Asumiendo que los dispositivos de la red solo utilizarían la red de 2.4 GHz solo se procederá a hacer la configuración de la red en esta frecuencia.
+![](../../../00%20Attachments/EA2700-Router-Linksys-Techniservice.jpg)
 ### Primer paso 
 Se procede a localizar la IP que utiliza el router para poder acceder a su configuración, esto se hace por medio del chequeo del Default Gateway del router, esto se puede hacer por medio del comando `ipconfig` en windows o `ifconfig` en linux.
 ![](../../../00%20Attachments/Pasted%20image%2020240826215937.png)
 
-Una vez dentro del punto de acceso se va a tener una interfaz algo así donde se tendrá que insertar el usuario y contraseña indicados en la parte posterior del router, en el caso de routers des-configurados, de lo contrario se tiene que consultar con el ISP para tener acceso a la configuración del router.
-![](../../../00%20Attachments/Pasted%20image%2020240826215559.png)
+Una vez dentro del punto de acceso se va a tener una interfaz algo así donde se tendrá que insertar el usuario y contraseña indicados en la parte posterior del router, en el caso de routers des-configurados, de lo contrario se tiene que consultar con el ISP para tener acceso a la configuración del router. Normalmente el usuario y contraseña en un router nuevo es `admin`
+![](../../../00%20Attachments/Pasted%20image%2020240827101027.png)
 
 ### Configuración de SSID
 Una vez ingresado a la interfaz de configuración del router, se puede proceder a la interfaz de "wireless" dónde se procede a configurar el SSID. En este caso el SSID asignado al router es "LDP".
-![](../../../00%20Attachments/Pasted%20image%2020240826220531.png)
 
 ### Configuración del cifrado
 Debido a las características del router, se hará uso de el cifrado WPA2-PSK. El secret asignado a este router es `hiou808n`
-![](../../../00%20Attachments/Pasted%20image%2020240826222342.png)
+![](../../../00%20Attachments/Pasted%20image%2020240827101309.png)
 
 ### Configuración de contraseña
 Dentro de la interfaz de configuración del router se ingresa en el apartado de administración y se busca la sección de contraseña del router. La contraseña asignada al router es `.,2608\rtf2.\`.
-![](../../../00%20Attachments/Pasted%20image%2020240826222225.png)
+![](../../../00%20Attachments/Pasted%20image%2020240827103255.png)
 
 ### Configuraciones adicionales
 Dentro de la configuración de ip del router a este se le asignará la primera ip utilizable siguiendo la siguiente
@@ -31,7 +35,10 @@ Tomando en cuenta de que va a ser una red con 14 hosts utilizables se tiene la s
 | 192.168.1.0 | 192.168.1.15 | 192.168.1.1           | 192.168.1.14         | 255.255.255.240 | 28       |
 
 Con base a esta configuración de red se hace la asignación de la IP y máscara de red.
-![](../../../00%20Attachments/Pasted%20image%2020240826224233.png)
+![](../../../00%20Attachments/Pasted%20image%2020240827101738.png)
+
+### Configuración de firewall de windows para que las computadoras hagan ping
+![](../../../00%20Attachments/Pasted%20image%2020240827104638.png)
 
 ## Configuración de servidor de base de datos
 Debido a la contexto actual del proyecto se va hacer uso de una laptop como servidor para que los otros usuarios puedan acceder a esta para el manejo de la base de datos.
@@ -44,3 +51,27 @@ Dentro de la configuración de windows de la computadora se ingresa a la secció
 En este caso se le asignará la última IP utilizable.
 ![](../../../00%20Attachments/Pasted%20image%2020240826224946.png)
 
+### Segundo paso - configuración de MYSQL
+En este caso se hará el uso de un servidor con MYSQL con una base de datos que contenga la tabla "students".
+![](../../../00%20Attachments/Untitled%202.jpg)
+![](../../../00%20Attachments/Untitled%203.jpg)
+
+Para permitr el acceso a los hosts dentro de la red al servidor de mysql se procede a dar permiso a estos usuarios por medio de `bind-address` en la configuración de mysql por medio de estos comando y también dando privilegios dentro del servidor de mysql.
+![](../../../00%20Attachments/Untitled%204.jpg)
+![](../../../00%20Attachments/Untitled%205.jpg)
+Se crea un nuevo usuario que va a ser el que tiene los permisos de ingresar a la base de datos
+![](../../../00%20Attachments/Untitled%206.jpg)
+### Tercer paso - configuración del portforwarding
+Para permitir el acceso a la base de datos de mysql se necesita hacer portforwarding. Se procederá a crear una regla en el firewall que abra el puerto 3306 (puerto por defecto de mysql).
+#### Pasos para abrir el puerto en el firewall
+![](../../../00%20Attachments/Pasted%20image%2020240827110209.png)
+![](../../../00%20Attachments/Pasted%20image%2020240827110217.png)
+![](../../../00%20Attachments/Pasted%20image%2020240827110236.png)
+![](../../../00%20Attachments/Pasted%20image%2020240827110259.png)
+![](../../../00%20Attachments/Pasted%20image%2020240827110340.png)
+
+Una vez habiendo abierto el puerto dentro del firewall del servidor, se procede a agregar el portforwarding dentro de la configuración del router.
+![](../../../00%20Attachments/Pasted%20image%2020240827111630.png)
+
+## Resultado
+![](../../../00%20Attachments/Pasted%20image%2020240827120110.png)
