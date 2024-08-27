@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed73b30fb937bec3",
+            "id": "db2ef126abddc357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md"
               }
             }
           }
@@ -147,16 +147,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ed73b30fb937bec3",
+  "active": "db2ef126abddc357",
   "lastOpenFiles": [
+    "00 Attachments/Pasted image 20240826224946.png",
+    "00 Attachments/Pasted image 20240826224840.png",
+    "00 Attachments/Pasted image 20240826224233.png",
+    "00 Attachments/Pasted image 20240826222342.png",
+    "00 Attachments/Pasted image 20240826222225.png",
+    "00 Attachments/Pasted image 20240826220531.png",
+    "00 Attachments/Pasted image 20240826215937.png",
+    "00 Attachments/Pasted image 20240826215559.png",
+    "Redes y Telecomunicaciones/Tareas/En clase/01 Configuración en estrella.md",
+    "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
+    "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto",
+    "Redes y Telecomunicaciones/Proyectos",
+    "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
+    "Redes y Telecomunicaciones/Tareas/Laboratorio/02 Configuración de red.md",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/03 Qué es Gnutella.md",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/02 Qué es un filezilla.md",
+    "Redes y Telecomunicaciones/Tareas/Investigaciones/01 Cómo funciona el correo electrónico.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+    "00 Attachments/Untitled 1.jpg",
+    "00 Attachments/Untitled.jpg",
+    "Redes y Telecomunicaciones/Tareas/En clase",
     "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
+    "Redes y Telecomunicaciones/Tareas/Laboratorio",
     "00 Attachments/Pasted image 20240816122039.png",
-    "Redes y Telecomunicaciones/Apuntes/Clase/image-1.png",
-    "Redes y Telecomunicaciones/Apuntes/Clase/image.png",
-    "00 Attachments/Pasted image 20240816121437.png",
-    "00 Attachments/Pasted image 20240816121416.png",
     "Redes y Telecomunicaciones/Apuntes/Clase/01 Tipos de redes de computadoras.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/02 Capa de aplicación.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/03 Capa de transporte.md",
@@ -179,24 +196,11 @@
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de comunicación.canvas",
     "Ingeniería de Software/Tareas/01 Evaluación sobre proyecto/Evaluar sobre proyecto.md",
-    "Ciencia de Datos/Apuntes/01 Tipo de variable.md",
-    "00 Attachments/Correo-electronico-protocolo-1000x264-1.jpg",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/03 Qué es Gnutella.md",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/02 Qué es un filezilla.md",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/01 Cómo funciona el correo electrónico.md",
-    "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
     "Ingeniería de Software/Tareas/Exposiciones/01 Monday CRM",
     "Ingeniería de Software/Tareas/Exposiciones",
     "Ingeniería de Software/Tareas/En clase/Investigaciones/Untitled",
     "Ingeniería de Software/Tareas/En clase/Investigaciones",
     "Ingeniería de Software/Tareas/01 Evaluación sobre proyecto",
-    "Ingeniería de Software/Tareas/En clase",
-    "Redes y Telecomunicaciones/Apuntes/Lectura",
-    "Redes y Telecomunicaciones/Apuntes/Clase",
-    "Redes y Telecomunicaciones/Apuntes/Untitled.md",
-    "Redes y Telecomunicaciones/Apuntes/2024-07-17.md",
-    "Ciencia de Datos/Apuntes/Untitled",
-    "Ciencia de Datos/Apuntes",
-    "Ingeniería de Software/Tareas/Lecturas/2024-07-16 Cap 4 del libro Ingeniería de Software (Pressman).md"
+    "Ingeniería de Software/Tareas/En clase"
   ]
 }
