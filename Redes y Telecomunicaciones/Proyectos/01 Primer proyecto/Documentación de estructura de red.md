@@ -55,8 +55,10 @@ En este caso se le asignará la última IP utilizable.
 En este caso se hará el uso de un servidor con MYSQL con una base de datos que contenga la tabla "students".
 ![](../../../00%20Attachments/Untitled%202.jpg)
 ![](../../../00%20Attachments/Untitled%203.jpg)
-
-Para permitr el acceso a los hosts dentro de la red al servidor de mysql se procede a dar permiso a estos usuarios por medio de `bind-address` en la configuración de mysql por medio de estos comando y también dando privilegios dentro del servidor de mysql.
+``` mysql
+CREATE TABLE students (id INT auto_increment primary key, student_name VARCHAR(100) NOT NULL, code VARCHAR(50));
+```
+Para permitr el acceso a los hosts dentro de la red al servidor de mysql se procede a dar permiso a estos usuarios por medio de `bind-address` en la configuración de mysql por medio de estos comando y también dando privilegios dentro del servidor de mysql.po
 ![](../../../00%20Attachments/Untitled%204.jpg)
 ![](../../../00%20Attachments/Untitled%205.jpg)
 Se crea un nuevo usuario que va a ser el que tiene los permisos de ingresar a la base de datos

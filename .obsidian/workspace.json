@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -159,7 +160,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "db2ef126abddc357",
+  "active": "2b0babf766e066ae",
   "lastOpenFiles": [
     "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
     "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
