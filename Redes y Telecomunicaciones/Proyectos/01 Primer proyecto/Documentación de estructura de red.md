@@ -81,3 +81,23 @@ Una vez habiendo abierto el puerto dentro del firewall del servidor, se procede 
 ## Conectividad con la base de datos de otro router
 Para tener conectividad con la base de datos de otro router se hace la conexión entre los dos routers por medio del cable **WAN/Internet**. Para esto se tiene que hacer una red entre los dos routers. 
 ### Configuración de red entre los dos routers
+Para tener comunicación entre los dos routers se tiene que crear una red entre estos.
+En este caso se hizo la red bajo la siguiente configuración
+
+| Red      | Máscara   | Primera ip utilizable |
+| -------- | --------- | --------------------- |
+| 10.0.0.0 | 255.0.0.0 | 10.0.0.2              |
+
+Dentro de la configuración de internet se configura dentro del router una ipv4 estática.
+En el caso de la red 192.168.1.0 se le asignó al router la ip 10.0.0.1 y el gateway 10.0.0.2.
+En el caso de la red 193.0.0.0 se le asignó al router la ip 10.0.0.2 y el gateway 10.0.0.1.
+
+### Permitir ping
+Para permir el ping con los routers se accede a la configuración de seguridad de los routers y se da permiso para hacer ping desde WAN.
+
+### Acceso a la base de datos
+Como ya se tiene configurado el portforwarding en los routers lo que se procede a hacer desde el sistema de base de datos es ingresar la ip del router que anida la base de datos y el puerto.
+
+#### MySQL
+Hostname: 10.0.0.1
+Port: 3306
