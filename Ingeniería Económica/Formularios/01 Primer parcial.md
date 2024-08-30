@@ -1,5 +1,3 @@
-# Formulario primer parcial
-
 - [Formulario primer parcial](#formulario-primer-parcial)
   - [Método horizontal](#método-horizontal)
   - [Método vertical](#método-vertical)
@@ -15,6 +13,10 @@
     - [Dupont](#dupont)
   - [ROA](#roa)
   - [ROE](#roe)
+
+> <div style="page-break-after:  always;"></div>
+
+# Formulario primer parcial
 
 ## Método horizontal
 $$
