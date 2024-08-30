@@ -77,3 +77,7 @@ Una vez habiendo abierto el puerto dentro del firewall del servidor, se procede 
 
 ## Resultado
 ![](../../../00%20Attachments/Pasted%20image%2020240827120110.png)
+
+## Conectividad con la base de datos de otro router
+Para tener conectividad con la base de datos de otro router se hace la conexión entre los dos routers por medio del cable **WAN/Internet**. Para esto se tiene que hacer una red entre los dos routers. 
+### Configuración de red entre los dos routers
