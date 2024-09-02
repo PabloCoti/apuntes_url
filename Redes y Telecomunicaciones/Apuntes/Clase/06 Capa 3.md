@@ -7,7 +7,7 @@ Lo bit de orden superior determinar la red, bit de oren inferior definen lo pot.
 Por clase lo que cambia es el primero octeto, cuando cambian de clase empiezan con el octeto de la clase anterior más uno.
 
 Por clase se tiene que $2^n = \text{host totales}$ y que $2^n - 2 = \text{host utilizables}$
-A
+### A
 RED.HOST.HOST.HOST
 MASK = 255.0.0.0
 
@@ -18,7 +18,7 @@ Terminan con la cantidad de posiciones de red
 Redes 128
 Host Utilizables = $2^24 (cantidad de bits de host) - 2 = 16777214$
 Aquellos 
-B
+### B
 RED.RED.HOST.HOST
 MASK 255.255.255.0.0
 
@@ -27,7 +27,7 @@ Termina con la cantidad de posiciones de red 110000000 = 192
 
 Redes = $(192-128) * 256 = 16384$
 Hosts utilizables = $2^{16} - 2 = 65534$
-C
+### C
 RED.RED.RED.RED.HOST
 MASK = 255.255.255.0
 
@@ -36,7 +36,7 @@ Termina con la cantidad de posiiones de red 11100000 = 224
 
 Redes = $(224-192) * 256 * 256 = 2097152$
 Hosts utilizables = $2^8 - 2 = 254$
-D
+### D
 Multicast
 
 Termina con la cantiad de posiciones de red 11110000
