@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Económica/Formularios/01 Primer parcial.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica/Formularios/01 Primer parcial.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica/Formularios/01 Primer parcial.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica/Formularios/01 Primer parcial.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "1d461678e997b271",
   "lastOpenFiles": [
-    "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "Ingeniería Económica/Formularios/01 Primer parcial.md",
+    "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
     "Ingeniería Económica/Apuntes/07 Sistema Dupont.md",
     "Ingeniería Económica/Apuntes/06 Razones Financieras.md",
