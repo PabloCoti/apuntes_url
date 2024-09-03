@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
+                "file": "Ingeniería de Software/Proyecto/01 Revisión formal/Revisión formal.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
+                "file": "Ingeniería de Software/Proyecto/01 Revisión formal/Revisión formal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
+                "file": "Ingeniería de Software/Proyecto/01 Revisión formal/Revisión formal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md"
+                "file": "Ingeniería de Software/Proyecto/01 Revisión formal/Revisión formal.md"
               }
             }
           }
@@ -162,8 +162,15 @@
   },
   "active": "fecfdcdb7eb59504",
   "lastOpenFiles": [
-    "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
+    "Ingeniería de Software/Proyecto/01 Revisión formal/Instrucciones.md",
+    "Ingeniería de Software/Proyecto/01 Revisión formal/Revisión formal.md",
+    "Ingeniería de Software/Proyecto/01 Revisión formal",
+    "Ingeniería de Software/Tareas/01 Evaluación sobre proyecto/Evaluar sobre proyecto.md",
+    "Ingeniería de Software/Proyecto",
+    "Ingeniería de Software/Apuntes/01 Calidad del software.md",
     "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
+    "Ingeniería de Software/Apuntes",
+    "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
     "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
     "Ingeniería Económica/Formularios/01 Primer parcial.md",
     "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
@@ -201,19 +208,12 @@
     "Redes y Telecomunicaciones/Tareas/En clase",
     "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
     "Redes y Telecomunicaciones/Tareas/Laboratorio",
-    "Redes y Telecomunicaciones/Apuntes/Clase/01 Tipos de redes de computadoras.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/02 Capa de aplicación.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/03 Capa de transporte.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/04 Los servicios y la función de la capa de transporte.md",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían la práctica.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían el proceso.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios del modelado del diseño.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de planeación.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de modelado.canvas",
-    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de comunicación.canvas",
-    "Ingeniería de Software/Tareas/Exposiciones/01 Monday CRM",
-    "Ingeniería de Software/Tareas/Exposiciones",
-    "Ingeniería de Software/Tareas/En clase/Investigaciones/Untitled"
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios de comunicación.canvas"
   ]
 }
