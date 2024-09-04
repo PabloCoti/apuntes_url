@@ -5,4 +5,4 @@
 	1. Apartado de inventario y reportes de inventario
 		1. Correcto manejo de inventarios al momento de hacer un reporte
 		2. Correcto manejo de lapsos en el reporte de inventarios
-		3. Cuadre de cantidades en el reporte de inventarios.
+			1. Cuadre de cantidades en el reporte de inventarios.
