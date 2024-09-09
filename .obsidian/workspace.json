@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/01 Investigación corta NIST.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46f88b49eb2acb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/01 Investigación corta NIST.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/01 Investigación corta NIST.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/01 Investigación corta NIST.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md"
               }
             }
           }
@@ -147,10 +160,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1d461678e997b271",
+  "active": "46f88b49eb2acb1b",
   "lastOpenFiles": [
-    "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+    "Ingeniería Económica/Apuntes/06 Razones Financieras.md",
+    "Ingeniería Económica/Apuntes/07 Sistema Dupont.md",
+    "Ingeniería Económica/Apuntes/05 Método horizontal y vertical.md",
+    "Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
+    "Untitled.md",
     "Ingeniería de Software/Tareas/En clase/01 Investigación corta NIST.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
     "Redes y Telecomunicaciones/Tareas/Laboratorio/02 Configuración de red.md",
     "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
     "Redes y Telecomunicaciones/Tareas/En clase/01 Configuración en estrella.md",
@@ -165,10 +184,6 @@
     "Ingeniería Económica/Formularios/01 Primer parcial.md",
     "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
-    "Ingeniería Económica/Apuntes/07 Sistema Dupont.md",
-    "Ingeniería Económica/Apuntes/06 Razones Financieras.md",
-    "Ingeniería Económica/Apuntes/05 Método horizontal y vertical.md",
-    "Untitled.md",
     "Ingeniería Económica/Apuntes/04 Recesión económica.md",
     "Ingeniería Económica/Apuntes/03  Inflación y deflación factores económicos que inciden en la empresa.md",
     "Ingeniería Económica/Apuntes/02 oferta y demanda.md",
@@ -191,8 +206,6 @@
     "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/03 Qué es Gnutella.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/02 Qué es un filezilla.md",
-    "Redes y Telecomunicaciones/Tareas/Investigaciones/01 Cómo funciona el correo electrónico.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Redes y Telecomunicaciones/Tareas/En clase",
     "Redes y Telecomunicaciones/Tareas/Laboratorio",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",

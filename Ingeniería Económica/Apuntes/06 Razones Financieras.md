@@ -6,7 +6,7 @@ Para poder analizar las razones financieras hay que poder manejar los **estados 
 ## Aplicación de las razones financieras
 
 ### Índice de liquidez
-Es la cantidad de dinero efectivo que puede generar la empresa. Es decir, la capacidad monetaria que tiene la empresa para poder pagar las cosas al contado y en su momento.
+Es la cantidad de dinero efectivo que puede generar la empresa. Es decir, la capacidad monetaria que tiene la empresa para poder pagar las cosas al contado y en su momento. **1% - 2%** ✅
 
 Fórmula
 $$
