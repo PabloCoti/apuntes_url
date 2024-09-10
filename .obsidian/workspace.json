@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso segundo parcial.md",
+                "file": "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso segundo parcial.md",
+                "file": "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso segundo parcial.md",
+                "file": "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso segundo parcial.md"
+                "file": "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "46f88b49eb2acb1b",
   "lastOpenFiles": [
+    "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
+    "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md",
     "Ingeniería de Software/Tareas/En clase/Preguntas del libro/01 Preguntas del cap 14.md",
-    "Ingeniería de Software/Apuntes/02 Repaso segundo parcial.md",
     "Ingeniería de Software/Apuntes/01 Calidad del software.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/04 SPT SIP y  puertos apagados lógicos.md",
     "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
@@ -192,7 +193,6 @@
     "00 Attachments/Untitled 2.jpg",
     "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto",
     "Redes y Telecomunicaciones/Proyectos",
-    "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
     "Redes y Telecomunicaciones/Tareas/En clase",
     "Redes y Telecomunicaciones/Tareas/Laboratorio",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
