@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "46f88b49eb2acb1b",
   "lastOpenFiles": [
+    "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
     "Ingeniería de Software/Apuntes/01 Calidad del software.md",
     "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md",
-    "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
     "Ingeniería de Software/Tareas/En clase/Preguntas del libro/01 Preguntas del cap 14.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/04 SPT SIP y  puertos apagados lógicos.md",
     "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
