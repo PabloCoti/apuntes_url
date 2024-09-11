@@ -6,10 +6,11 @@ Las revisiones son ténicas que se usan para depurar el producto final de todo p
 ## Error vs Defecto
 **Error** es cuando se está en el proceso de crear el sistema y **defecto** es cuando ya se tiene un error dentro del producto final.
 
-## Objetivo
+# Objetivo
 Se busca eliminar *errores* dentro del proceso antes de que se conviertan en parte de el producto final (*defectos*).
 
 ## Beneficio
+
 Se evita la propagación de errores y que escalen y lleguen a afectar las siguientes fases del desarrollo.
 
 Tienen una eficacia del **75%** para descubrir fallas en el diseño y también reduce el costo de producción del software.
