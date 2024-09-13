@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46f88b49eb2acb1b",
+            "id": "b2616b585e7c35f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5312588a2d46dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md"
               }
             }
           }
@@ -147,11 +161,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "46f88b49eb2acb1b",
+  "active": "b5312588a2d46dec",
   "lastOpenFiles": [
-    "00 Attachments/Pasted image 20240911120637.png",
+    "00 Attachments/Pasted image 20240912194253.png",
+    "00 Attachments/Pasted image 20240912194246.png",
+    "00 Attachments/Pasted image 20240912194236.png",
+    "00 Attachments/Pasted image 20240912194104.png",
+    "00 Attachments/Pasted image 20240912194040.png",
+    "00 Attachments/Pasted image 20240912192750.png",
+    "00 Attachments/Pasted image 20240912191509.png",
+    "00 Attachments/Pasted image 20240912191502.png",
+    "00 Attachments/Pasted image 20240912191444.png",
+    "00 Attachments/Pasted image 20240912191415.png",
+    "00 Attachments/Pasted image 20240912191206.png",
     "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
+    "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
+    "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto",
+    "Ingeniería de Software/Tareas/Proyecto/02 Diagrama relacional del proyecto.md",
+    "Ingeniería de Software/Tareas/Proyecto/01 Avances reales.md",
     "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md",
+    "Ingeniería de Software/Tareas/Proyecto",
     "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software",
     "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
     "Ingeniería de Software/Apuntes/01 Calidad del software.md",
@@ -160,10 +189,6 @@
     "Redes y Telecomunicaciones/Tareas/Investigaciones/04 SPT SIP y  puertos apagados lógicos.md",
     "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
     "Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
-    "00 Attachments/Pasted image 20240908230949.png",
-    "00 Attachments/Pasted image 20240908231834.png",
-    "00 Attachments/Pasted image 20240908231541.png",
-    "00 Attachments/Pasted image 20240908231437.png",
     "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Ingeniería Económica/Apuntes/06 Razones Financieras.md",
     "Ingeniería Económica/Apuntes/07 Sistema Dupont.md",
@@ -180,21 +205,10 @@
     "Ingeniería de Software/Proyecto",
     "Ingeniería de Software/Apuntes",
     "Ingeniería Económica/Formularios/01 Primer parcial.md",
-    "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
-    "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
-    "Ingeniería Económica/Apuntes/04 Recesión económica.md",
     "Ingeniería Económica/Formularios",
     "Ingeniería de Software/Tareas/En clase/Preguntas del libro",
     "Ingeniería de Software/Tareas/En clase",
-    "00 Attachments/Untitled 6.jpg",
-    "00 Attachments/Pasted image 20240827120110.png",
-    "00 Attachments/Untitled 5.jpg",
-    "00 Attachments/Untitled 4.jpg",
-    "00 Attachments/Untitled 3.jpg",
-    "00 Attachments/Untitled 2.jpg",
     "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto",
-    "Redes y Telecomunicaciones/Proyectos",
-    "Redes y Telecomunicaciones/Tareas/En clase",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían la práctica.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían el proceso.canvas",

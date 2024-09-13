@@ -22,7 +22,7 @@ Debido a las características del router, se hará uso de el cifrado WPA2-PSK. E
 ![](../../../00%20Attachments/Pasted%20image%2020240827101309.png)
 
 ### Configuración de contraseña
-Dentro de la interfaz de configuración del router se ingresa en el apartado de administración y se busca la sección de contraseña del router. La contraseña asignada al router es `.,2608\rtf2.\`.
+Dentro de la interfaz de configuración del router se ingresa en el apartado de administración y se busca la sección de contraseña del router. La contraseña asignada al router es `.,2608\rtf2.\`
 ![](../../../00%20Attachments/Pasted%20image%2020240827103255.png)
 
 ### Configuraciones adicionales
