@@ -6,6 +6,8 @@
 - Diego José Abdo Estrada 1625021
 
 ## Configuración de máquina virtual con el servidor del proyecto
+
+redesuser
 ![](../../../00%20Attachments/Pasted%20image%2020240912182510.png)
 
 ### Especificaciones de máquina virtual
