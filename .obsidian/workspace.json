@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md"
               }
             }
           }
@@ -162,25 +163,27 @@
   },
   "active": "b5312588a2d46dec",
   "lastOpenFiles": [
-    "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md",
+    "00 Attachments/Pasted image 20240918230409.png",
+    "00 Attachments/Pasted image 20240918230219.png",
+    "00 Attachments/Pasted image 20240918230204.png",
+    "00 Attachments/Pasted image 20240918230127.png",
+    "00 Attachments/Pasted image 20240918230032.png",
+    "00 Attachments/Pasted image 20240918225901.png",
+    "00 Attachments/Pasted image 20240918225850.png",
+    "00 Attachments/Pasted image 20240918225839.png",
+    "00 Attachments/Pasted image 20240918225822.png",
+    "00 Attachments/Pasted image 20240918225807.png",
+    "00 Attachments/Pasted image 20240918225658.png",
     "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
+    "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
+    "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
+    "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/05 Qué es portal captive.md",
     "Ingeniería de Software/Tareas/En clase/04 Pruebas que voy a aplicar a mi proyecto.md",
     "Ingeniería de Software/Tareas/En clase/01 Evaluar sobre proyecto.md",
     "Ingeniería de Software/Tareas/En clase/02 Preguntas del cap 14.md",
     "Ingeniería de Software/Tareas/En clase/03 Investigación corta NIST.md",
     "Ingeniería de Software/Tareas/En clase/Untitled",
-    "00 Attachments/Untitled 14.jpg",
-    "00 Attachments/Untitled 13.jpg",
-    "00 Attachments/Untitled 12.jpg",
-    "00 Attachments/Untitled 11.jpg",
-    "00 Attachments/Untitled 10.jpg",
-    "00 Attachments/Untitled 9.jpg",
-    "00 Attachments/Untitled 8.jpg",
-    "00 Attachments/Untitled 7.jpg",
-    "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
-    "00 Attachments/Pasted image 20240912194253.png",
-    "00 Attachments/Pasted image 20240912194246.png",
     "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto",
     "Ingeniería de Software/Tareas/Proyecto/02 Diagrama relacional del proyecto.md",
     "Ingeniería de Software/Tareas/Proyecto/01 Avances reales.md",
@@ -200,8 +203,6 @@
     "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
     "Redes y Telecomunicaciones/Tareas/Laboratorio/02 Configuración de red.md",
     "Redes y Telecomunicaciones/Tareas/En clase/01 Configuración en estrella.md",
-    "Ingeniería de Software/Proyecto/01 Revisión formal/Revisión formal.md",
-    "Ingeniería de Software/Proyecto/01 Revisión formal/Instrucciones.md",
     "Ingeniería de Software/Proyecto/01 Revisión formal",
     "Ingeniería de Software/Proyecto",
     "Ingeniería de Software/Apuntes",
