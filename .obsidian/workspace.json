@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Económica/Apuntes/10 WACC.md",
+                "file": "Ingeniería Económica/Tareas/En clase/01 comentario sobre la clase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1af17bb939e70adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Económica/Tareas/En clase/02 Preguntas en clase (generales).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Económica/Apuntes/10 WACC.md",
+                "file": "Ingeniería Económica/Tareas/En clase/02 Preguntas en clase (generales).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Económica/Apuntes/10 WACC.md",
+                "file": "Ingeniería Económica/Tareas/En clase/02 Preguntas en clase (generales).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Económica/Apuntes/10 WACC.md"
+                "file": "Ingeniería Económica/Tareas/En clase/02 Preguntas en clase (generales).md"
               }
             }
           }
@@ -148,10 +160,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "69f282544cdb145d",
+  "active": "1af17bb939e70adf",
   "lastOpenFiles": [
-    "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
+    "Ingeniería Económica/Tareas/En clase/01 comentario sobre la clase.md",
+    "Ingeniería Económica/Tareas/En clase/02 Preguntas en clase (generales).md",
     "Ingeniería Económica/Apuntes/10 WACC.md",
+    "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
     "Ingeniería de Software/Apuntes/04 Pruebas.md",
     "Ingeniería de Software/Apuntes/05 integración de software.md",
@@ -188,8 +202,6 @@
     "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Ingeniería Económica/Apuntes/06 Razones Financieras.md",
     "Ingeniería Económica/Apuntes/07 Sistema Dupont.md",
-    "Ingeniería Económica/Apuntes/05 Método horizontal y vertical.md",
-    "Untitled.md",
     "Ingeniería de Software/Proyecto/01 Revisión formal",
     "Ingeniería de Software/Proyecto",
     "Ingeniería de Software/Apuntes",
