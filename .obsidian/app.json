@@ -7,12 +7,12 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "00 Attachments",
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "showInlineTitle": false,
   "trashOption": "local",
   "promptDelete": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
