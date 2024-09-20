@@ -24,5 +24,14 @@
       ],
       "key": "M"
     }
-  ]
+  ],
+  "obsidian-advanced-new-file:advanced-new-file-new-pane": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }

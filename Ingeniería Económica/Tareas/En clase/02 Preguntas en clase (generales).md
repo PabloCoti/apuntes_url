@@ -25,3 +25,21 @@
 13. **Qué se mide en el ROE**: Rentabilidad sobre el capital, midiendo la capacidad de generar utilidades con el capital de los accionistas.
 
 14. **Cuentas que se pueden analizar en un estado de resultados**: Ingresos, costos de ventas, gastos operativos, impuestos, utilidades netas y gastos financieros.
+
+15. **WACC (Weighted Average Cost of Capital)**: Es el costo promedio ponderado de capital, mide el costo de financiar una empresa combinando el costo de la deuda y el capital propio, ponderados según su proporción en la estructura de capital de la empresa.
+
+16. **Minimización de costos sin afectar producto/servicio**: Se logra mediante la optimización de procesos, mejora de eficiencia operativa, negociación con proveedores, y adopción de tecnología sin comprometer la calidad o la satisfacción del cliente.
+
+17. **Cuentas en el Balance de Situaciones**: Activos (circulantes y no circulantes), pasivos (a corto y largo plazo), y patrimonio neto. Estas reflejan la situación financiera de la empresa en un momento dado.
+
+18. **Oferta y demanda**: La oferta es la cantidad de un bien o servicio que los productores están dispuestos a vender a un precio determinado, mientras que la demanda es la cantidad que los consumidores están dispuestos a comprar al mismo precio.
+
+19. **Cambios esperados para 2025 que benefician a la empresa**: Se prevén avances en digitalización, inteligencia artificial, cambios en políticas fiscales y comerciales, y mayor enfoque en sostenibilidad, lo que puede generar oportunidades de crecimiento e innovación.
+
+20. **Importancia de tener buenos colaboradores**: Los buenos colaboradores mejoran la productividad, la innovación, la satisfacción del cliente y contribuyen al éxito y crecimiento sostenible de la organización.
+
+21. **Impacto de políticas internacionales en el comercio de Guatemala**: Las políticas comerciales, aranceles, tratados y regulaciones internacionales pueden influir en el acceso a mercados, la competitividad de exportaciones e importaciones, y en la estabilidad económica.
+
+22. **Prueba del ácido**: También conocida como prueba de liquidez inmediata, mide la capacidad de una empresa para cubrir sus pasivos a corto plazo con activos líquidos (excluyendo inventarios), evaluando su solvencia inmediata.
+
+23. **Mercado perfecto**: Un mercado en el que hay muchos compradores y vendedores, productos homogéneos, información perfecta, libre entrada y salida, y no hay poder de mercado de ningún participante.
