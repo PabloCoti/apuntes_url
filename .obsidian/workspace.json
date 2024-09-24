@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociedad Democrática y Ciudadanía/Parciales/01 Segundo Parcial.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5c4cd45f138b0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sociedad Democrática y Ciudadanía/Parciales/01 Segundo Parcial.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sociedad Democrática y Ciudadanía/Parciales/01 Segundo Parcial.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sociedad Democrática y Ciudadanía/Parciales/01 Segundo Parcial.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md"
               }
             }
           }
@@ -149,15 +162,16 @@
   },
   "active": "77222617371e7a4a",
   "lastOpenFiles": [
-    "Redes y Telecomunicaciones/Apuntes/Clase/09 VLANS.md",
+    "Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
+    "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
     "Sociedad Democrática y Ciudadanía/Parciales/01 Segundo Parcial.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/09 VLANS.md",
     "Sociedad Democrática y Ciudadanía/Parciales",
     "Sociedad Democrática y Ciudadanía",
     "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Ingeniería Económica/Tareas/En clase/02 Preguntas en clase (generales).md",
     "Ingeniería Económica/Apuntes/10 WACC.md",
     "00 Attachments/Pasted image 20240920112056.png",
-    "Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
     "Ingeniería Económica/Tareas/En clase/01 comentario sobre la clase.md",
     "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/01 Segundo proyecto.md",
@@ -190,7 +204,6 @@
     "Ingeniería de Software/Apuntes/01 Calidad del software.md",
     "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/04 SPT SIP y  puertos apagados lógicos.md",
-    "Redes y Telecomunicaciones/Tareas/En clase/02 3 Tiendas.md",
     "Ingeniería de Software/Proyecto/01 Revisión formal",
     "Ingeniería de Software/Proyecto",
     "Ingeniería de Software/Apuntes",

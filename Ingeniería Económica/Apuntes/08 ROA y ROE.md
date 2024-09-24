@@ -10,7 +10,7 @@ Todo esto se ve desde el **estado de resultados**.
 
 ### Fórmula
 $$
-ROA = \frac{\text{Beneficio neto}}{\text{Total de activos}}
+ROA = \frac{\text{Utilidad en operaciones}}{\text{Total de activos}}
 $$
 
 ## ROE
@@ -22,5 +22,5 @@ Indica la capacidad de una empresa para dar el beneficio a sus accionistas. Por 
 
 ### Fórmula
 $$
-ROE = \frac{\text{Beneficio neto}}{\text{Patrimonio neto}}
+ROE = \frac{\text{Utilidad neta}}{\text{Patrimonio neto}}
 $$

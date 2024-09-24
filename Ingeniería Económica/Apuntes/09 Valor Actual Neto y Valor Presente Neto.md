@@ -21,14 +21,14 @@ Los **financieros** dicen que si el VAN es mayor a 0 es rentable, de lo contrari
 Se necesita
 - Tamaño de la inversión
 - Flujo de caja neto proyectado
-- [Tasa de descuento](#Tasa de descuento (TD))
+- [Tasa de descuento](#Tasa de descuento (TD)) O tasa de retorno
 
 Fórmula
 $$
 VAN=BNA-Inversión
 $$
 $$
-BNA=\frac{Año}{1+TD}
+BNA=\frac{\text{Flujo de caja neto del Año}}{1+(\text{TD o TR})^\text{No. Año}}
 $$
 ## Tasa de descuento (TD)
 La tasa de descuento es el coste de capital que se aplica para determinar el [valor presente](https://economipedia.com/definiciones/valor-presente.html) de un pago futuro. 
