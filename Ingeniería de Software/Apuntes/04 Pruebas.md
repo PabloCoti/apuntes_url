@@ -37,3 +37,8 @@ Es cuando se prueba la característica por sí misma que se está desarrollando.
 
 ## Pruebas de integración
 Es cuando se prueba cómo la característica que se está desarrollando interactúa con otras características del software.
+
+## Pruebas Alfa
+tipo de prueba de aceptación del usuario que suelen realizar los probadores de software internos. A veces pueden realizarla usuarios potenciales, pero en cualquier caso, su misión principal es comprobar si el producto cumple todos los requisitos y detectar todos los posibles problemas y errores antes de presentar el producto final a los usuarios finales.
+## Pruebas Beta
+una forma externa de pruebas de aceptación del usuario, y las realizan usuarios reales en su entorno real.
