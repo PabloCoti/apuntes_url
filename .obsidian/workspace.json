@@ -13,9 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/05 Investigación corta preparación de pruebas.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "140895d1c72e9150",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00 Attachments/Pasted image 20240918220521.png"
+              }
+            }
+          },
+          {
+            "id": "8dbdd430cabf6bbe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00 Attachments/Pasted image 20240918220536.png"
               }
             }
           }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "939afa6e1f82bddd",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/05 Investigación corta preparación de pruebas.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/05 Investigación corta preparación de pruebas.md",
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/05 Investigación corta preparación de pruebas.md"
+                "file": "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md"
               }
             }
           }
@@ -149,10 +170,12 @@
   },
   "active": "77222617371e7a4a",
   "lastOpenFiles": [
-    "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
-    "Ingeniería de Software/Tareas/En clase/05 Investigación corta preparación de pruebas.md",
-    "Ingeniería de Software/Apuntes/04 Pruebas.md",
+    "00 Attachments/Pasted image 20240918220521.png",
     "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
+    "00 Attachments/Pasted image 20240918220536.png",
+    "Ingeniería de Software/Tareas/En clase/05 Investigación corta preparación de pruebas.md",
+    "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
+    "Ingeniería de Software/Apuntes/04 Pruebas.md",
     "Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
     "Sociedad Democrática y Ciudadanía/Parciales/01 Segundo Parcial.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/09 VLANS.md",
@@ -174,7 +197,6 @@
     "00 Attachments/Pasted image 20240918225901.png",
     "00 Attachments/Pasted image 20240918225850.png",
     "00 Attachments/Pasted image 20240918225839.png",
-    "00 Attachments/Pasted image 20240918225822.png",
     "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
     "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software/Topología de ingenería de software.md",
     "Redes y Telecomunicaciones/Tareas/Investigaciones/05 Qué es portal captive.md",
@@ -190,7 +212,6 @@
     "Redes y Telecomunicaciones/Tareas/Topología de mi proyecto de ingeniería de software",
     "Ingeniería de Software/Apuntes/02 Repaso Calidad del software.md",
     "Ingeniería de Software/Apuntes/01 Calidad del software.md",
-    "Ingeniería de Software/Apuntes/03 Repaso Técnicas de revisión de software.md",
     "Ingeniería de Software/Proyecto/01 Revisión formal",
     "Ingeniería de Software/Proyecto",
     "Ingeniería de Software/Apuntes",
