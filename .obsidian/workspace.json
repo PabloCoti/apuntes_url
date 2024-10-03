@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/10 IPv6.md",
+                "file": "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/10 IPv6.md",
+                "file": "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/10 IPv6.md",
+                "file": "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/10 IPv6.md"
+                "file": "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "daff6d68b23dcd1a",
   "lastOpenFiles": [
-    "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/10 IPv6.md",
+    "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
+    "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/09 VLANS.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
@@ -186,7 +187,6 @@
     "00 Attachments/Pasted image 20240918230127.png",
     "00 Attachments/Pasted image 20240918230032.png",
     "00 Attachments/Pasted image 20240918225901.png",
-    "Redes y Telecomunicaciones/Proyectos/01 Primer proyecto/Documentación de estructura de red.md",
     "Ingeniería de Software/Tareas/En clase/Untitled",
     "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto",
     "Ingeniería de Software/Tareas/Proyecto",
