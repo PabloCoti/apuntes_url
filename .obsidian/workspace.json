@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
+                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
+                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
+                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md"
+                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "daff6d68b23dcd1a",
   "lastOpenFiles": [
-    "Ingeniería de Software/Tareas/En clase/06 Pruebas que aplicaría en mi proyecto.md",
     "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
+    "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
+    "Redes y Telecomunicaciones/Tareas/Semana científica",
+    "Ingeniería de Software/Tareas/En clase/06 Pruebas que aplicaría en mi proyecto.md",
     "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/10 IPv6.md",
     "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
@@ -193,7 +195,6 @@
     "Ingeniería Económica/Apuntes/10 WACC.md",
     "00 Attachments/Pasted image 20240920112056.png",
     "Ingeniería Económica/Tareas/En clase/01 comentario sobre la clase.md",
-    "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "00 Attachments/Pasted image 20240918230409.png",
     "00 Attachments/Pasted image 20240918230219.png",
     "00 Attachments/Pasted image 20240918230204.png",
@@ -207,7 +208,6 @@
     "Ingeniería de Software/Proyecto/01 Revisión formal",
     "Ingeniería de Software/Proyecto",
     "Ingeniería de Software/Apuntes",
-    "Ingeniería Económica/Formularios",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían la práctica.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían el proceso.canvas",
