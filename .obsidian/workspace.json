@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md"
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "daff6d68b23dcd1a",
   "lastOpenFiles": [
-    "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
     "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
+    "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
     "Redes y Telecomunicaciones/Tareas/Semana científica",
     "Ingeniería de Software/Tareas/En clase/06 Pruebas que aplicaría en mi proyecto.md",
     "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
