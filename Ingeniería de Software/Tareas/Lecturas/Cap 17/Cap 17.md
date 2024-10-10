@@ -1,4 +1,22 @@
 # Estrategias de prueba de software
+- [[#¿Qué son?|¿Qué son?]]
+- [[#Conceptos clave|Conceptos clave]]
+	- [[#Conceptos clave#V&V (Verificación y Validación)|V&V (Verificación y Validación)]]
+	- [[#Conceptos clave#Grupo de prueba independiente|Grupo de prueba independiente]]
+	- [[#Conceptos clave#Tipos de pruebas|Tipos de pruebas]]
+		- [[#Tipos de pruebas#Pruebas de unidad|Pruebas de unidad]]
+		- [[#Tipos de pruebas#Pruebas de integración|Pruebas de integración]]
+		- [[#Tipos de pruebas#Pruebas de regresión|Pruebas de regresión]]
+		- [[#Tipos de pruebas#Pruebas de clase|Pruebas de clase]]
+		- [[#Tipos de pruebas#Pruebas alfa|Pruebas alfa]]
+		- [[#Tipos de pruebas#Pruebas beta|Pruebas beta]]
+		- [[#Tipos de pruebas#Pruebas del sistema|Pruebas del sistema]]
+		- [[#Tipos de pruebas#Prueba de despliegue|Prueba de despliegue]]
+	- [[#Conceptos clave#Depuración|Depuración]]
+	- [[#Conceptos clave#Revisión de la configuración|Revisión de la configuración]]
+
+> <div style="page-break-after:  always;"></div>
+## ¿Qué son?
 Una estrategia de prueba es una receta que da el paso a paso de lo que se debe de hacer al momento de realizar una prueba. Sirven para que cualquier persona pueda hacer una prueba al software y sea capaz de encontrar errores en este si es que existen. Estas se hacen antes de realizar las pruebas de software como plantillas y se utilizan una vez se desean desarrollar las pruebas de software.
 
 ## Conceptos clave
