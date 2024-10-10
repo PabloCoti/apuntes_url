@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
-                "mode": "source",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md"
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "daff6d68b23dcd1a",
   "lastOpenFiles": [
+    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
     "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
     "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
     "Redes y Telecomunicaciones/Tareas/Semana científica",
@@ -171,7 +173,6 @@
     "Redes y Telecomunicaciones/Apuntes/Lectura/01 Capas de aplicación.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/09 VLANS.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
     "00 Attachments/Pasted image 20240929200939.png",
     "Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
@@ -194,7 +195,6 @@
     "Ingeniería Económica/Tareas/En clase/02 Preguntas en clase (generales).md",
     "Ingeniería Económica/Apuntes/10 WACC.md",
     "00 Attachments/Pasted image 20240920112056.png",
-    "Ingeniería Económica/Tareas/En clase/01 comentario sobre la clase.md",
     "00 Attachments/Pasted image 20240918230409.png",
     "00 Attachments/Pasted image 20240918230219.png",
     "00 Attachments/Pasted image 20240918230204.png",
