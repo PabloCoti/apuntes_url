@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b14482902513b06d",
+        "id": "e19f520ef5ce9c06",
         "type": "tabs",
         "children": [
           {
-            "id": "daff6d68b23dcd1a",
+            "id": "1f7ff8da190b0d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/08.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "edd12804371e82e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes y Telecomunicaciones/Tareas/En clase/03Ejercicio.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/08.md",
+                "file": "Redes y Telecomunicaciones/Tareas/En clase/03Ejercicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/08.md",
+                "file": "Redes y Telecomunicaciones/Tareas/En clase/03Ejercicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software/Tareas/En clase/08.md"
+                "file": "Redes y Telecomunicaciones/Tareas/En clase/03Ejercicio.md"
               }
             }
           }
@@ -148,16 +161,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "daff6d68b23dcd1a",
+  "active": "edd12804371e82e4",
   "lastOpenFiles": [
-    "Ingeniería de Software/Tareas/Lecturas/Cap 17/Cap 17.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
+    "Redes y Telecomunicaciones/Tareas/En clase/03Ejercicio.md",
+    "Ingeniería Económica/Apuntes/06 Razones Financieras.md",
+    "Ingeniería Económica/Apuntes/10 WACC.md",
     "Ingeniería de Software/Tareas/En clase/08.md",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 17/Cap 17.md",
     "Ingeniería de Software/Apuntes/04 Pruebas.md",
     "Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
     "Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
-    "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
     "Ingeniería de Software/Tareas/Lecturas/Cap 17",
-    "Redes y Telecomunicaciones/Apuntes/Clase/07 Laboratorio.md",
     "Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
     "Ingeniería de Software/Tareas/En clase/07 Herramientas de prueba para el rpoyecto.md",
     "Redes y Telecomunicaciones/Tareas/Semana científica",
@@ -176,11 +192,8 @@
     "Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
     "Ingeniería Económica/Apuntes/08 ROA y ROE.md",
     "Ingeniería de Software/Tareas/En clase/04 Pruebas que voy a aplicar a mi proyecto.md",
-    "Ingeniería de Software/Apuntes/05 integración de software.md",
-    "Ingeniería de Software/Tareas/En clase/05 Investigación corta preparación de pruebas.md",
     "00 Attachments/Pasted image 20240918220536.png",
     "00 Attachments/Pasted image 20240918220521.png",
-    "Redes y Telecomunicaciones/Proyectos/02 Segundo proyecto/02 Segundo proyecto.md",
     "Sociedad Democrática y Ciudadanía/Parciales",
     "Sociedad Democrática y Ciudadanía",
     "00 Attachments/Pasted image 20240920112056.png",
