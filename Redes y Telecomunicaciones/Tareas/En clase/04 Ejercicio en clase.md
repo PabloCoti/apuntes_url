@@ -30,11 +30,6 @@ encapsulation dot1q 10
 ip address 140.10.0.1 255.255.255.0
 no shut
 
-exit
-
-ip route 140.0.0.0 255.255.255.0 se0/0/0
-ip route 140.0.0.0 255.255.255.0 se0/0/1
-
 interface se0/0/0
 ip address 150.15.15.22 255.255.255.252
 no shut
@@ -42,6 +37,17 @@ no shut
 interface se0/0/1
 ip address 150.15.15.1 255.255.255.252
 no shut
+
+router rip 
+version 2
+
+network 140.0.0.0
+network 140.5.0.0
+network 140.10.0.0
+network 150.15.15.0
+
+no auto-summary
+exit
 ```
 ### Vlan5
 ```
@@ -129,11 +135,6 @@ encapsulation dot1q 18
 ip address 120.18.0.1 255.255.255.0
 no shut
 
-exit
-
-ip route 120.0.0.0 255.255.255.0 se0/0/0
-ip route 120.0.0.0 255.255.255.0 se0/0/1
-
 interface se0/0/0
 ip address 150.15.15.6 255.255.255.252
 no shut
@@ -141,6 +142,17 @@ no shut
 interface se0/0/1
 ip address 150.15.15.9 255.255.255.252
 no shut
+
+router rip
+version 2
+
+network 120.0.0.0
+network 120.15.0.0
+network 120.18.0.0
+network 150.15.15.0
+
+no auto-summary
+exit
 ```
 
 ### Vlan15
@@ -212,11 +224,6 @@ interface gi0/1
 ip address 8.8.8.1 255.255.255.240
 no shut
 
-exit
-
-ip route 150.15.15.0 255.255.255.252 gi0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/0
-
 interface gi0/0
 ip address 150.15.15.14 255.255.255.252
 no shut
@@ -224,6 +231,16 @@ no shut
 interface se0/0/0
 ip address 150.15.15.17 255.255.255.252
 no shut
+
+router rip
+version 2
+
+network 8.8.8.0
+network 150.15.15.0
+
+no auto-summary
+exit
+
 ```
 
 ## Guillermo
@@ -244,9 +261,6 @@ enable secret universidad
 
 banner motd #Prohibido el ingreso a personal no autorizado#
 
-ip route 150.15.15.0 255.255.255.252 se0/0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/1
-
 interface se0/0/0
 ip address 150.15.15.25 255.255.255.252
 no shut
@@ -254,6 +268,15 @@ no shut
 interface se0/0/1
 ip address 150.15.15.18 255.255.255.252
 no shut
+
+router rip
+version 2
+
+network 150.15.15.0
+
+no auto-summary
+exit
+
 ```
 ## Bryan
 ### Router
@@ -272,12 +295,6 @@ login
 enable secret universidad
 
 banner motd #Prohibido el ingreso a personal no autorizado#
-
-ip route 150.15.15.0 255.255.255.252 gi0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/1
-ip route 150.15.15.0 255.255.255.252 se0/1/0
-ip route 150.15.15.0 255.255.255.252 se0/1/1
 
 interface gi0/0
 ip address 150.15.15.13 255.255.255.252
@@ -298,6 +315,15 @@ no shut
 interface se0/1/1
 ip address 150.15.15.29 255.255.255.252
 no shut
+
+router rip
+version 2
+
+network 150.15.15.0
+
+no auto-summary
+exit
+
 ```
 ## Pablo
 ### Router
@@ -316,12 +342,6 @@ login
 enable secret universidad
 
 banner motd #Prohibido el ingreso a personal no autorizado#
-
-ip route 150.15.15.0 255.255.255.252 gi0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/1
-ip route 150.15.15.0 255.255.255.252 se0/1/0
-ip route 150.15.15.0 255.255.255.252 se0/1/1
 
 interface gi0/0
 ip address 150.15.15.45 255.255.255.252
@@ -342,6 +362,15 @@ no shut
 interface se0/1/1
 ip address 150.15.15.30 255.255.255.252
 no shut
+
+router rip
+version 2
+
+network 150.15.15.0
+
+no auto-summary
+exit
+
 ```
 ## Josue
 ### Router
@@ -366,10 +395,6 @@ interface gi0/0
 ip address 130.18.8.1 255.255.255.248
 no shut
 
-ip route 150.15.15.0 255.255.255.252 se0/0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/1
-ip route 150.15.15.0 255.255.255.252 se0/1/0
-
 interface se0/0/0
 ip address 150.15.15.34 255.255.255.252
 no shut
@@ -381,6 +406,12 @@ no shut
 interface se0/1/0
 ip address 150.15.15.21 255.255.255.252
 no shut
+
+router rip
+version 2
+network 130.18.8.0
+network 150.15.15.0
+exit
 ```
 ## Luisa
 ### Router
@@ -404,10 +435,6 @@ interface gi0/1
 ip address 190.168.1.1 255.255.255.252
 no shut
 
-ip route 150.15.15.0 255.255.255.252 gi0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/0
-ip route 150.15.15.0 255.255.255.252 se0/0/1
-
 interface gi0/0
 ip address 150.15.15.46 255.255.255.252
 no shut
@@ -419,4 +446,13 @@ no shut
 interface se0/0/1
 ip address 150.15.15.41 255.255.255.252
 no shut
+
+router rip
+version 2
+
+network 190.168.1.0
+network 150.15.15.0
+
+no auto-summary
+exit
 ```
