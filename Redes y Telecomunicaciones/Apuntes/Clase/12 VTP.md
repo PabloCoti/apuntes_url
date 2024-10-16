@@ -1,3 +1,38 @@
+# VTP
+Virtual trunk protocol, este protocolo permite trabajar la arquitectura cliente/servidor pero para que esta arqutectura funcione tenemos que crear un dominio. En este caso el comando que se utiliza sería.
+
+```
+vtp domain url
+```
+
+A este dominio se le puede poner un modo, pueden ser
+- `server`
+- `client`
+- `transparent`
+
+```
+vtp mode server
+```
+
+Una vez se le asigna el modo se quiere poner una contraseña
+```
+vtp password 1234
+```
+
+Dentro del switch también se tiene que configurar las vlans
+
+## Ejemplo
+```
+vlan 6
+name Luisa
+vlan 7
+name Josue
+
+vtp domain url
+vtp mode client
+vtp password 1234
+```
+
 ```
 enable
 conf t
