@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5831a157b4a12a3",
+            "id": "4268244aa11bec0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/04 Ejercicio en clase.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/04 Ejercicio en clase.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/04 Ejercicio en clase.md",
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes y Telecomunicaciones/Tareas/En clase/04 Ejercicio en clase.md"
+                "file": "Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md"
               }
             }
           }
@@ -148,9 +148,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d5831a157b4a12a3",
+  "active": "4268244aa11bec0c",
   "lastOpenFiles": [
     "Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
+    "Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md",
     "Redes y Telecomunicaciones/Tareas/En clase/04 Ejercicio en clase.md",
     "Ingeniería de Software/Apuntes/06 Leyes de Lehman.md",
     "Redes y Telecomunicaciones/Tareas/En clase/03Ejercicio.md",
@@ -178,7 +179,6 @@
     "Redes y Telecomunicaciones/Apuntes/Clase/03 Capa de transporte.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/02 Capa de aplicación.md",
     "Redes y Telecomunicaciones/Apuntes/Clase/01 Tipos de redes de computadoras.md",
-    "Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
     "00 Attachments/Pasted image 20240918220536.png",
     "00 Attachments/Pasted image 20240918220521.png",
     "Sociedad Democrática y Ciudadanía/Parciales",

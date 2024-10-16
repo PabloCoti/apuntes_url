@@ -1,4 +1,28 @@
 # Ejercicio en clase
+- [[#Marco|Marco]]
+	- [[#Marco#Router|Router]]
+	- [[#Marco#Vlan5|Vlan5]]
+	- [[#Marco#Vlan10|Vlan10]]
+	- [[#Marco#Switch|Switch]]
+- [[#Andreé|Andreé]]
+	- [[#Andreé#Router|Router]]
+	- [[#Andreé#Vlan15|Vlan15]]
+	- [[#Andreé#Vlan18|Vlan18]]
+	- [[#Andreé#Switch|Switch]]
+- [[#Javier|Javier]]
+	- [[#Javier#Router|Router]]
+- [[#Guillermo|Guillermo]]
+	- [[#Guillermo#Router|Router]]
+- [[#Bryan|Bryan]]
+	- [[#Bryan#Router|Router]]
+- [[#Pablo|Pablo]]
+	- [[#Pablo#Router|Router]]
+- [[#Josue|Josue]]
+	- [[#Josue#Router|Router]]
+- [[#Luisa|Luisa]]
+	- [[#Luisa#Router|Router]]
+
+
 ## Marco
 ### Router
 ```
@@ -392,7 +416,7 @@ enable secret universidad
 banner motd #Prohibido el ingreso a personal no autorizado#
 
 interface gi0/0
-ip address 130.18.8.1 255.255.255.248
+ip address 130.18.8.82 255.255.255.248
 no shut
 
 interface se0/0/0
@@ -432,7 +456,7 @@ enable secret universidad
 banner motd #Prohibido el ingreso a personal no autorizado#
 
 interface gi0/1
-ip address 190.168.1.1 255.255.255.252
+ip address 190.168.1.138 255.255.255.252
 no shut
 
 interface gi0/0
