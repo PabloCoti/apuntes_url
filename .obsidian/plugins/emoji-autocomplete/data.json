@@ -4,6 +4,9 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "purple_square",
+    "blue_square",
+    "red_square",
     "white_check_mark",
     "laughing"
   ],
