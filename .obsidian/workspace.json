@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4094822166bad94",
+        "id": "bccf83169dd9db82",
         "type": "tabs",
         "children": [
           {
-            "id": "ed73b30fb937bec3",
+            "id": "24abd87592f2f47f",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +109,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,10 +132,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,6 +147,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -141,7 +161,61 @@
   },
   "active": "2b0babf766e066ae",
   "lastOpenFiles": [
-    "ab",
-    "00 Attachments"
+    "Sexto Ciclo/Ética General/10-12-2023 Jerarquía de valores.md",
+    "Sexto Ciclo/Ética General/10-19-2023 Bioética.md",
+    "Sexto Ciclo/Microprogramación/10-26-2023 Segunda hoja de trabajo y proyecto final.md",
+    "Sexto Ciclo/Microprogramación/10-26-2023 Procedimientos.md",
+    "Sexto Ciclo/Microprogramación/10-24-2023 Segundo parcial.md",
+    "Sexto Ciclo/Microprogramación/10-19-2023 Práctica 4.md",
+    "Sexto Ciclo/Microprogramación/09-25-2023 Formulario para parcial 1.md",
+    "Sexto Ciclo/Microprogramación/09-08-2023 Contenidos primer parcial.md",
+    "Sexto Ciclo/Microprogramación/09-07-2023 Laboratorio TASM 1.md",
+    "Sexto Ciclo/Microprogramación/08-30-2023 Computadora Digital.md",
+    "Sexto Ciclo/Microprogramación/08-24-2023 UCP.md",
+    "Sexto Ciclo/Microprogramación/08-24-2023 Programas en ensamblador.md",
+    "Sexto Ciclo/Microprogramación/08-22-2023 Cuestionario Caché.md",
+    "Sexto Ciclo/Microprogramación/08-22-2023 CISC, RISC y paralelismo de instrucciones.md",
+    "Sexto Ciclo/Microprogramación/08-15-2023 Cuestionario Von Neumann.md",
+    "Sexto Ciclo/Fundamentos de economía/10-23-2023 Segundo parcial tercera serie.md",
+    "Sexto Ciclo/Microprogramación/08-15-2023 ALU.md",
+    "Sexto Ciclo/Microprogramación/08-09-2023 Von Neuman.md",
+    "Sexto Ciclo/Fundamentos de economía/10-29-2023 Costos 1 y 2.md",
+    "Sexto Ciclo/Fundamentos de economía/10-29-2023 Eficiencia y equidad.md",
+    "Sexto Ciclo/Fundamentos de economía/10-27-2023 Resumen el gran crack de 2929.md",
+    "Sexto Ciclo/Fundamentos de economía/10-22-2023 Resolución de examen.md",
+    "Sexto Ciclo/Fundamentos de economía/10-22-2023 Oferta, demanda y equilibrio.md",
+    "Sexto Ciclo/Fundamentos de economía/10-22-2023 Elasticidades.md",
+    "Sexto Ciclo/Fundamentos de economía/09-04-2023 Hoja de trabajo 2.md",
+    "Sexto Ciclo/Compiladores/10-14-2023 Ejercicios GIC 2.md",
+    "Sexto Ciclo/Ética General",
+    "Sexto Ciclo/Microprogramación",
+    "Sexto Ciclo/Fundamentos de economía",
+    "Sexto Ciclo/Compiladores",
+    "Sexto Ciclo/Arquitectura del Computador II",
+    "Sexto Ciclo",
+    "00 Attachments/Untitled.jpg",
+    "00 Attachments/Pasted image 20231030001155.png",
+    "00 Attachments/Pasted image 20231029231946.png",
+    "00 Attachments/Pasted image 20231029231509.png",
+    "00 Attachments/Pasted image 20231029230600.png",
+    "00 Attachments/Pasted image 20231029225838.png",
+    "00 Attachments/Pasted image 20231024094433.png",
+    "00 Attachments/Pasted image 20231024094234.png",
+    "00 Attachments/Pasted image 20231024094343.png",
+    "00 Attachments/Pasted image 20231023095227.png",
+    "00 Attachments",
+    "zzzAttachmentszzz",
+    "Microprogramación",
+    "Base de datos II/10-18-2023 Diagrama de replicación de bases de datos.canvas",
+    "Compiladores",
+    "Séptimo Ciclo/Ingeniería de Métodos/Apuntes/Clase/2024-02-19 CPM-PERT 2 ejemplo.canvas",
+    "Séptimo Ciclo/Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Distro Transbordo.canvas",
+    "Séptimo Ciclo/Investigación de Operaciones/Apuntes/Repaso/Programación lineal/Gráficas/Combustible.canvas",
+    "Séptimo Ciclo/Investigación de Operaciones/Apuntes/Clase/2024-01-23 Mapa conceptual procesos de IO.canvas",
+    "Séptimo Ciclo/Análisis y Diseño/Tareas/En clase/2024-02-26 Proceso del negocio punto de ventas.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían la práctica.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios del modelado del diseño.canvas",
+    "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían el proceso.canvas"
   ]
 }

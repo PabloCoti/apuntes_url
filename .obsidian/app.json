@@ -1,15 +1,16 @@
 {
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
-  "alwaysUpdateLinks": true,
   "attachmentFolderPath": "00 Attachments",
-  "newFileLocation": "root",
+  "promptDelete": false,
+  "spellcheck": true,
+  "newLinkFormat": "relative",
+  "trashOption": "local",
   "showUnsupportedFiles": true,
-  "showLineNumber": false,
-  "showInlineTitle": false,
-  "trashOption": "local"
+  "useMarkdownLinks": true
 }
