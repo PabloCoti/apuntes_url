@@ -46,7 +46,7 @@ Esta también tiene diferentes etapas
 ##### Primera etapa
 Se prepara el proyecto para determinar la magnitud del proyecto para las inversiónes, costos y beneficios.
 ##### Segunda etapa
-Evaluar el proyecto, medir la rentabilidad de la inversión para saber si se empieza la parte del proyecto.
+Evaluar el proyecto, medir la rentabilidad de la inversión para saber si se empieza la parte del proyecto. En esta etapa es dónde se aplica el **análisis financiero**.
 #### Inversión
 Esta es la parte cuando ya tenemos el dinero y empezamos a ejecutar el plan
 - Diseño
@@ -78,3 +78,11 @@ Esta es la parte cuando ya tenemos el dinero y empezamos a ejecutar el plan
 
 Estos estudios se hacen en secuencia, si uno falla se regresa al anterior para hacer un replanteamiento y así sucesivamente hasta tener el planteamiento del proyecto.
 
+### Estudio de mercado
+Es la investigación de mercado que entrega información histórica y actual de comportamientos de:
+- Consumidor
+- Proveedor
+- Calidades y servicios
+
+### Ejercicio con base a ejercicio
+[02 Ejercicio estudio de mercado](Actividades/02%20Ejercicio%20estudio%20de%20mercado.md)
