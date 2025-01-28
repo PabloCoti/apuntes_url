@@ -34,3 +34,5 @@ Hay que tener presente que la virtualización no es solo usar virtual box, sino 
 ## Primer red virtualizada
 **Revisar carpeta:** `09 Noveno ciclo\Virtualización\Actividades\01 Primeras conexiones casa con IoT.pkt`
 
+## Ejercicio: dos casas con IoT
+[03 Ejercicio de casas con IoT](Actividades/03%20Ejercicio%20de%20casas%20con%20IoT.md)

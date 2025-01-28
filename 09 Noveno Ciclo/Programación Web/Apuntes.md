@@ -59,3 +59,19 @@ Lo define la w3c que fue fundada por Tim Burners Lee
 ### Ejercicio primera página web con html
 ![](Actividades/04%20Ejercicio%20primera%20página%20web%20con%20html.html)
 
+## Listas
+### Listas de definición
+Sirve para definir términos o descripciones 
+dl
+dt
+dd
+
+## Tablas
+table
+tr - fila
+td - celda dentro de fila
+th - encabezado
+caption - agrega un título o leyenda a la tabla
+
+## Ejercicio listados y tablas
+![](Actividades/05%20Ejercicio%20listados%20y%20tablas.html)

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25cd4a4b5e0e21d7",
+            "id": "c04f78db2c9c7a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
+                "file": "09 Noveno Ciclo/Programación Web/Apuntes.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,8 +185,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "25cd4a4b5e0e21d7",
+  "active": "c04f78db2c9c7a3b",
   "lastOpenFiles": [
+    "09 Noveno Ciclo/Programación Web/Actividades/05 Ejercicio listados y tablas.html",
+    "09 Noveno Ciclo/Programación Web/Actividades/05 Ejercicio listados y tablas",
+    "09 Noveno Ciclo/Virtualización/Actividades/03 Ejercicio de casas con IoT.md",
+    "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/En clase/04 Ejercicio en clase.md",
+    "08 Octavo Ciclo/Redes y Telecomunicaciones/Proyectos/03 Proyecto final.md",
+    "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/Semana científica/01 Vocación de terreno.md",
+    "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/Laboratorio/02 Configuración de red.md",
+    "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/En clase/06 Ejercicio IPs.md",
+    "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/En clase/05 Ejercicio.md",
+    "09 Noveno Ciclo/Virtualización/Apuntes.md",
+    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "09 Noveno Ciclo/Ética Profesional/Actividades/01 Ética profesional, moral en ingeniería.md",
     "09 Noveno Ciclo/Ética Profesional/Actividades",
     "09 Noveno Ciclo/Ética Profesional",
@@ -207,7 +218,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
-    "09 Noveno Ciclo/Virtualización/Apuntes.md",
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/01 Calidad del software.md",
     "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Actividades/01 Ejercicio aplicación de virtualización en una empresa.md",
@@ -222,18 +232,9 @@
     "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Actividades/04 Preguntas vídeo.md",
     "08 Octavo Ciclo/Ingeniería Económica/Apuntes/06 Razones Financieras.md",
     "08 Octavo Ciclo/Ingeniería Económica/Apuntes/05 Método horizontal y vertical.md",
-    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/04 Recesión económica.md",
-    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/03  Inflación y deflación factores económicos que inciden en la empresa.md",
-    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/02 oferta y demanda.md",
-    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/01 Ejercicio planteaamiento de proyecto.md",
-    "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Actividades/03 Investigación Biopsia liquida.md",
-    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
-    "09 Noveno Ciclo/Ética Profesional/Untitled.md",
     "09 Noveno Ciclo/Virtualización/Actividades",
     "09 Noveno Ciclo/Virtualización",
     "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades",
-    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero",
     "Ingeniería de Software/Apuntes/Untitled.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Requerimientos de los principios de modelado.canvas",
     "Ingeniería de Software/Tareas/Lecturas/Cap 4 del libro Ingeniería de Software/Principios que guían la práctica.canvas",
