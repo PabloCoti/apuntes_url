@@ -8,3 +8,5 @@ Va a ser la continuación de lo que habíamos visto en la clase anterior
 [03 Ejercicio Ventajas y desventajas de herramientas presentadas](Actividades/03%20Ejercicio%20Ventajas%20y%20desventajas%20de%20herramientas%20presentadas.md)
 ## Presentación mutation testing
 https://gamma.app/docs/Mutation-Testing-Una-Herramienta-Esencial-para-la-Calidad-del-Sof-xm6itjdpagv7otw
+## Ejercicio cuándo usar cada herramienta para mutation testing
+[04 Cuándo usar cada herramienta de mutation testing](Actividades/04%20Cuándo%20usar%20cada%20herramienta%20de%20mutation%20testing.md)

@@ -1,22 +1,16 @@
-
-
+# Apuntes Fundamentos de Administración y Análisis Financiero
 ## Introducción
 Es un curso donde vamos a usar como base los conceptos que llevamos desde fundamentos de economía hasta costos y en este curso se le van a agregar más detalles relacionados a este asunto.
 
 En este curso se van a ver situaciones similares tanto para ingeniería en sistemas y para ingeniería industrial.
-
 ### Enfoque
 El curso se va a enfocar en ver casos para poder desarrollar nuestro criterio, especialmente por medio de cortos y parciales.
-
 ### Libro a utilizar
 Libro de economía de Hitman.
-
 ### Parciales
 Debido a que son dos carreras se debe consensuar si todos pueden traer en computadora para poder realizar los exámenes en computadora.
-
 ## Estados financieros
 Esto va a ser un repaso de lo que son los estados financieros, es un tema que hemos visto en los cursos previos de ingeniería económica e ingeniería de costos.
-
 ### Agrupaciones de cuentas
 #### De balance
 Tienen la característica de que sobreviven de un período para otro, es decir, si mi cuenta bancos termina con un monto en un período se abre en el siguiente con el monto con el que cerró.
@@ -88,13 +82,10 @@ Como inicio hay que saber qué son las finanzas. Las finanzas son la rama de la 
 La función del administrador financiero es minimizar el riesgo e impulsar la cantidad de la utilidad. La administración financiera se aplica en todos los puestos que funcionan con presupuestos. 
 
 Parte de la importancia del manejo de la administración financiera es saber qué pasará si x o y situación, lo que va a suceder en la empresa.
-
-
 ### Anállisis financiero
 Este es el que se encarga de presentar los estados de la empresa en un punto en cierto tiempo.
 
 Dentro dee esto se encuentra el análisis vertical y el análisis horizontal.
-
 ### Diferencia entre contabilidad y finanzas
 Cuando se llega a las finanzas y se toma una actitud de controls sobre lo que se hizo bien y lo que no se puede hacer. Estas tienen enfoque a futuro, es decir, que buscan de don .
 
@@ -123,7 +114,6 @@ Anticipar la inversión que se tiene que hacer con el retorno esperado de la inv
 Directivo no es lo mismo que un socio, el directivo busca tomar decisiones basadas en su beneficio personal y la empresa en general. Se busca el bienestar de los empleados porque un empleado contento hace un buen trabajo.
 
 Cuando una empresa está bien también colabora con la comunidad ya que paga más impuestos y el gobierno puede prestar mejores servicios, es fuente de empleado y apoya mucho en general.
-
 ### Origen e importancia de la administración financiera
 - Empezó estimadamente a inicios del siglo XX como una rama de la economía.
 - La depresión en los años 30s hizo que las empresas hicieran más análisis de la validez de hacer movimiento del dinero para ciertos proyectos.
@@ -131,3 +121,45 @@ Cuando una empresa está bien también colabora con la comunidad ya que paga má
 - **Pública**: esta tiene que ver con el gobierno (el ministerio de finanzas), este ve las finanzas del gobierno. Este es el problema que enfrenta el gobierno para avalar el presupuesto general de la nación y el dilema es de dónde va a salir el dinero.
 - **Privada**: es en el caso de las empresas donde se tiene una persona individual que lleva el control de las finanzas.
 - **Mixta**: esta es cuando hay capital privado y parte del gobierno tiene administración. Esta generalmente se aplica en las corporaciones.
+## Estados financieros y su análisis
+### Desde qué punto de vista deben interesarnos los estados financieros
+- **Administración**: Qué partes están involucradas y por qué para que los involucrados puedan estar involucradas y cómo los estados financieros afectan el valor de la empresa.
+- **Contabilidad**: Este es donde se arma el informe para los accionistas. Los de contabilidad dan la cara por la empresa, posteriormente el empresario da la cara por su empresa, pero de primera mano son los contadores.
+- **Marking**: Deben saber los efectos que tendrán sus acciones en los estados financieros. 
+- **Operaciones**: Deben ser conscientes de la comparación entre costos e ingresos para poder medir la utlidad. 
+- **Sistemas de información**: Debemos saber qué datos llevan los estados financieros para poder hacer el diseño de un sistema que lo pueda procesar.
+### Informes financieros
+Existen diferentes períodos bajo los cuales se entregan los informes. Estos se tiene dos formas de presentación:
+- **Cualitativa**: Un informe donde se describe de forma verbal y general el estado de la empresa.
+- **Cuantitativa**: Números
+
+El informe está formado por dos partes
+- **Primero**: Sección verbal, donde se describen los resultados de la empresa y los planes a futuro.
+- **Segundo**: El informe anual presenta los cuatro informes financieros:
+	- Balance general
+	- Estado de resultados
+	- Estado de flujo de efectivo
+	- Estado de utilidades retenidas
+
+#### Balance general
+También llamado método vertical, dónde comparamos el balance de dos años. En este análisis tenemos que prestar **atención al activo**. 
+
+En la diapositiva estamos viendo una empresa con estos datos
+
+| Activo                  | Cantidad |
+| ----------------------- | -------- |
+| Efectivo y equivalentes | 15       |
+| Cuentas por cobrar      | 180      |
+| Inventario              | 270      |
+En esta empresa nos damos cuenta que la empresa no tiene nada de liquidez y en comparación al año anterior nos dimos cuenta de que es igual entonces se da por perdido porque la empresa no está implementando buenas políticas de recuperación de crédito.
+
+En este caso la cuenta crítica es el inventario porque no tenemos efectivo para poder movilizar el inventario y no sabemos el precio al que lo vamos a vender, esto podría llevar a que la empresa venda **precio-costo**.
+
+> **Precio-costo**: vender los productos al precio que le costó a la empresa.
+
+Viendo la parte del **pasivo** estamos viendo que la empresa debe el 50% de todo lo que tiene, en este caso es una S.A. por eso es que esta empresa emitió un bono a largo plazo, esto es para que la empresa pueda recibir inyección de capital. Un bono a largo plazo es como una acción de una empresa pero de forma no permanente.
+#### Estado de resultados
+En el caso del estado de resultados tenemos que ponerle atención a las ventas.
+
+Se tiene el caso de una empresa con una utilidad inexistente. Lo que se recomienda es reducir costos operativos. Para esto la empresa podría cotizar mejor sus servicios y hacer bien la evaluación con su diagrama organizacional.
+
