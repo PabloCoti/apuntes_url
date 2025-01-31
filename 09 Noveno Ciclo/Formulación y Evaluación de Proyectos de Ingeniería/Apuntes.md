@@ -86,3 +86,12 @@ Es la investigación de mercado que entrega información histórica y actual de 
 
 ### Ejercicio con base a ejercicio
 [02 Ejercicio estudio de mercado](Actividades/02%20Ejercicio%20estudio%20de%20mercado.md)
+
+## Estrategias de investigación de mercados
+- **Mistery shopper** cuando el jefe se hace pasar por un cliente para saber cómo es que la empresa está manejandose.
+- **CUAS**: Encuensta de usos, actitudes y consumo
+- **BrandEquity Metrix**: saber cómo está posicionada nuestra marca con los consumidores
+- **NPS**: indicador promotor neto, es ver la satisfacción del cliente con el producto que estamos vendiendo.
+- **pruebas de producto**: es un estudio donde el producto se expone para evaluar sus propiedades.
+- **Neuromarketing**: Estudian los motivos por los cuales los clientes comprarían nuestros productos.
+- **Estudios de imagen corporativa y reputación**: 
