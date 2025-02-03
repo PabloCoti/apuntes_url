@@ -20,7 +20,6 @@ banner motd #Prohibido el ingreso a personal no autorizado#
 
 vlan 10
 name Javier
-
 vlan 11
 name Marco
 

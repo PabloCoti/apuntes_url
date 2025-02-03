@@ -88,6 +88,13 @@ Son las estimaciones de los recursos necesarios para poder llevar a cabo la simu
 Aquí también se evalúan los recursos que se tienen que tener disponibles para poder desarrollar la solución del problema.
 
 **Esta es la parte más importante del proyecto ya que se define si es factible o no.** En caso de que no sea factible se puede cancelar el proyecto con toda libertad ya que no se ha puesto a andar el proyecto, por eso es que esta parte es tan importante.
+
+Como parte de la planificación se tienen que considerar los aspectos críticos para el estudio.
+- ¿Están claramente definidos los objetivos del estudio?
+- ¿Por qué se realiza el estudio?
+- ¿Qué pretende obtener del estudio?
+- ¿Se dispone de los recursos adecuados y suficientes para poder realizar el estudio: tiempo, personal, software, ordenadores, etc.?
+- ¿Se han identificado los usuarios potenciales o clientes de los resultados del estudio?
 ### 3. Definición del sistema
 Definir qué aspectos de la realidad tienen que modelarse para poder desarrollar el proyecto. Cuando vamos a modelar el sistema tenemos que tomar en cuenta los aspectos de la realidad que vamos a construir el sistema.
 ### 4. Formulación conceptual

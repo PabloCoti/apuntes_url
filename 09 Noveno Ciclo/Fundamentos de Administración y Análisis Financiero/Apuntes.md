@@ -163,3 +163,5 @@ En el caso del estado de resultados tenemos que ponerle atención a las ventas.
 
 Se tiene el caso de una empresa con una utilidad inexistente. Lo que se recomienda es reducir costos operativos. Para esto la empresa podría cotizar mejor sus servicios y hacer bien la evaluación con su diagrama organizacional.
 
+Estamos haciendo el análisis de la depreciación de los activos de una empresa, pero **la ley del ISR** establece que la depreciación sería **en línea recta**, es decir, está en constante depreciación.
+

@@ -1,9 +1,16 @@
 # Virtualización
-- [[##Introducción|Introducción]]
+- [[#Introducción|Introducción]]
+- [[#Virtualización|Virtualización]]
 	- [[#Virtualización#Ventajas|Ventajas]]
 	- [[#Virtualización#Tipos de virtualización|Tipos de virtualización]]
 	- [[#Virtualización#Ejercicio: ejemplo de cómo usaría la virtualización en una empresa|Ejercicio: ejemplo de cómo usaría la virtualización en una empresa]]
 - [[#Ejercicio repaso de redes|Ejercicio repaso de redes]]
+- [[#Primer red virtualizada|Primer red virtualizada]]
+- [[#Ejercicio: dos casas con IoT|Ejercicio: dos casas con IoT]]
+- [[#Hipervisor|Hipervisor]]
+	- [[#Hipervisor#Tipos de hipervisor|Tipos de hipervisor]]
+		- [[#Tipos de hipervisor#Bare metal|Bare metal]]
+		- [[#Tipos de hipervisor#Hosteado|Hosteado]]
 ## Introducción
 En la primera clase tuvimos unos repasos respecto a redes y el ingeniero nos dio una pauta de lo que tenemos que preparar en caso de privados y nos incentivó a participar en clase para que al momento de llegar al privado estar más preparados.
 
@@ -36,3 +43,22 @@ Hay que tener presente que la virtualización no es solo usar virtual box, sino 
 
 ## Ejercicio: dos casas con IoT
 [03 Ejercicio de casas con IoT](Actividades/03%20Ejercicio%20de%20casas%20con%20IoT.md)
+
+## Hipervisor
+Es un software or firmware que permite la creación y la gestión de máquinas virtuales en un servidor físico. Se podría decir que es la capa de abstracción que permite que tengamos múltiples sistemas ejecutándose en el mismo hardware compartiendo los recursos de este de forma eficiente. Por ejemplo: **Virtual box**
+
+En la vida real cada servidor podría tener un hipervisor para poder hacer optimización de recursos.
+### Tipos de hipervisor
+#### Bare metal
+Se ejecuta directamente en el hardware del servidor, sin necesidad de un sistema operativo. Por ejemplo:
+- VMware ESXi
+- Microsoft Hyper-V
+- Promox VE
+- Xen Server
+
+#### Hosteado
+Se ejecuta sobre un sistema operativo anfitrión. Por ejemplo:
+- Oracle VirtualBox
+- VMware workstation
+- Parallels Desktop
+
