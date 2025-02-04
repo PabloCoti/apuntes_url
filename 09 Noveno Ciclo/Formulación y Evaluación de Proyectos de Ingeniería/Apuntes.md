@@ -13,7 +13,7 @@ El proyecto se tiene que hacer oficialmente y formalmente porque se le va a pres
 Nosotros al momento de plantear un proyecto tenemos que proceder a hacer la investigación del proyecto para definir si es que el proyecto le va a ser útil al público objetivo.
 
 ### Ejercicio
-[01 Ejercicio planteaamiento de proyecto](Actividades/01%20Ejercicio%20planteaamiento%20de%20proyecto.md)
+[01 Ejercicio planteaamiento de proyecto individual](Actividades/01%20Ejercicio%20planteaamiento%20de%20proyecto%20individual.md)
 
 ### Construcción de escenarios
 Se tiene que hacer un estudio del entorno externo a la organización que afectan al proyecto, existen dos escenarios.
@@ -85,7 +85,7 @@ Es la investigación de mercado que entrega información histórica y actual de 
 - Calidades y servicios
 
 ### Ejercicio con base a ejercicio
-[02 Ejercicio estudio de mercado](Actividades/02%20Ejercicio%20estudio%20de%20mercado.md)
+[02 Ejercicio estudio de mercado grupal](Actividades/02%20Ejercicio%20estudio%20de%20mercado%20grupal.md)
 
 ## Estrategias de investigación de mercados
 - **Mistery shopper** cuando el jefe se hace pasar por un cliente para saber cómo es que la empresa está manejandose.

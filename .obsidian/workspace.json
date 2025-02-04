@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
+                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
                 "mode": "source",
                 "source": false
               },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 Noveno Ciclo/Virtualización/Apuntes.md",
+                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,8 @@
               "title": "Backlinks for Apuntes"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,6 +196,10 @@
   },
   "active": "c321860d664ad3d2",
   "lastOpenFiles": [
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/03 Ejercicio estudio de mercado individual.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/02 Ejercicio estudio de mercado grupal.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/01 Ejercicio planteaamiento de proyecto individual.md",
+    "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades/02 Formulación de proyecto/02 Formulación de proyecto.png",
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades/02 Formulación de proyecto",
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades",
@@ -210,7 +215,6 @@
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/01 Calidad del software.md",
     "08 Octavo Ciclo/Ingeniería Económica/Apuntes/08 ROA y ROE.md",
     "08 Octavo Ciclo/Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
-    "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "09 Noveno Ciclo/Programación Web/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Actividades/04 Laboratorio 1.md",
@@ -221,12 +225,10 @@
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md",
     "09 Noveno Ciclo/Virtualización/Actividades/03 Ejercicio de casas con IoT.md",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/02 Ejercicio estudio de mercado.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/04 Cuándo usar cada herramienta de mutation testing.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/02 Exposición sobre herramienta de testeos.md",
-    "09 Noveno Ciclo/Ingeniería de Software II/Actividades/01 Repaso.md",
     "09 Noveno Ciclo/Programación Web/Actividades/05 Ejercicio listados y tablas.html",
     "09 Noveno Ciclo/Programación Web/Actividades/05 Ejercicio listados y tablas",
     "09 Noveno Ciclo/Ética Profesional/Actividades",
@@ -240,7 +242,6 @@
     "00 Attachments/Pasted image 20250121111447.png",
     "00 Attachments/Pasted image 20250121111336.png",
     "00 Attachments/Pasted image 20250121111152.png",
-    "00 Attachments/Pasted image 20250121111012.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ingeniería de Software/Apuntes/Untitled.canvas",
