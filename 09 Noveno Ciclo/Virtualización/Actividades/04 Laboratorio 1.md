@@ -48,11 +48,15 @@ interface gi0/2
 switchport mode access
 switchport access vlan 10
 
+interface fa0/1
+switchport mode access
+switchport access vlan 10
+
 interface range fa0/13-24
 switchport mode access
 switchport access vlan 20
 
-interface range fa0/1-12
+interface range fa0/2-12
 switchport mode access
 switchport access vlan 30
 

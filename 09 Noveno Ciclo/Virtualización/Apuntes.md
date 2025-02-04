@@ -62,3 +62,16 @@ Se ejecuta sobre un sistema operativo anfitrión. Por ejemplo:
 - VMware workstation
 - Parallels Desktop
 
+## Centros de datos
+Es toda la infraestructura de red compuesta por servidores, almacenamiento, redes y sistemas para alojar, administrar y procesar grandes volúmenes de datos y aplicaciones de manera eficiente.
+
+### Clasificación en los centros de datos y su rol en la virtualización
+#### Tipos de centros de datos
+- **Centros de datos tradicionales**: Instalaciones físicas con servidores y almacenamiento en sitio. Tienden a ser más seguros porque tenemos ingerencia directa con nuestros elementos, sin embargo, también tienen un costo elevado al corto plazo por aspectos como mantenimiento, energía, contingencia.
+- **Centros de datos en la nube**: Servicios proporcionados por proveedores como AWS, google Cloud, Azure. Tiende a ser más barato en el corto plazo.
+- **Centros de datos híbridos**: Combinan insfraestructura física con servicios en la nube.
+- **Edge data centers:** pequeños centros de datos ubicados cerca de los usuarios finales para reducir la latencia.
+
+### Cómo influye la virtualización a los centros de datos
+La virtualización permite un mejor manejo de recursos para la empresa y podría ayudar a una empresa en sus primeros estados. Esta también ayuda a que se tenga una buena separación.11
+

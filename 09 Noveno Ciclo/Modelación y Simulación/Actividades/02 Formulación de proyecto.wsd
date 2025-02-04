@@ -1,0 +1,54 @@
+@startuml
+
+skinparam packageStyle rectangle
+
+' Usamos top to bottom para una disposición vertical
+top to bottom direction
+
+' Definición de actores
+actor Cliente as cl
+actor Cajero as ca
+actor "Sistema de Colas" as cola
+actor "Administrador del Supermercado" as admin
+actor "Tiempo" as tiempo
+
+' Sistema central
+rectangle "Sistema de Cobro" as SC {
+    usecase "Registrar llegada del cliente" as UC1
+    usecase "Seleccionar productos" as UC2
+    usecase "Formarse en la cola" as UC3
+    usecase "Asignar cajero" as UC4
+    usecase "Escanear productos" as UC5
+    usecase "Procesar pago" as UC6
+    usecase "Aplicar promociones" as UC7
+    usecase "Actualizar tiempos de atención" as UC8
+    usecase "Administrar cajas" as UC9
+    usecase "Gestionar eventos especiales" as UC10
+    usecase "Ajustar operación según horario y eventos" as UC11
+}
+
+' Relaciones ocultas para posicionar algunos actores respecto al sistema
+tiempo -[hidden]- SC
+SC -[hidden]- admin
+
+' Relaciones entre actores y casos de uso
+cl --> UC1
+cl --> UC2
+cl --> UC3
+UC3 --> cola
+cola --> UC4
+UC4 --> ca
+ca --> UC5
+ca --> UC6
+UC6 --> UC7
+ca --> UC8
+admin --> UC9
+admin --> UC10
+
+tiempo --> UC11
+UC11 --> UC3
+UC11 --> UC6
+UC11 --> UC9
+UC11 --> UC10
+
+@enduml

@@ -97,6 +97,13 @@ Como parte de la planificación se tienen que considerar los aspectos críticos 
 - ¿Se han identificado los usuarios potenciales o clientes de los resultados del estudio?
 ### 3. Definición del sistema
 Definir qué aspectos de la realidad tienen que modelarse para poder desarrollar el proyecto. Cuando vamos a modelar el sistema tenemos que tomar en cuenta los aspectos de la realidad que vamos a construir el sistema.
+
+Dentro de esta parte es muy importante poder conocer las interioridades del sistema para poder crear un modelo lo más fiel a la realidad. Dentro de este proceso entra como paso fundamental la **abstracción** y la **simplificación**. Este proceso se podría resumir en identificar las características o propiedades necesarias que puedan servir a los objetivos del estudio.
+
+Aquí entran los siguientes conceptos
+- **Escoger las variables de salida** 
+- Construcción del modelo identificando los componentes del sistema que afectan a estas variables de salida y decidiendo por cada de uno.
+- Una vez tenemos los componentes procedemos a hacer todo diagramado para poder escribirlo como un diagrama de flujo lógico.
 ### 4. Formulación conceptual
 En esta parte se procede a desarrollar un modelo preliminar donde se van a definir los componentes y la forma en la que se relaciona con el exterior.
 ### 5. diseño preliminar del experimento
