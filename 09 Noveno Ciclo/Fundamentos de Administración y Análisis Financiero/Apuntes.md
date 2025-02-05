@@ -1,4 +1,43 @@
 # Apuntes Fundamentos de Administración y Análisis Financiero
+- [[#Introducción|Introducción]]
+	- [[#Introducción#Enfoque|Enfoque]]
+	- [[#Introducción#Libro a utilizar|Libro a utilizar]]
+	- [[#Introducción#Parciales|Parciales]]
+- [[#Estados financieros|Estados financieros]]
+	- [[#Estados financieros#Agrupaciones de cuentas|Agrupaciones de cuentas]]
+		- [[#Agrupaciones de cuentas#De balance|De balance]]
+			- [[#De balance#Cuentas de balance|Cuentas de balance]]
+				- [[#Cuentas de balance#Activo|Activo]]
+				- [[#Cuentas de balance#Pasivo|Pasivo]]
+				- [[#Cuentas de balance#Patrimonio o capital|Patrimonio o capital]]
+		- [[#Agrupaciones de cuentas#De resultados|De resultados]]
+			- [[#De resultados#cuentas de resultados|cuentas de resultados]]
+	- [[#Estados financieros#Estados financieros básicos y sus cuentas|Estados financieros básicos y sus cuentas]]
+		- [[#Estados financieros básicos y sus cuentas#Balance General / Estado de situación financiera|Balance General / Estado de situación financiera]]
+		- [[#Estados financieros básicos y sus cuentas#Estado de resultados / Estado de pérdidas y ganancias|Estado de resultados / Estado de pérdidas y ganancias]]
+		- [[#Estados financieros básicos y sus cuentas#Variaciones en el capital|Variaciones en el capital]]
+			- [[#Variaciones en el capital#Repartición de dividendos (precauciones)|Repartición de dividendos (precauciones)]]
+		- [[#Estados financieros básicos y sus cuentas#Flujos de efectivo|Flujos de efectivo]]
+			- [[#Flujos de efectivo#Fuentes del dinero que puede generar la empresa|Fuentes del dinero que puede generar la empresa]]
+		- [[#Estados financieros básicos y sus cuentas#Notas aclaratorias|Notas aclaratorias]]
+	- [[#Estados financieros#Ejemplo de estados financieros|Ejemplo de estados financieros]]
+- [[#Administración Financiera|Administración Financiera]]
+	- [[#Administración Financiera#Anállisis financiero|Anállisis financiero]]
+	- [[#Administración Financiera#Diferencia entre contabilidad y finanzas|Diferencia entre contabilidad y finanzas]]
+	- [[#Administración Financiera#Áreas generales de las finanzas|Áreas generales de las finanzas]]
+	- [[#Administración Financiera#Áreas relacionadas con finanzas y a las que les sirve|Áreas relacionadas con finanzas y a las que les sirve]]
+	- [[#Administración Financiera#Metas de una empresa|Metas de una empresa]]
+		- [[#Metas de una empresa#Maximización de la riqueza de accionistas|Maximización de la riqueza de accionistas]]
+			- [[#Maximización de la riqueza de accionistas#Iniciativas de la administración para maximizar la riqueza de los accionistas|Iniciativas de la administración para maximizar la riqueza de los accionistas]]
+		- [[#Metas de una empresa#Metas de los directivos|Metas de los directivos]]
+	- [[#Administración Financiera#Origen e importancia de la administración financiera|Origen e importancia de la administración financiera]]
+	- [[#Administración Financiera#Tipos de administración|Tipos de administración]]
+- [[#Estados financieros y su análisis|Estados financieros y su análisis]]
+	- [[#Estados financieros y su análisis#Desde qué punto de vista deben interesarnos los estados financieros|Desde qué punto de vista deben interesarnos los estados financieros]]
+	- [[#Estados financieros y su análisis#Informes financieros|Informes financieros]]
+		- [[#Informes financieros#Balance general|Balance general]]
+		- [[#Informes financieros#Estado de resultados|Estado de resultados]]
+- [[#Hoja de trabajo 1|Hoja de trabajo 1]]
 ## Introducción
 Es un curso donde vamos a usar como base los conceptos que llevamos desde fundamentos de economía hasta costos y en este curso se le van a agregar más detalles relacionados a este asunto.
 
@@ -58,6 +97,16 @@ Este nos permite analizar qué tan buenas o qué tan malas fueron las decisiones
 Nos permite analizar si el capital inicial de un período incrementó o disminuyó. Esto refleja también los resultados de nuestras decisiones en la empresa. Básicamente es la comparación entre el capital inicial más las utilidades menos los dividendos.
 ##### Repartición de dividendos (precauciones)
 Al momento de dar los dividendos nosotros como empresa tenemos que tener cuidado de no perder la liquidez. Para evitar perder liquidez vamos a citar por fechas a los accionistas para darles un porcentaje de sus beneficios de las acciones.
+#### Estructura de capital
+Se refiere a cómo una empresa financia sus operaciones y crecimiento, es decir, la combinación de deuda y capital propio que utiliza para financiarse.
+
+Es la estructura de capital propio y capital ajeno.
+
+> Es cómo la empresa decide repartir el dinero que tiene tanto el que tiene como el que debe.
+
+Esta lleva a tres tipos de decisiones:
+- **Decisiones de financiamiento**: La empresa define la proporción entre deuda y capital propio para potencialmente elegir un tipo de deuda. Esto será con base a la evaluación del costo del financiamiento y el nivel de riesgo aceptable.
+- **Decisiones de inversión**: La empresa va a decidir qué hacer con su capital obtenido por medio de la evaluación de proyectos y activos en los que puede invertir. Este tiene conexión con el *presupuesto capital*.
 #### Flujos de efectivo
 Nos ayuda a determinar cómo fue la administración del dinero real que tuvo la empresa. La empresa tiene diferentes:
 ##### Fuentes del dinero que puede generar la empresa
@@ -87,7 +136,7 @@ Este es el que se encarga de presentar los estados de la empresa en un punto en 
 
 Dentro dee esto se encuentra el análisis vertical y el análisis horizontal.
 ### Diferencia entre contabilidad y finanzas
-Cuando se llega a las finanzas y se toma una actitud de controls sobre lo que se hizo bien y lo que no se puede hacer. Estas tienen enfoque a futuro, es decir, que buscan de don .
+Cuando se llega a las finanzas y se toma una actitud de controls sobre lo que se hizo bien y lo que no se puede hacer. Estas tienen enfoque a **futuro**, es decir, que buscan de don .
 
 Por otra parte se tiene lo que es la contabilidad adminstrativa, esta es una contabilidad orientada a la toma de decisiones.
 
@@ -144,6 +193,8 @@ El informe está formado por dos partes
 #### Balance general
 También llamado método vertical, dónde comparamos el balance de dos años. En este análisis tenemos que prestar **atención al activo**. 
 
+En este tenemos como clave la comparación de un rubro de los estados financieros con otro rubro dentro del mismo estado financiero.
+
 En la diapositiva estamos viendo una empresa con estos datos
 
 | Activo                  | Cantidad |
@@ -159,9 +210,10 @@ En este caso la cuenta crítica es el inventario porque no tenemos efectivo para
 
 Viendo la parte del **pasivo** estamos viendo que la empresa debe el 50% de todo lo que tiene, en este caso es una S.A. por eso es que esta empresa emitió un bono a largo plazo, esto es para que la empresa pueda recibir inyección de capital. Un bono a largo plazo es como una acción de una empresa pero de forma no permanente.
 #### Estado de resultados
-En el caso del estado de resultados tenemos que ponerle atención a las ventas.
+En el caso del estado de resultados tenemos que ponerle **atención a las ventas**.
 
 Se tiene el caso de una empresa con una utilidad inexistente. Lo que se recomienda es reducir costos operativos. Para esto la empresa podría cotizar mejor sus servicios y hacer bien la evaluación con su diagrama organizacional.
 
 Estamos haciendo el análisis de la depreciación de los activos de una empresa, pero **la ley del ISR** establece que la depreciación sería **en línea recta**, es decir, está en constante depreciación.
-
+## Hoja de trabajo 1
+[01 Hoja de trabajo 1](Actividades/01%20Hoja%20de%20trabajo%201.md)

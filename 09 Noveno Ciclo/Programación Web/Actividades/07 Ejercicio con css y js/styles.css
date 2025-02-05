@@ -18,6 +18,10 @@
     border: 4px solid gold;
 }
 
+.producto img {
+    width: 10vw;
+}
+
 .producto button {
     background-color: green;
     color: white;
