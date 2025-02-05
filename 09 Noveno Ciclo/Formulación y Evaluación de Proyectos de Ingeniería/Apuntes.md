@@ -95,3 +95,11 @@ Es la investigación de mercado que entrega información histórica y actual de 
 - **pruebas de producto**: es un estudio donde el producto se expone para evaluar sus propiedades.
 - **Neuromarketing**: Estudian los motivos por los cuales los clientes comprarían nuestros productos.
 - **Estudios de imagen corporativa y reputación**: 
+### Estudios de beneficios y estilo de vida (segmentación de mercado)
+Es comprender los beneficios que los consumidores buscan y cómo su estilo de vida afecta a sus decisiones de compra.
+
+Para poder hacer este estudio se pueden tener varias técnicas como:
+- **Estudios cualitativos**: Reunir a grupos de consumidores y discutir sobre los beneficios que valoran en los productos y explorar cómo estos beneficios se alínean con nuestro produtco.
+- **Encuestas y cuestionarios**: Utilizar encuestas y cuestionarios para poder tener un conocimiento estadístico sobre los intereses de los consumidroes.
+- **Psicológico y demográfico**: Dentro de esto entra en cuenta todo lo que es la personalidad, los deseos de la persona, sus anhelos, su estatus y sus valores. Y también influye su edad y su género.
+
