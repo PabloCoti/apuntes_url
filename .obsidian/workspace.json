@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+                "file": "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
                 "mode": "source",
                 "source": false
               },
@@ -34,21 +34,6 @@
         "id": "a81a65e423476f54",
         "type": "tabs",
         "children": [
-          {
-            "id": "4997908c87ca2fce",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Apuntes"
-            }
-          },
           {
             "id": "14c43d878b3a9f70",
             "type": "leaf",
@@ -104,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
+                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +102,7 @@
               "title": "Backlinks for Apuntes"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,6 +116,7 @@
       {
         "id": "b75ad0bb2ebec2c2",
         "type": "tabs",
+        "dimension": 69.6078431372549,
         "children": [
           {
             "id": "bd4efc1aaa35f6a3",
@@ -175,10 +160,32 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "b6cb224c1dbc133a",
+        "type": "tabs",
+        "dimension": 30.392156862745097,
+        "children": [
+          {
+            "id": "4997908c87ca2fce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Apuntes"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +203,12 @@
   },
   "active": "c321860d664ad3d2",
   "lastOpenFiles": [
-    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades/01 Hoja de trabajo 1.md",
+    "00 Attachments/~$ercicio css y js.docx",
+    "00 Attachments/Ejercicio css y js.docx",
+    "00 Attachments/Importancia de Devops 1.pdf",
+    "00 Attachments/Importancia de Devops.pdf",
     "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades/01 Hoja de trabajo 1.md",
     "08 Octavo Ciclo/Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "00 Attachments/Pasted image 20250204205056.png",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
@@ -214,9 +225,6 @@
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades/02 Formulación de proyecto",
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades",
     "out/09 Noveno Ciclo/Modelación y Simulación",
-    "out/09 Noveno Ciclo",
-    "out",
-    "09 Noveno Ciclo/Modelación y Simulación/Actividades/02 Formulación de proyecto.wsd",
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/07 TODOS los temas vistos.md",
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/04 Pruebas.md",
@@ -233,7 +241,6 @@
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md",
     "09 Noveno Ciclo/Virtualización/Actividades/03 Ejercicio de casas con IoT.md",
-    "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/08 subredes.md",
     "00 Attachments/Untitled 18.jpg",
     "00 Attachments/Pasted image 20250121113759.png",
     "00 Attachments/Pasted image 20250121112906.png",

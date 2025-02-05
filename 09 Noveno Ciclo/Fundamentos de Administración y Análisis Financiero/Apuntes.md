@@ -1,43 +1,4 @@
 # Apuntes Fundamentos de Administración y Análisis Financiero
-- [[#Introducción|Introducción]]
-	- [[#Introducción#Enfoque|Enfoque]]
-	- [[#Introducción#Libro a utilizar|Libro a utilizar]]
-	- [[#Introducción#Parciales|Parciales]]
-- [[#Estados financieros|Estados financieros]]
-	- [[#Estados financieros#Agrupaciones de cuentas|Agrupaciones de cuentas]]
-		- [[#Agrupaciones de cuentas#De balance|De balance]]
-			- [[#De balance#Cuentas de balance|Cuentas de balance]]
-				- [[#Cuentas de balance#Activo|Activo]]
-				- [[#Cuentas de balance#Pasivo|Pasivo]]
-				- [[#Cuentas de balance#Patrimonio o capital|Patrimonio o capital]]
-		- [[#Agrupaciones de cuentas#De resultados|De resultados]]
-			- [[#De resultados#cuentas de resultados|cuentas de resultados]]
-	- [[#Estados financieros#Estados financieros básicos y sus cuentas|Estados financieros básicos y sus cuentas]]
-		- [[#Estados financieros básicos y sus cuentas#Balance General / Estado de situación financiera|Balance General / Estado de situación financiera]]
-		- [[#Estados financieros básicos y sus cuentas#Estado de resultados / Estado de pérdidas y ganancias|Estado de resultados / Estado de pérdidas y ganancias]]
-		- [[#Estados financieros básicos y sus cuentas#Variaciones en el capital|Variaciones en el capital]]
-			- [[#Variaciones en el capital#Repartición de dividendos (precauciones)|Repartición de dividendos (precauciones)]]
-		- [[#Estados financieros básicos y sus cuentas#Flujos de efectivo|Flujos de efectivo]]
-			- [[#Flujos de efectivo#Fuentes del dinero que puede generar la empresa|Fuentes del dinero que puede generar la empresa]]
-		- [[#Estados financieros básicos y sus cuentas#Notas aclaratorias|Notas aclaratorias]]
-	- [[#Estados financieros#Ejemplo de estados financieros|Ejemplo de estados financieros]]
-- [[#Administración Financiera|Administración Financiera]]
-	- [[#Administración Financiera#Anállisis financiero|Anállisis financiero]]
-	- [[#Administración Financiera#Diferencia entre contabilidad y finanzas|Diferencia entre contabilidad y finanzas]]
-	- [[#Administración Financiera#Áreas generales de las finanzas|Áreas generales de las finanzas]]
-	- [[#Administración Financiera#Áreas relacionadas con finanzas y a las que les sirve|Áreas relacionadas con finanzas y a las que les sirve]]
-	- [[#Administración Financiera#Metas de una empresa|Metas de una empresa]]
-		- [[#Metas de una empresa#Maximización de la riqueza de accionistas|Maximización de la riqueza de accionistas]]
-			- [[#Maximización de la riqueza de accionistas#Iniciativas de la administración para maximizar la riqueza de los accionistas|Iniciativas de la administración para maximizar la riqueza de los accionistas]]
-		- [[#Metas de una empresa#Metas de los directivos|Metas de los directivos]]
-	- [[#Administración Financiera#Origen e importancia de la administración financiera|Origen e importancia de la administración financiera]]
-	- [[#Administración Financiera#Tipos de administración|Tipos de administración]]
-- [[#Estados financieros y su análisis|Estados financieros y su análisis]]
-	- [[#Estados financieros y su análisis#Desde qué punto de vista deben interesarnos los estados financieros|Desde qué punto de vista deben interesarnos los estados financieros]]
-	- [[#Estados financieros y su análisis#Informes financieros|Informes financieros]]
-		- [[#Informes financieros#Balance general|Balance general]]
-		- [[#Informes financieros#Estado de resultados|Estado de resultados]]
-- [[#Hoja de trabajo 1|Hoja de trabajo 1]]
 ## Introducción
 Es un curso donde vamos a usar como base los conceptos que llevamos desde fundamentos de economía hasta costos y en este curso se le van a agregar más detalles relacionados a este asunto.
 
@@ -217,3 +178,91 @@ Se tiene el caso de una empresa con una utilidad inexistente. Lo que se recomien
 Estamos haciendo el análisis de la depreciación de los activos de una empresa, pero **la ley del ISR** establece que la depreciación sería **en línea recta**, es decir, está en constante depreciación.
 ## Hoja de trabajo 1
 [01 Hoja de trabajo 1](Actividades/01%20Hoja%20de%20trabajo%201.md)
+
+## Razones financieras
+En el caso de los estados financieros ya sabemos el contexto con el que se maneja, sabemos hacerlos y analizarlos, pero ahora lo que tenemos que hacer es ver lo que son las razones financieras para también hacer un análisis.
+
+Las razones financieras nos ayudan a analizar las decisiones que hemos tomado en la empresa para saber qué hemos hecho bien y qué hemos hecho mal.
+
+A los **inversionistas** les interesa *pronosticar* el futuro. 
+
+Los primeros a los que les interesan las razones financieras es a las personas a las que les tenemos que dar dinero como lo podrían ser los accionistas y los proveedores grandes. Esto porque ellos tienen que evaluar si la empresa tiene la capacidad para pagarles.
+
+### Razones de liquidez
+Para esto tenemos que recordar que la **liquidez** es la capacidad que tiene la empresa para poder cubrir sus **obligaciones** a **corto** plazo.
+
+Esto es importante para poder hacer el cubro de los acreedores a los cuales son los que les debemos dinero. Mientras les pagamos o antes de que les paguemos tenemos que registrar la obligación que tiene la empresa.
+
+Dentro de nuestra liquidez podemos tomar en cuenta el **activo** que se puede convertir en **efectivo** en menos de **un año**. A este tipo de activo lo podríamos llamar **activo líquido**. 
+
+> Dentro de la terminología de liquidez al **activo corriente** le podemos llamar **activo circulante** y al **activo no corriente** le podemos llamar **activo fijo**.
+
+Para las razones de liquidez tenemos lo que es la:
+#### Razon circulante o de solvencia
+$$
+\text{Razón circulante} = \frac{Ativo circulante}{Pasivo circulante}
+$$
+
+Ejemplo:
+$$
+\frac{465}{130} = 3.6veces
+$$
+
+Esta mide **veces** o **término monetario**, esto se refire a cuántas veces podemos pagar nuestras obligaciones. También se puede analizar como "por cada quetzal que tengo de obligación a corto plazo tengo $n$ quetzales para cubrirlo" donde $n$ se refiere al resultado de nuestra *razón circulante*.
+
+En el ejemplo tenemos 3.6 veces para cubrir nuestras obligaciones. Para saber si está bien o mal tenemos que referirnos al **promedio de industria**, en este caso el promedio de la industria está en 5.4 veces. Esto quiere decir que en comparación a empresas similares a la mía me está yendo mal porque las otras empresas tienen más capacidad de cubrir sus obligaciones.
+
+**NOTA**: **Industria** se refiere a un conjunto de empresas. Para o**btener el promedio de industria** las empresas están afiliadas a cámaras de comercio o gremios, de estas instituciones se puede obtener el promedio de industria. Este es un parámetro que nos sirve para saber cómo le estaría yendo a una empresa similar a la mía.
+
+#### Razon de liquidez inmediata (prueba del ácido)
+$$
+\text{Razón de liquidez inmediata (prueba del ácido)} = \frac{\text{Activo circulante} - inventario}{\text{Pasivo circulante}}
+$$
+
+Ejemplo: 
+$$
+\frac{465-270}{130} = 1.5 veces
+$$
+
+En esta se toma en cuenta el activo circulante sin el inventario debido a que esta cuenta es una cuenta delicada debido a que si este si no circula nos hace mal y si circula mucho nos hace bien. 
+
+A esta se le llama prueba del ácido porque esta **de verdad** demuestra **cómo estamos** de forma **realista** sobre cuentas que ya se van a convertir a **efectivo**. Esto debido a que tenemos cuentas que tenemos que ver que se conviertan rápidamente en efectivo, dentro de esto es donde tomamos en cuenta lo que son las políticas de recuperación de dinero de la empresa.
+
+#### Razones de administración de activos
+Esta se encarga de ver qué tan buen uso estamos haciendo de lo que tenemos dentro de la empresa.
+
+#### Razón de rotación de inventarios
+$$
+\text{Razón de rotación de inventarios} = \frac{\text{Costo de ventas}}{Inventario}
+$$
+Ejemplo:
+$$
+\frac{1230}{270} = 4.6 veces
+$$
+
+Este mira el tiempo que nos tardamos en acabarnos el lote (inventario) que hemos producido. Esta es una medida **anual**, la cantidad de veces que nos da es la cantidad de veces **al año** que se **acaba** el inventario.
+
+En el caso del ejemplo nos acabamos el inventario 4.6 veces al año. Esto nos sirve para saber si nuestro manejo de inventario está **bien** o está **mal**. 
+
+**Un ejemplo** de esto será una panadería donde se vende pan de forma diaria, en esta se busca que el pan rote 365 veces al año (un lote al día), si nos está sobrando pan esto quiere decir que está mal.
+
+El motivo por el cuál no queremos que se detenga el inventario es que esto se refleja como **capital detenido**, el problema que se tiene como esto es que dentro del ciclo de rotación de efectivo no se está cumpliendo con la **recuperación rápida** de efectivo.
+
+#### Días de venta pendientes de cobro
+$$
+ \text{Días de ventas pendientes de cobro} = \frac{\text{cuentas por cobrar}}{\text{Promedio de ventas por día}} = \frac{\text{cuentas por cobrar}}{\text{Ventas anuales} / 360}
+$$
+Ejemplo:
+$$
+\frac{180}{(1500/360)} = 43.20 días
+$$
+Esta nos ayuda a determinar en promedio en **cuánto tiempo** nos está **regresando** el dinero (Entre menor sea el valor, mejor). Esta se enfoca en la política de adelantar los ingresos y atrasar los egresos.
+
+En el caso del ejemplo esto nos dice en cuántos días nos está regresando el dinero de cuando vendemos a crédito, nuevamente vamos al **promedio de industria**. En este caso si el promedio es de 60 días nuestra empresa está mejor, tenemos días de ventaja en comparación a otras empresas.
+
+**GLOSARIO**: 
+- **PPC**: Período Promedio de Cobro
+
+#### Razón de rotación de activos fijos
+**FALTA LA FÓRMULA**
+Esta mide la **efectividad** con la que la empresa utiliza su planta y equipo para generar ventas. Es decir, los beneficios que saco de estos y el valor que saco de estos (el buen uso que estoy haciendo de ellos).
