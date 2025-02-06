@@ -75,3 +75,5 @@ Es toda la infraestructura de red compuesta por servidores, almacenamiento, rede
 ### Cómo influye la virtualización a los centros de datos
 La virtualización permite un mejor manejo de recursos para la empresa y podría ayudar a una empresa en sus primeros estados. Esta también ayuda a que se tenga una buena separación.11
 
+## Análisis de migración de arquitectura tradicional a híbrida
+[05 Análisis de migración a centro de datos híbrido](Actividades/05%20Análisis%20de%20migración%20a%20centro%20de%20datos%20híbrido.md)

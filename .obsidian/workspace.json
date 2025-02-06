@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c321860d664ad3d2",
+            "id": "00b5a554c41a3fdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
+                "file": "09 Noveno Ciclo/Virtualización/Apuntes.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
+                "file": "09 Noveno Ciclo/Virtualización/Apuntes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c321860d664ad3d2",
+  "active": "00b5a554c41a3fdb",
   "lastOpenFiles": [
+    "09 Noveno Ciclo/Virtualización/Actividades/05 Análisis de migración a centro de datos híbrido.md",
+    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "00 Attachments/~$ercicio css y js.docx",
     "00 Attachments/Ejercicio css y js.docx",
     "00 Attachments/Importancia de Devops 1.pdf",
@@ -224,7 +226,6 @@
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades/02 Formulación de proyecto/02 Formulación de proyecto.png",
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades/02 Formulación de proyecto",
     "out/09 Noveno Ciclo/Modelación y Simulación/Actividades",
-    "out/09 Noveno Ciclo/Modelación y Simulación",
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/07 TODOS los temas vistos.md",
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/05 Diseño de casos de prueba.md",
     "08 Octavo Ciclo/Ingeniería de Software/Apuntes/04 Pruebas.md",
@@ -240,7 +241,6 @@
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/10 IPv6.md",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/11 Hacer que laboratorio funcione.md",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/12 VTP.md",
-    "09 Noveno Ciclo/Virtualización/Actividades/03 Ejercicio de casas con IoT.md",
     "00 Attachments/Untitled 18.jpg",
     "00 Attachments/Pasted image 20250121113759.png",
     "00 Attachments/Pasted image 20250121112906.png",
