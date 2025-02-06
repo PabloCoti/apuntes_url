@@ -67,7 +67,7 @@ dt
 dd
 
 ## Tablas
-table
+tablephp.
 tr - fila
 td - celda dentro de fila
 th - encabezado
@@ -77,3 +77,8 @@ caption - agrega un título o leyenda a la tabla
 ![](Actividades/05%20Ejercicio%20listados%20y%20tablas.html)
 ## Ejercicio sobre etiquetas de formato y estilos en linea
 ![](Actividades/06%20Ejercicio%20sobre%20etiquetas%20de%20formato%20y%20estilos%20en%20linea.html)
+## Servidor web
+Vamos a estar haciendo uso de wamp que será un servidor de apache con mysql y php.
+
+Apache nos servirá porque es un motor para tener sitios web en el internet.
+
