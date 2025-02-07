@@ -1,16 +1,4 @@
 # Virtualización
-- [[#Introducción|Introducción]]
-- [[#Virtualización|Virtualización]]
-	- [[#Virtualización#Ventajas|Ventajas]]
-	- [[#Virtualización#Tipos de virtualización|Tipos de virtualización]]
-	- [[#Virtualización#Ejercicio: ejemplo de cómo usaría la virtualización en una empresa|Ejercicio: ejemplo de cómo usaría la virtualización en una empresa]]
-- [[#Ejercicio repaso de redes|Ejercicio repaso de redes]]
-- [[#Primer red virtualizada|Primer red virtualizada]]
-- [[#Ejercicio: dos casas con IoT|Ejercicio: dos casas con IoT]]
-- [[#Hipervisor|Hipervisor]]
-	- [[#Hipervisor#Tipos de hipervisor|Tipos de hipervisor]]
-		- [[#Tipos de hipervisor#Bare metal|Bare metal]]
-		- [[#Tipos de hipervisor#Hosteado|Hosteado]]
 ## Introducción
 En la primera clase tuvimos unos repasos respecto a redes y el ingeniero nos dio una pauta de lo que tenemos que preparar en caso de privados y nos incentivó a participar en clase para que al momento de llegar al privado estar más preparados.
 
@@ -77,3 +65,33 @@ La virtualización permite un mejor manejo de recursos para la empresa y podría
 
 ## Análisis de migración de arquitectura tradicional a híbrida
 [05 Análisis de migración a centro de datos híbrido](Actividades/05%20Análisis%20de%20migración%20a%20centro%20de%20datos%20híbrido.md)
+
+Tomar en cuenta que los datos **siempre** se tienen que cifrar. Existen **dos** tipos de encriptado.
+- En tránsito
+- Inmóvil
+## Máquinas virtuales
+### Qué son
+Las máquinas virtuales son entornos computacionales emulados dentro de un sistema físico. Se utilizan para ejecutar sistemas operativos y aplicaciones de manera independiente para aprovechar mejor los recursos de hardware y mejorar la seguridad y portabilidad del software.
+
+### Características
+- **Aislamiento**: Cada VM funciona de manera independiente del sistema anfitrión y de otras VMs
+- **Compatibilidad**: pueden ejecutar diferentes sistemas operativos en una misma máquina física.
+- **Snapshots y clonación**: Permiten crear copias de seguridad de su estado actual
+- **Gestión de recursos**: Usan CPU, RAM y almacenamiento del hardware físico, pero de manera compartida y configurable.
+- **Facilidad de implementación**: Se pueden replicar y desplegar rápidamente en diferentes entornos.
+### Tipos
+- **Máquina virtual de sistema**: Simulan un sistema operativo completo.
+- **Máquina virtual de proceso**: Ejecutan una sola aplicación dentro de un entorno controlado.
+## Contenedores
+Docker es una herramienta donde yo creo contenedores. Los contendores son una tecnología de virtualización **ligera**, sirven para ejecutar aplicaciones de forma aislada en un sistema operativo. Cada contenedor tiene todo lo necesario para que nuestra aplicación funcione.
+
+Los contenedores se saltan toda la parte del hipervisor y sistemas operativos húespedes. Todo trabaja encima del sistema operativo existente. Esto conlleva un mejor manejo de recursos y más rápido.
+
+Docker **no** es un contenedor, es un programa que permite ejecutar aplicaciones en contenedores. 
+
+Tecnologías de contenedores
+- Docker
+- Kubernetes
+- Podman
+- LXC (linux containers)
+

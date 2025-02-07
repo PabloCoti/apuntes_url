@@ -264,5 +264,92 @@ En el caso del ejemplo esto nos dice en cuántos días nos está regresando el d
 - **PPC**: Período Promedio de Cobro
 
 #### Razón de rotación de activos fijos
-**FALTA LA FÓRMULA**
+$$
+\text{Razón de rotación de activos fijos} = \frac{Ventas}{\text{Activos fijos netos}}
+$$
+Ejemplo
+$$
+\frac{1500}{380} = 3.9 veces
+$$
 Esta mide la **efectividad** con la que la empresa utiliza su planta y equipo para generar ventas. Es decir, los beneficios que saco de estos y el valor que saco de estos (el buen uso que estoy haciendo de ellos).
+
+**No** hay que confundir la rotación de activos fijos como el movimiento físico.
+
+#### Razón de rotación de activos totales
+$$
+\text{Razón de rotación de activos totales} = \frac{Ventas}{\text{Activos totales}}
+$$
+
+Ejemplo:
+$$
+\frac{1500}{845}=1.8veces
+$$
+Mide la rotación de todos los activos de la empresa. **Siempre tiene que ser superior a 1**
+
+En el ejemplo tenemos un estándar de la industria .07 mayor que el que tenemos. Lo primero que tenemos que ver es si nuestros equipos están produciendo lo más que pueden o si podemos sacarles más el jugo. Para hacer esto podemos hacer un estudio técnico. También podría ser una opción bajar los activos si nuestra rotación del activo fijo es muy baja. Todo lo que es activo fijo que **no nos sirve** lo podemos **vender**.
+
+### Razones de administración de deudas
+#### Razón de endeudamiento
+$$
+\text{Razón de endeudamiento}=\text{Razón de deuda} - \text{Activos totales} = \frac{\text{Pasivos totales}}{\text{Activos totales}}
+$$
+Ejemplo:
+$$
+\frac{340}{845} = .509 = 50.9\%
+$$
+
+Lo que busca el banco es que lo que tiene que pagar es que no sea mayor al 30% de los ingresos mensuales.
+
+#### Razón de cobertura de intereses
+$$
+\text{Razón de cobertura de interese}=\frac{\text{Utilidades de intereses e impuestos}}{\text{Cargos por intereses}}
+$$
+Ejemplo
+$$
+\frac{130}{40}=3.3veces
+$$
+
+En este caso se ve cuántas veces podrá cubrir la empresa sus intereses de deudas.
+
+En el caso del ejemplo la empresa tiene utilidad aún, cuando está bajo a uno esto quiere decir que la empresa tuvo pérdida.
+
+Cuando más arriba de uno **mejor**.
+
+### Razones de rentabilidad
+La rentabilidad nos va a ayudar a determinar nuestro rendimiento real en relación a algunas situaciones.
+
+#### Margen de utilidad neta
+$$
+\text{Margen de utilidad neta} = \frac{\text{Utilidad neta}}{Ventas}
+$$
+
+Ejemplo
+$$
+\frac{54}{1500} = 3.6\%
+$$
+
+En el caso del ejemplo tenemos que analizar los costos que estamos tenieniendo en la producción del producto o prestación del servicio. En este caso de primera acción deberíamos reducir los costos y los gastos.
+
+#### Rendimiento de activos totales
+$$
+\frac{\text{Utilidad neta}}{\text{Activos totales}}
+$$
+Ejemplo
+$$
+\frac{54}{845} = 6.4\%
+$$
+En este caso el rendimiento de activos totales está bajo, en este caso tenemos que evaluar nuevamente si bajamos los activos totales vendiendo los activos que no nos sirven y aumentar la utilidad de nuestro producto o servicio.
+
+#### Rendimiento del capital contable común
+Estamos viendo el rendimiento que está teniendo la empresa sobre el dinero que tiene la empresa para poder funcionar.
+
+$$
+\frac{\text{Utilidad neta disponible para los accionnistas}}{\text{Capital contable común}}
+$$
+Ejemplo
+$$
+\frac{54}{415} = 13\%
+$$
+
+Es un rendimiento muy bajo. Con base a la tasa de rendimiento requerido establecemos el porcentaje mínimo que queremos que se nos regrese. Miramos cuánto nos va a retornar un proyecto y compararlo con otros proyectos.
+
