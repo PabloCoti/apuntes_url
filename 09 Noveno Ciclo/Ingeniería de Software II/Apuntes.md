@@ -66,3 +66,6 @@ El problema con implementar devops es que no todos lo conocen por lo que se tien
 
 #### Herramientas de devops
 INVESTIGAR
+
+## Resumen métricas de producto
+[05 Métricas de producto](Actividades/05%20Métricas%20de%20producto.md)
