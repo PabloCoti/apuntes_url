@@ -69,3 +69,46 @@ INVESTIGAR
 
 ## Resumen métricas de producto
 [05 Métricas de producto](Actividades/05%20Métricas%20de%20producto.md)
+
+## Métricas
+Las métricas caen dentro de la parte de medición de las actividades sombrilla de las actividades estructurales del software. Recordemos que se llaman actividades sombrilla porque cubre el software durante todo su ciclo de vida.
+
+El chiste de hacer métricas es para poder tener datos predeterminados de un proyecto como lo será:
+- Tiempo
+- Cantidad de personas
+- Calidad del software
+- Costos
+
+Toda esta información es recaudada con base al proyecto con el objetivo de ir mejorando nuestras métricas en proyectos similares a futuro.
+
+Existen varias métricas para nuestro software como lo es
+- **El producto**: (nuestro software terminado)
+- **El proceso**: Cómo vamos a ir haciendo nuestro proyecto y las metodologías que apliquemos.
+- **El proyecto**: el plan de trabajo que tuvimos desde el inicio hasta la entrega de nuestro software.
+
+Un indicador es una métrica o combinación de métricas que proporcionan comprensión sobre el proceso de software.
+
+### Métricas para el modelo de requerimientos
+Se usan datos históricos para poder hacer estimados de costos, errores y componentes que irán en el sistema.
+### Como medir 
+![](../../00%20Attachments/Pasted%20image%2020250210130457.png)
+
+Factor de ajuste 0-5 es las respuestas
+![](../../00%20Attachments/Pasted%20image%2020250210130509.png)
+
+![](../../00%20Attachments/Pasted%20image%2020250210130516.png)
+46 es el la suma de las 14 preguntas y 50 la suma de los factores ponderados
+
+
+|                   |     | promedio |     |
+| ----------------- | --- | -------- | --- |
+| entradas ext      | 15  | 4        | 60  |
+| salidas ext       | 10  | 5        | 50  |
+| consultas         | 12  | 4        | 48  |
+| archivos internos | 8   | 10       | 80  |
+| archivos externos | 1   | 7        | 7   |
+|                   |     |          |     |
+
+$$
+PF = 245 *(0.65+0.01*30) = 232.75
+$$
