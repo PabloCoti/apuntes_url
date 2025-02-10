@@ -105,9 +105,25 @@ Aquí entran los siguientes conceptos
 - Construcción del modelo identificando los componentes del sistema que afectan a estas variables de salida y decidiendo por cada de uno.
 - Una vez tenemos los componentes procedemos a hacer todo diagramado para poder escribirlo como un diagrama de flujo lógico.
 ### 4. Formulación conceptual
-En esta parte se procede a desarrollar un modelo preliminar donde se van a definir los componentes y la forma en la que se relaciona con el exterior.
+En esta parte se procede a desarrollar un modelo preliminar donde se van a definir los componentes y la forma en la que se relaciona con el exterior. (va de la mano con el paso 3)
 ### 5. diseño preliminar del experimento
 Consiste en definir cómo es que va a funcionar el modelo, qué entradas y qué salidas va a tener y cómo va a modificarse el valor de las entradas y cómo van a presentarse los valores de salida.
+
+No se tiene que confundir el aspecto de experimento con simulación debido a que el **experimento** es en la vida **real**.
+
+Define cómo va a estar funcionando el modelo y cómo se va a medir su comportamiento. Trata de definir entradas y  salidas y cómo se modifican.
+
+Este paso tiene varias etapas:
+1. **Definición de objetivos del experimento:** En este paso se tiene que definir qué es lo que esperamos sacar de esta simulación. Esto tiene diferentes tareas:
+	1. Identificar las preguntas que el experimento debe resolver.
+	2. Establecer objetivos específicos y metas medibles para la simulación.
+2. **Selección de variables de entrada y salida**: definir los valores que vamos a controlar y qué mediremos
+	1. **Variables de entrada**: los factores que se pueden ajustar en la simulación como configuraciones, condiciones y otros.
+	2. **Variables de salida**: Son los resultados que mediremos para evaluar el desempeño del sistema y el impacto de las variables de entrada.
+3. **Cómo se configuran las pruebas**: SE tienen que diseñar los diferentes escenarios en los cuales se probará la simulación. Un escenario es una combinación de valores de variables de entrada.
+4. **Configuración de parámetros del experimento**: cuánto va a durar y cuántas veces se va a repetir.
+	1. **Duración de la simulación**. cuánto tiempo va a durar la simulación
+	2. **Número de repeticiones**: cuántas veces se ejecutará cada escenario para tener resultados consistentes y estadísticamente significativos.
 ### 6. Preparación de los datos de entrada
 Tiene que establecerse la forma en la que se van a recibir los valores que el sistema va a procesar.
 ### 7. Traducción del modelo
