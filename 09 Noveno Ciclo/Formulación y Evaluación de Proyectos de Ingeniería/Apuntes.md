@@ -103,3 +103,5 @@ Para poder hacer este estudio se pueden tener varias técnicas como:
 - **Encuestas y cuestionarios**: Utilizar encuestas y cuestionarios para poder tener un conocimiento estadístico sobre los intereses de los consumidroes.
 - **Psicológico y demográfico**: Dentro de esto entra en cuenta todo lo que es la personalidad, los deseos de la persona, sus anhelos, su estatus y sus valores. Y también influye su edad y su género.
 
+## Avance Proyecto Grupal Estudio de Mercado
+https://correo2urledu-my.sharepoint.com/:w:/g/personal/mdsajvin_correo_url_edu_gt/EZ8rMXXJkyVCkLm9quhayZUBokjv2u9D7J1YDcBZzrdLhg?e=f6ssjq
