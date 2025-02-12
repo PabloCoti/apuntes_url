@@ -105,3 +105,43 @@ Para poder hacer este estudio se pueden tener varias técnicas como:
 
 ## Avance Proyecto Grupal Estudio de Mercado
 https://correo2urledu-my.sharepoint.com/:w:/g/personal/mdsajvin_correo_url_edu_gt/EZ8rMXXJkyVCkLm9quhayZUBokjv2u9D7J1YDcBZzrdLhg?e=f6ssjq
+
+## Estudio técnico
+En este estudio nos enfocamos en el lugar donde se va a realizar el proyecto, en este estudio técnico se tiene que tomar mucho en cuenta **qué proyecto** estamos haciendo. Por ejemplo, en el caso de un industrial y se implementa una máquina se tiene que tomar en cuenta factores como energía, espacio, temperatura, humedad, etc. Que esto se acomode a las condiciones bajo las cuales tiene que estar trabajando la maquinaria.
+
+En esta parte es donde justificamos el por qué vamos a comprar ciertas cosas del proyecto. En este punto es cuando entra en cuenta lo que las empresas escogen nuevamente entre los tipos de motivos (barato, rapidez y accesibilidad). 
+
+En esta parte del proyecto tenemos que tomar en cuenta algunos aspectos:
+- Localización
+- Tamaño de instalaciones
+- Distribución de los equipos y maquinaria
+- Establecimiento del proceso productivo
+- Selección y justificación de la maquinaria y equipo necesario para llevar a cabo el servicio
+- Determinación de la características del personal que operará
+
+### Determinación de tamaño
+Tenemos que analizar las proyecciones futuras parahacer frente al dinamismo de la damanda.
+Los factores que deterinan las dimensiones son
+- Magnitud de la demanda de servicios
+- Tipo de permanencia del servicio en el mercado
+- Suministro y disponibilidad de insumos
+- Tecnología y disponibilidad de servicios para mantenimiento de equipos.
+
+### Método cualitativo por puntos
+Se toman en cuenta los factores que afectan a nuetra empresa.
+
+Se estructura como
+
+|                                             |      | Localidad    |                     |
+| ------------------------------------------- | ---- | ------------ | ------------------- |
+| Factor                                      | Peso | Calificación | Ponderación         |
+| test                                        | 1    | 1-10         | $peso*calificación$ |
+| **total** (los pesos siempre deben sumar 1) | 1    |              | Total ponderación   |
+
+### Métodos de evaluación por factores no cuantificables
+- Antecedentes industriales
+- Factor preferencial
+- Factor dominante
+#### Ejercicio factores de localidad
+[04 Factores de localidad](Actividades/04%20Factores%20de%20localidad.md)
+

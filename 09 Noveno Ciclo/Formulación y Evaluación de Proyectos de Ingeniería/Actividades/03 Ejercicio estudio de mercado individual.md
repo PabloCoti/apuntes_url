@@ -43,4 +43,7 @@
 
 En varios casos los restaurantes no tienen estandarizadas las recetas. En este caso también es importante hace entrevistas al personal para poder tener una perspectiva más real del sistema.
 
-Se tiene que ver aspectos también físicos de la infraestructura que tienen.
+Se tiene que ver aspectos también físicos de la infraestructura que tienen. 
+
+Según la ingeniera lo que hicieron fue que para al momento de usarlo en el sistema es que se tiene que hacer las transiciones de montos de chiquito a grande y etc.
+
