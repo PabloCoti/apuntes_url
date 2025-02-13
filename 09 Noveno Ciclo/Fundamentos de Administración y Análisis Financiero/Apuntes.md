@@ -353,3 +353,87 @@ $$
 
 Es un rendimiento muy bajo. Con base a la tasa de rendimiento requerido establecemos el porcentaje mínimo que queremos que se nos regrese. Miramos cuánto nos va a retornar un proyecto y compararlo con otros proyectos.
 
+### Razones del valor del mercado
+Existe una diferencia entre lo que dicen los libros y lo que estamos viendo de la acción. En el caso de razones del valor del mercado relaciona el precio de las acciones de la empresa con sus utilidades y el valor libros por acción, esto ayuda a la administración a saber el posicionamiento de la empresa con base a su desempeño.
+
+#### Razón precio / utilidades
+$$
+\text{Utilidad por acción} = \frac{\text{Utilidad neta disponible para los accionistas comunes}}{\text{Número de acciónes comnes en circulación}}
+$$
+
+Ejemplo
+
+$$
+\frac{54}{25} = 2.16
+$$
+
+Esto visto de otra forma es lo que voy a repartir. lo que vimos arriba es la primera parte, ahora tenemos que saber la razón precio utilidad con base al precio que se le da a la acción en el mercado.
+
+$$
+\text{Razón precio/utilidad} = \frac{\text{Precio de mercado por acción}}{\text{Utilidad poar acción}}
+$$
+Ejemplo
+$$
+\frac{23}{2.16} = 10.6 veces
+$$
+
+Entre más alto el número de veces menor cantidad de utiilidad que estamos sacando de la acción con base.
+
+#### Razón valor de mercado/valor en libros
+Es la relación del precio del mercado de una acción con respecto a su valor en libros. Esto mide el posicionamiento afuera en comparación a lo que dicen mis libros y lo que los accionistas están dispuestos a pagar.
+
+$$
+\text{valor en libros por acción} = \frac{\text{Capital contable}}{\text{Número de acciones comunies en circulación}}
+$$
+ejemplo
+$$
+\frac{415}{25}=16.6
+$$
+Después de esto sacamos el valor de mercado/valor en libros
+$$
+\text{Razón valor de mercado}=\frac{\text{Valor por acción en mercado}}{\text{Valor en libros por acción}}
+$$
+ejemplo
+$$
+\frac{23}{16}=1.4veces
+$$
+
+En el caso del ejemplo quiere decir que los accionistas están dispuestos a pagar 40% más por nuestras acciones.
+
+Si nuestro promedio de mercado es 2.0 entonces estamos mal porque nos falta posicionamiento y al contrario si es 1 estamos bien.
+
+## Sistema de análisis de dupont
+Es una combinación de razones financieras que nos ayuda a ver dos puntos clave
+- Si estamos haciendo buena administración de los activos
+- La rentabilidad de la empresa
+
+**Dupont NO es un sustituto de las otras razones financieras**, es más bien un punto final del análisis financiero que hacemos.
+
+En este sistema tomamos en cuenta el rendimiento sobre los activos totales (ROA) y el retorno sobre el patrimonio (ROE).
+
+### ROA
+$$
+\text{Margen de utilidad neta}*\text{Rotación de activos totales}
+$$
+
+$$
+\text{Margen de utilidad neta}=\frac{\text{Ganancias disponibles para los accionistas comunes}}{\text{Total de activos}}
+$$
+$$
+\text{Rotación de activos totales} =\frac{\text{Ventas}}{\text{Total de activos}}
+$$
+
+Esto me va a dar un **PORCENTAJE** que me va a dar la proporción.
+
+El **ROE** es posterior al ROA de la siguiente forma como ejemplo:
+![](../../00%20Attachments/Pasted%20image%2020250212111248.png)
+
+### ROE
+$$
+ROA*MAF
+$$
+$$
+MAF=\frac{\text{Total en activos}}{\text{Capital de acciones}}
+$$
+Como **conclusión** es que el chiste del DUPONT es que nos permite saber si la empresa está teniendo un buen rendimiento con base a su capital y si hace una buena administración de sus activos.
+
