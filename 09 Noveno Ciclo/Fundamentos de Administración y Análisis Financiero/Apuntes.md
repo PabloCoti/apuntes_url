@@ -1,5 +1,7 @@
 # Apuntes Fundamentos de Administración y Análisis Financiero
 ## Introducción
+![](../../00%20Attachments/Introduccion%20Fundamentos%20de%20Administracion%20y%20Analisis%20Financiero.pptx)
+
 Es un curso donde vamos a usar como base los conceptos que llevamos desde fundamentos de economía hasta costos y en este curso se le van a agregar más detalles relacionados a este asunto.
 
 En este curso se van a ver situaciones similares tanto para ingeniería en sistemas y para ingeniería industrial.
@@ -10,6 +12,7 @@ Libro de economía de Hitman.
 ### Parciales
 Debido a que son dos carreras se debe consensuar si todos pueden traer en computadora para poder realizar los exámenes en computadora.
 ## Estados financieros
+![](../../00%20Attachments/Estados%20Financieros%20y%20su%20Análisis.pptx)
 Esto va a ser un repaso de lo que son los estados financieros, es un tema que hemos visto en los cursos previos de ingeniería económica e ingeniería de costos.
 ### Agrupaciones de cuentas
 #### De balance
@@ -93,6 +96,9 @@ La función del administrador financiero es minimizar el riesgo e impulsar la ca
 
 Parte de la importancia del manejo de la administración financiera es saber qué pasará si x o y situación, lo que va a suceder en la empresa.
 ### Anállisis financiero
+![](../../00%20Attachments/Análisis%20Razones%20Financieras_1.pptx)
+![](../../00%20Attachments/Análisis%20Razones%20Financieras_2.pptx)
+
 Este es el que se encarga de presentar los estados de la empresa en un punto en cierto tiempo.
 
 Dentro dee esto se encuentra el análisis vertical y el análisis horizontal.

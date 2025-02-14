@@ -2,7 +2,7 @@
 La modelación y simulación se aplica en todos lados y se tiene que tener presente. 
 
 ## Modelación y Simulación
-[Presentación](https://moodle2025.url.edu.gt/pluginfile.php/300424/mod_resource/content/0/Sistema%2C%20Modelaci%C3%B3n%20y%20Simulaci%C3%B3n.pdf)
+![](../../00%20Attachments/Sistema,%20Modelación%20y%20Simulación.pdf)
 
 La modelación y simulación van de la mano, **no se puede simular si no se modela**.
 
@@ -35,7 +35,12 @@ La modelación y simulación es una forma muy importante de hacer pruebas y pred
 
 [Planteamiento](https://correo2urledu-my.sharepoint.com/:w:/g/personal/mdsajvin_correo_url_edu_gt/EVcmdSFySCtFk2JDtTgzJG8B6qEe01uh5DgnYVthZMVqGQ?e=naxfty)
 
+Dentro del planteamiento del problema básicamente lo que hicimos fue:
+- Planteamiento del problema
+- Justificación
+
 ## Sistema
+![](../../00%20Attachments/Sistemas,%20Propiedades,%20Estados,%20Tipos%20de%20Sistemas.pdf)
 Recordamos que un sistema es un conjunto de subsistemas que interactúan con un objetivo claro.
 
 Un sistema generalmente tiene tres pasos:
@@ -45,8 +50,8 @@ Un sistema generalmente tiene tres pasos:
 
 ### Tipos de sistema
 Existen dos tipos de sistemas:
-- **Estructural**: identifica y define cada una de sus partes.
-- **Funcional**: considera sus partes y sus interrelaciones.
+- **Estructural**: identifica y define cada una de sus partes. Es como decir quiero una casa con x, y, z ambientes.
+- **Funcional**: considera sus partes y sus interrelaciones. Es como decir, el baño va a estar cerca de la entrada de las visitas, pero lejos del comedor por motivos de ruido y limpieza.
 
 Siempre que estamos diseñando un sistema primero tenemos que estructurarlo y posteriormente establecer el funcionamiento.
 
@@ -74,7 +79,7 @@ Para poder construir un modelo tenemos que entender qué es lo que queremos mode
 ## Pasos en un estudio de simulación
 Según el autor varía la cantidad de pasos, para algunos son 9 pasos y para otros son 7.
 ### 1. Definición del problema
-Tenemos que establecer la problemática que queremos solucionar con la modelación y simulación. Se quiere transformar una situación que tenemos como problema en una solución, para esto es necesario entender cómo funciona el sistema a modelar.
+Tenemos que establecer la problemática que queremos solucionar con la modelación y simulación. Se quiere **transformar** una situación que tenemos como **problema en una solución**, para esto es necesario entender cómo funciona el sistema a modelar.
 #### Cómo definirlo
 - **Planteamiento**: identificar una situación que se nos presenta que identificamos como problema y explicarlo.
 - **Justificación**: explicar por qué es un problema.
@@ -97,6 +102,8 @@ Como parte de la planificación se tienen que considerar los aspectos críticos 
 - ¿Se han identificado los usuarios potenciales o clientes de los resultados del estudio?
 ### 3. Definición del sistema
 Definir qué aspectos de la realidad tienen que modelarse para poder desarrollar el proyecto. Cuando vamos a modelar el sistema tenemos que tomar en cuenta los aspectos de la realidad que vamos a construir el sistema.
+
+Va de la mano con la [4. Formulación conceptual](#4.%20Formulación%20conceptual)
 
 Dentro de esta parte es muy importante poder conocer las interioridades del sistema para poder crear un modelo lo más fiel a la realidad. Dentro de este proceso entra como paso fundamental la **abstracción** y la **simplificación**. Este proceso se podría resumir en identificar las características o propiedades necesarias que puedan servir a los objetivos del estudio.
 
