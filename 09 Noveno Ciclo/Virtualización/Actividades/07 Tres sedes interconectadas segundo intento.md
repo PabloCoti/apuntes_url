@@ -268,3 +268,7 @@ network 192.168.230.0
 no auto-summary
 exit
 ```
+
+## Funcionamiento
+![](../../../00%20Attachments/Pasted%20image%2020250217222256.png)
+![](../../../00%20Attachments/Pasted%20image%2020250217222303.png)
