@@ -131,6 +131,14 @@ Este paso tiene varias etapas:
 4. **Configuración de parámetros del experimento**: cuánto va a durar y cuántas veces se va a repetir.
 	1. **Duración de la simulación**. cuánto tiempo va a durar la simulación
 	2. **Número de repeticiones**: cuántas veces se ejecutará cada escenario para tener resultados consistentes y estadísticamente significativos.
+5. **Recolección de datos**
+	1. Cómo se recopilaránlos datos y cómo se almacenarán.
+6. **Evaluación de recursos necesarios**
+	1. Qué necesitamos para hacer el experimento.
+7. **Pruebas de validación preliminares**
+	1. ¿Está todo funcionando como debería?
+8. **Documentación del diseño del experimento**
+	1. ¿Cómo registrará el diseño los procedimientos?
 ### 6. Preparación de los datos de entrada
 Tiene que establecerse la forma en la que se van a recibir los valores que el sistema va a procesar.
 ### 7. Traducción del modelo

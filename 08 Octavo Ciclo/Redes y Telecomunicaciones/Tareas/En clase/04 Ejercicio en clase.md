@@ -62,8 +62,14 @@ interface se0/0/1
 ip address 150.15.15.1 255.255.255.252
 no shut
 
-router
+router rip
+version 2
 
+network 150.15.15.0
+network 140.5.0.0
+network 140.10.0.0
+
+no auto-summary
 exit
 ```
 ### Vlan5
