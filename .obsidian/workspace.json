@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5198be47f3ae88dd",
+        "id": "ecde1f1f4793932b",
         "type": "tabs",
         "children": [
           {
-            "id": "964526ac7f492bc0",
+            "id": "50c9426aa3dc452a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/04 Factores de localidad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "04 Factores de localidad"
-            }
-          },
-          {
-            "id": "4025e9b1206d4d7a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,11 +196,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4025e9b1206d4d7a",
+  "active": "50c9426aa3dc452a",
   "lastOpenFiles": [
+    "09 Noveno Ciclo/Ingeniería de Software II/Actividades/06 Resumen medición y métricas del software sommerville.md",
+    "00 Attachments/Pasted image 20250218215130.png",
+    "00 Attachments/Pasted image 20250218215113.png",
+    "00 Attachments/Pasted image 20250218214936.png",
+    "00 Attachments/Pasted image 20250218213530.png",
+    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/04 Factores de localidad.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/03 Ejercicio estudio de mercado individual.md",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/04 Factores de localidad.md",
     "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Actividades/07 Tres sedes interconectadas segundo intento.md",
     "00 Attachments/Pasted image 20250217222303.png",
@@ -241,11 +230,8 @@
     "00 Attachments/Sistema, Modelación y Simulación.pdf",
     "00 Attachments/Sistemas, Propiedades, Estados, Tipos de Sistemas.pdf",
     "00 Attachments/Pasted image 20250212111248.png",
-    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "00 Attachments/Pasted image 20250210130516.png",
     "00 Attachments/Pasted image 20250210130509.png",
-    "00 Attachments/Pasted image 20250210130506.png",
-    "00 Attachments/Pasted image 20250210130457.png",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/05 Métricas de producto.md",
     "09 Noveno Ciclo/Modelación y Simulación/Actividades/~$ Formulación de proyecto.wsd",
     "09 Noveno Ciclo/Modelación y Simulación/Actividades/01 Ejercicio dos sistemas continuos y dos sistemas discretos.md",
@@ -257,9 +243,6 @@
     "00 Attachments/Ejercicio css y js.docx",
     "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades/01 Hoja de trabajo 1.md",
     "08 Octavo Ciclo/Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
-    "00 Attachments/Pasted image 20250204205056.png",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/02 Ejercicio estudio de mercado grupal.md",
-    "out/09 Noveno Ciclo/Modelación y Simulación/Actividades/02 Formulación de proyecto/02 Formulación de proyecto.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ingeniería de Software/Apuntes/Untitled.canvas",
