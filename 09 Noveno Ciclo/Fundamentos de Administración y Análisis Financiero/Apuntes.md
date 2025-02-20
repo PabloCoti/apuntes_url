@@ -443,3 +443,89 @@ MAF=\frac{\text{Total en activos}}{\text{Capital de acciones}}
 $$
 Como **conclusión** es que el chiste del DUPONT es que nos permite saber si la empresa está teniendo un buen rendimiento con base a su capital y si hace una buena administración de sus activos.
 
+## Presupuestos
+Hasta este punto habíamos visto lo que **ya había** sucedido en una empresa. Pero ahora vamos a ver la parte de lo que es tomar decisiones **antes** de que sucedan las cosas.
+
+El presupuesto es muy importante porque es la guía que tiene que tener una empresa para poder operar, si una empresa no tiene presupuesto va a ciegas y **no** tiene la información necesaria para tomar decisiones.
+
+Dentro de lo que es el presupuesto de la empresas se pueden hacer ligeros cambios a lo largo de la operación, la única excepción donde **no** se puede cambiar es en las **OGN**.|
+
+### Vídeo
+Según el vídeo, un presupuesto se entiende como el cálculo anticipado de los gastos de la actividad económica. Es un plan de acción dirigido a completar una meta prevista en un período establecido.
+
+En las empresas los presupuestos implica:
+- **Planeación**: establecer las metas que quiere cumplir la empresa
+- **Dirección**: Cómo vamos a llegar a cumplir las metas
+- **Control**: Ver cómo vamos en el proceso de llegar a la meta
+
+Es peligrosos que un emprendedor no tenga claras las metas de su empresa, tampoco lo que puede producir y lo que puede llegar a generar en ventas.
+
+El presupuesto está formado por dos mini presupuestos:
+- Operación
+- Financiero
+
+Los presupuestos **no** son fijos. El presupuesto sirve para ir viendo diferentes métricas de la empresa.
+
+- Rígidos
+- Estáticos
+
+Existen en diferentes períodos
+- Corto plazo
+- Largo plazo
+
+### Planificaciones
+#### Estratégica
+Es una planificación del posicionamiento que queremos que tenga nuestra empresa después de un tiempo, para poder llegar a estas metas tenemos que hacer lasa planificaciones por partes como lo sería el POA con las metas, objetivos. 
+
+Esta es característica para el **largo** plazo.
+
+El **POA** tiene como objetivo lograr una parte de la meta establecida con objetivos cuantitativos y cualitativos y con este se tiene que acompañar con el presupuesto, hay que tomar en cuenta que el presupuesto va a funcionar como el respaldo financiero de lo que se quiere logar hacer en el POA.
+
+##### Principios y objetivos de control presupuestal
+- **Previsión**: 
+- **Planeación**:
+- **Organización**:
+- **Dirección**: es establecer quién va a hacer qué dentro de la planificación que se tiene
+- **Control**: evaluar qué estuvo bien y qué estuvo mal para poder decidir qué va a continuar como venía y qué es lo que se va a cambiar
+
+##### Relación entre planes y presupuestos
+El presupuesto va de la mano con la planeación porque no se pueden llevar a cabo las actividades planeadas si no se tienen los recursos económicos para poder hacerlas.
+
+##### Dirección estatrégica, la planeación y el presupuesto: ventajas y desventajas
+Se deja establecido por escrito la acción a tomar dentro de las situaciones fuera de ordinario. Cuando se hacen las planificaciones se tiene que asignar a una persona en específico lo que tiene que desarrollar para poder tener a alguien designado que va a ser el que tiene que rendir cuentas, normalmente la rotación de personal no tiene que ser tan alta y es por esto que se puede asignar una meta específica a una persona.
+
+###### Ventajas
+En el caso del presupuesto sabemos con anticipación si vamos a tener recursos, el presupuesto es el único que nos dice si tenemos dinero o no. En el presupuesto también maneja el concepto de costo-beneficio, cada área de la empresa normalmente va a hacer diferentes propuestas y para esto la empresa evalúa el costo-beneficio para saber si desarrolla el proyecto o no.
+
+Dentro de lo que son las actividades que hace la empresa se tienen que jerarquizar para poder establecer cuáles tenemos que priorizar para mejorar en las áreas de la empresa que nos interesan más.
+
+###### Desventajas
+El método del juicio es una característica subjetiva con base a la actitud de la persona que está tomando las decisiones de la persona que está al mando en la empresa.
+
+En muchos lugares toman el presupuesto como algo fijo e invariable, lo cuál obstaculiza o impide la toma de decisiones en la empresa y cambiar su flujo de acciones.
+
+El sistema de planifiación que es manejado de forma cuantitativa y para esto se toman en cuenta loss márgenes del flujo que se tiene que hacer.
+
+A parte de lo que es el sistema de planificación.
+
+Lograr consciencia en personal a l as metas de POA. La única forma de hacer que se.
+
+### Pasos a seguir para hacer el presupuesto
+Cuando se presupuesta se tiene que tomar en cuenta que hay cosas que no dependen de mí, a estas les llamamos variables no controlables. Un ejemplo de esto podría ser un ajuste en las tasas que se tienen en los bancos, lo único que tiene la empresa por hacer es tener que pagarlo.
+
+Por otro lado está lo que sí puedo controlar con lo cuál sí podemos manejarnos dentro de la empresa.
+
+### Qué necesitamos saber para presupuestar
+Tenemos que saber sobre
+- **Economía**: es el motivo por el que tenemos trabajo
+- **Estadística**: ayuda en el sentido de que sabemos datos históricos para poder hacer predicciones.
+- **Administración**: en las etapas del proceso administrativo tenemos que estar detrás del presupuesto
+- **Contabilidad**: Con la base de lo que ya pasó podemos considerar y analizar las tendencias que se está teniendo con el presupuesto actual
+- **Finanzas**: Nos apoyamos del presupuesto para las finanzas.
+- **Costos**: Parte de lo que tenemos que poder hacer en costos es importante saberlos.
+
+### Principio de excepción
+Nos establece cuándo debemos indagar qué es lo que pasó ante una variación de los montos reales vs lo presupuestado. Este es un depende, por ejemplo, si gastamos más en nómina sí tenemos que indagar, pero si son 10 más en papeles puede ser que no valga la pena.
+
+En resumen es analizar la diferencia y el motivo a grandes rasgos para saber si se indaga a detalle o no.
+
