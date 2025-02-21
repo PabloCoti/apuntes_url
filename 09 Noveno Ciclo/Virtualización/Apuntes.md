@@ -95,3 +95,37 @@ Tecnologías de contenedores
 - Podman
 - LXC (linux containers)
 
+Estamos viendo un ejemplo de docker donde se nos explica los conceptos clave de docker
+Dentro de estos está:
+- **Imagenes**
+	- *Sistema base*: es lo que tenemos principalmente en nuestro proyecto, por ejemplo, en un proyecto python deberíamos tener la imagen de python.
+	- *Aplicación*: es donde va a estar nuestro proyecto como tal.
+	- *Dependencias*: son las librerías y agregados que le estamos poniendo a nuestro proyecto
+	- *Configuraciones*
+	- *Instrucciones de Ejecución*
+- **Contenedor**
+	- *Entorno de ejecución*: es la instancia de la imagen de nuestro proyecto
+	- *Procesos en ejecución*
+	- *Almacenamiento*
+- **Volumenes**
+	- *Sistema de almacenamiento persistente*: es para no perder la información luego de que se borre el contenedor y se vuelva a levantar.
+	- *Se almacenan fuera del contenedor*: es almacenado en el sistema operativo, no en el contenedor.
+	- *Compartibles entre contenedores*: pueden ser utilizados por varios contenedores dentro de lo que es el proyecto.
+- **Redes**
+	- *Redes aisladas*
+	- *Puertos expuestos* podemos hacer que el contenedor se comunique con el host por medio de un puerto
+	- *Redes internas*: esto nos sirve para poder hacer que diferentes contenedores se comuniquen entre sí.
+
+Estamos viendo los comandos básicos de docker, nos estamos guiando de los comandos que están en la presentación, pero es casi lo mismo que esta [Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf) 
+
+Primero estámos creando la primera imagen, en este caso estámos haciendo uso de apache
+- **Crear imagen**: `docker create --name apache httpd`
+- **Listar imágenes**: `docker image`: debería salir el httpd en la lista de imágenes que tenemos
+- **Ejecutar contenedor**: `docker run -d -p 8081:80 --name miapache httpd`, esto nos va a devolver un código que significa que sí se está ejecutando.
+- **Ver contenedores ejecutándose**: `docker ps` 
+- **Ver contenedores existentes**: `docker ps -a` 
+- **Detener contenedor** `docker stop miapache`
+- **Eliminar contenedor** `docker rm miapache`
+- **Eliminar imágen**: `docker rmi httpd`
+
+Estamos viendo que docker también nos ayuda dentro de lo que es el CI/CD automation.

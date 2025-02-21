@@ -153,3 +153,24 @@ Un una vez tenemos todos los resultados bien establecidos y el modelo está comp
 Una vez tenemos los resultados los analizamos y establecemos la conclusión a la que se llegará con los datos y desarrollar la explicación del por qué y todo el análisis que surge a base de toda la info recaudada.
 ### 12. Implementación y documentación
 Documentar todo con base al análisis y la interpretación que hemos tenido. 
+
+## Simulación de eventos discretos
+### Modelos
+Tenemos que tener nuevamente la representación de la realidad en un modelo.
+
+Supuestos simples son usados para capturar el comportamiento importante.
+
+#### Tipos de modelo
+- Físico
+- Cascada
+- Analógico
+- Simulación por computadora
+- De mantenimiento
+
+### Simulación de eventos discretos
+Es un tipo de simulación donde se generan y administran eventos en el tiempo por medio de una cola de eventos ordenada según el tipo de simulación en que deben ocurrir para que el simulador lea la cola y dispare los eventos.
+
+Es una herramienta para simular el comportamiento y desempeño de procesos del mundo real. La mayoría de los procesos de una organización se pueden describir con una serie de eventos separados y discretos que ocurren a lo largo de cierto tiempo y que alterna el estado de un sistema.
+
+Un evento puede ser la llegada de un cliente, camión, inicio de un proceso, etc.
+
