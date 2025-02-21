@@ -145,3 +145,14 @@ Se estructura como
 #### Ejercicio factores de localidad
 [04 Factores de localidad](Actividades/04%20Factores%20de%20localidad.md)
 
+Se tienen que tomar en cuenta diferentes factores como lo será la **SE TIENEN QUE HACER TRES COTIZACIONES EN EL CASO DE LAS COSAS QUE SE TENGAN QUE COMPRAR**
+- **Localización**: es el lugar donde vamos a desarrollar nuestro software, en el caso de ser remoto se toma en cuenta solamente una casa que será la de la persona que va a facturar el proyecto.
+- **Tamaño de instalaciones**: aquí se describe la oficina en la que se va a estar trabajando haciendo una pequeña distribución de planta (un sketch), en caso de que sea remotod solo se hace del de la casa de la persona que va a facturar.
+- **Distribución de los equipos y maquinaria**: Las especificaciones de las computadoras que se tienen que utilizar, los precios de las computadoras (cotizaciones), si se tienen que incluir escritorios, sillas, etc. TODO LO MÁS DETALLADO POSIBLE
+- **Establecimiento del proceso productivo**: aquí tenemos que ver la metodología con la que vamos a trabajar como en nuestro caso podría ser scrum o alguna otra de las metodologías de desarrollo que tenemos.
+- **Selección y justificación de la maquinaria y equipo necesario para llevar a cabo el servicio**: aquí es donde van las tres cotizaciones y el por qué son necesarias las cosas que se están pidiendo.
+- **Determinación de las características del personal**: aquí definimos el perfil profesional de la persona que vamos a tener para que trabaje con nosotros.
+- **Plan de mantenimiento**: aquí tenemos que establecer cada cuánto le vamos a dar mantenimiento a nuestro software y al servidor (TODO lo que lleva mantenimiento).
+- **Determinación de áreas de trabajo y flujos de proceso**: dentro del caso de sistema nosotros tenemos que tomar en cuenta el flujo de trabajo que vamos a seguir lo podríamos tomar como????????
+- **Manuales de proceso productivos**:
+- **Medidas de verificación de calidad**: aquí es donde entra todo lo que son pruebas del software y cosas que tenemos que hacer.

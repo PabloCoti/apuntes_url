@@ -1,4 +1,16 @@
 # Estudio técnico individual
+## Localización
+El proyecto será desarrollado de forma remota por parte del equipo de desarrollo, sin embargo, se va a tener una localización central que es donde va a estar trabajando el encargado del proyecto. La central está ubicada en Quetzaltenango, Quetzaltenango en la 4ta avenida 1-28 zona 5 Colonia Molina.
+
+## Tamaño de las instalaciones
+Las instalaciones de lo que será la central tiene un perímetro 65.68m y un área de 233.72m2
+
+El área de trabajo tiene un area de 21.7m2 y un perímetro de 19.15m
+
+**agregar diagrama de distribución de planta**
+
+## Distribución de equipos y maquinaria
+
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
