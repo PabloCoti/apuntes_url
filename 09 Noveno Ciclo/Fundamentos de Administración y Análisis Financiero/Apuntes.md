@@ -444,6 +444,7 @@ $$
 Como **conclusión** es que el chiste del DUPONT es que nos permite saber si la empresa está teniendo un buen rendimiento con base a su capital y si hace una buena administración de sus activos.
 
 ## Presupuestos
+![](../../00%20Attachments/Introducción%20Presupuestos.pptx)
 Hasta este punto habíamos visto lo que **ya había** sucedido en una empresa. Pero ahora vamos a ver la parte de lo que es tomar decisiones **antes** de que sucedan las cosas.
 
 El presupuesto es muy importante porque es la guía que tiene que tener una empresa para poder operar, si una empresa no tiene presupuesto va a ciegas y **no** tiene la información necesaria para tomar decisiones.
@@ -528,4 +529,95 @@ Tenemos que saber sobre
 Nos establece cuándo debemos indagar qué es lo que pasó ante una variación de los montos reales vs lo presupuestado. Este es un depende, por ejemplo, si gastamos más en nómina sí tenemos que indagar, pero si son 10 más en papeles puede ser que no valga la pena.
 
 En resumen es analizar la diferencia y el motivo a grandes rasgos para saber si se indaga a detalle o no.
+
+### Relación costo-volumen-utilidad
+Esto es porque los tres van relacionados, un ejemplo de esto sería que si se reduce el costo se tendría que producir en menor volumen y la utilidad se va a ver reducida. El chiste de todo esto es **entender** que no podemos cambiar una sola cosa y esperar que el resto no se vea afectado.
+
+### Clasificación de los presupuestos
+- **Flexibilidad**
+	- *Rígidos*
+	- *Variables*
+- **Período**
+	- *Corto plazo*: normalmente son aquellos iguales o menores a un año, estos son los famosos POAs. El objetivo de este es ser lo más preciso posible con las predicciones de los costos que tendremos el año entrante (normalmente se hace en los últimos meses anteriores al año en el que se va a ejecutar el presupuesto).
+	- *Largo plazo*: este sirve cuando la empresa quiere empezar una nueva inversión entonces, debido a que esto implica un desembolso grande, la empresa va a evaluar si se retorna o no la inversión, aquí es dónde entra lo que es el VAN.
+- **Campo de aplicación**
+	- *Operación*: aquí se hace la proyección a futuro, no con base en el pasado.
+	- *Financieros*: aquí se tiene que hacer un balance general presupuestado.
+- **Sector**
+	- *Privado*: entidades privadas
+	- *Público*: entidades públicas, como lo sería el gobierno.
+### Sistemas de presupuestos
+#### Maestro o global
+Es el presupuesto que engloba todo lo que la empresa espera realizar el otro en términos monetarios, normalmente está respaldado por un POA, esto para poder ver el panorama completo y nos sirve para avanzar con las metas a largo plazo.
+#### Presupuesto base cero
+**No** es un presupuesto que parte de la nada, las empresas tienden a hacer una división de sus sucursales, a cada área se le asigna un centro de costos y lo que hace el jefe es ir al sistema de contabilidad y muestra los costos que están teniendo cada área. Cada sucursal tendrá un centro de costo. Esto sirve para poder saber cómo está cada sucursal para que cada unidad se pueda responsabilizar.
+
+En el centro de costo lo que hace el presupuesto cero es reconocer que son áreas diferentes y para presentar cada área se tienen paquetes de decisión con base al área (como lo podria ser del área financiera para el área de finanzas de la empresa) y aquí se tiene que plantear una necesidad que tiene este área para poder hacer la solicitud, dentro de la justificación se explica el por qué se necesita y qué es lo que podría pasar si no se llega a satisfacer esa necesidad y, lo más importante, cuánto dinero es el que se va a necesitar para poder cubrir esa necesidad.
+
+Este no funciona por su cuenta, este es un sistema de **apoyo** al sistema de presupuesto maestro global.
+#### Presupuesto por programas (público)
+Es un presupuesto que se hace público, lo que pasaría por parte del gobierno si funcionara bien, que nosotros podríamos ver el presupuesto dónde miramos cuánto tenemos de presupuesto y cuánto se ha ejecutado.
+
+Un ejemplo también es cuando se hacen proyectos financiados por parte de donaciones de otros países, en este caso se tiene que hacer informes periódicos conforme se avanza con el proyecto y al finalizar el proyecto se da un informe final donde se reporta todo lo que se hizo.
+
+### Presupuesto de ventas
+![](../../00%20Attachments/PRESUPUESTO%20DE%20VENTAS.pptx)
+
+Esta es la que nos define si vamos a tener todos los recursos necesarios para poder cubrir las ventas que tenemos proyectadas. Esta nos da una guía de cuáles son las metas a las que debemos llegar, para esto tenemos que establecer la cuota de venta que debemos cubrir ya sea por sucursal, trabajador, etc.
+
+Dentro de la empresa los mercadólogos trabajan mucho con predicciones, sin embargo, tenemos una desventaja y es que solo se mira cómo va la empresa por sí solo y no se ve el presupuesto para poder tener más contexto de lo que pasa al rededor de la empresa y podría llegar a nublar las decisiones a que no sea las óptimas.
+
+Para hacer un presupuesto de venta tenemos que tomar en cuenta tres cosas:
+- **Específicos de ventas**
+- **Fuerzas económicas generales**: se refiere al contexto económico bajo el que se está manejando la empresa como lo podría ser el país.
+- **De influencias administrativas**: aquí se refiere a lo que es la gestión que se le da a la empresa.
+
+#### Factores específicos de ventas
+- **De ajuste**: por causas fortuitas o de fuerza mayor, accidentales, no consuetudinarios. Un ejemplo de esto serían los sindicatos, que bajo situaciones más prolongadas podrían llegar quebrar una empresa. Un ejemplo de lo que puede pasar con los sindicatos es lo que pasó en Alemania, los empleados hicieron una huelga a pesar de que la empresa está mal y lo que provocó la huelga fue despidos masivos. Otro ejemplo es la fábrica de Cantel, se declaró en quiebra por tanta exigencia del sindicato.
+	- **Efecto perjudicial**: hace daño a la empresa.
+	- **Efecto saludable**: ayuda a el crecimiento y producción de la empresa.
+- **De cambio**: son las modificaciones que se efectuarán y que van a afectar a las ventas. Podría ser algo tan sencillo como cambio en la calidad del producto, sí va a haber un grupo de consumidores que detecten el cambio en el producto y se puede tener un aumento o un decremento de ventas. Esto depende de nosotros.
+- **Corrientes de crecimiento**: aquí se involucran las superaciones de ventas pro expansión de la propia industria. Se esperan incrementos en la empresa.
+#### Fuerzas económicas generales
+Son los factores externos que influyen en las ventas, los datos nos los dan las instituciones de crédito, dependencias gubernamentales y organismos particulares. En el caso de Guatemala estos datos nos los da el **Banco de Guatemala**, esto lo tenemos que considerar porque esto afecta a las ventas, si la economía está mal puede que las personas tengan menos capacidad de comprar tanto producto.
+
+#### Influencias administrativas
+Factor de caracter interno de la entidadd, los directivos toman decisiones en base a los factores anteriores. 
+
+Esto se refiere a cómo es que nuestros administradores de la empresa están tomando las decisiones, aquí se tienen porcentajes de crecimiento, aquí podríamos tener un % negativo o cercano a cero querría decir que los administradores están tomando malas decisiones.
+
+Este se enfoca **netamente** en las **decisiones** que se toman en la empresa, no en externalidades.
+
+Se tiene que hacer la diferencia entre **error** e **irregularidad** aquí la diferencia es que el error es **no intencional** es un fallo por falta de conocimiento o mala gestión mientras que en la irregularidad es **intencional**.
+
+#### Presupuesto de ventas en unidades y valores
+- Eje de los demás presupuestos
+- Debe cuantificarse en unidades
+- Posteriormente se procede a su valuación
+
+##### Fórmula
+$$
+PV=\text{Presupuesto de ventas}
+$$
+$$
+V=\text{Ventas del año anterior}
+$$
+$$
+F=\text{Factores específicos de ventas}
+$$
+$a = \text{factores de ajuste}$
+$b = \text{factores de cambio}$
+$c = \text{factores de corrientes de crecimiento}$
+
+$$
+crecimiento
+$$
+
+$$
+PV={(V+-F)E}A
+$$
+
+**Ver ejemplo (por cada producto)**
+
+![](../../00%20Attachments/Complemento%20Presupuesto%20de%20Ventas%20Formato.xlsx)
 

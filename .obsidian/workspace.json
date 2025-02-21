@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
+                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
                 "mode": "source",
                 "source": false
               },
@@ -61,7 +61,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -75,7 +75,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 Noveno Ciclo/Virtualización/Apuntes.md",
+                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -102,7 +102,8 @@
               "title": "Backlinks for Apuntes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,8 +159,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b6cb224c1dbc133a",
@@ -172,9 +172,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
+                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
                 "followCursor": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -203,19 +203,27 @@
   },
   "active": "50c9426aa3dc452a",
   "lastOpenFiles": [
+    "00 Attachments/Complemento Presupuesto de Ventas Formato.xlsx",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+    "00 Attachments/PRESUPUESTO DE VENTAS.pptx",
+    "00 Attachments/~$Análisis Razones Financieras_2.pptx",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades/01 Hoja de trabajo 1.md",
+    "00 Attachments/Pasted image 20250212111248.png",
+    "00 Attachments/~$Introducción Presupuestos.pptx",
+    "00 Attachments/Introducción Presupuestos.pptx",
+    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
+    "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/05 Avance Estudio técnico Individual.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/03 Ejercicio estudio de mercado individual.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/06 Resumen medición y métricas del software sommerville.md",
-    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
     "00 Attachments/Pasted image 20250218215130.png",
     "00 Attachments/Pasted image 20250218215113.png",
     "00 Attachments/Pasted image 20250218214936.png",
     "00 Attachments/Pasted image 20250218213530.png",
     "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/04 Factores de localidad.md",
-    "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Actividades/07 Tres sedes interconectadas segundo intento.md",
     "00 Attachments/Pasted image 20250217222303.png",
     "00 Attachments/Pasted image 20250217222256.png",
@@ -234,21 +242,13 @@
     "00 Attachments/~$Introduccion Fundamentos de Administracion y Analisis Financiero.pptx",
     "00 Attachments/Introduccion Fundamentos de Administracion y Analisis Financiero.pptx",
     "00 Attachments/Sistema, Modelación y Simulación.pdf",
-    "00 Attachments/Sistemas, Propiedades, Estados, Tipos de Sistemas.pdf",
-    "00 Attachments/Pasted image 20250212111248.png",
     "00 Attachments/Pasted image 20250210130516.png",
     "00 Attachments/Pasted image 20250210130509.png",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/05 Métricas de producto.md",
-    "09 Noveno Ciclo/Modelación y Simulación/Actividades/~$ Formulación de proyecto.wsd",
     "09 Noveno Ciclo/Modelación y Simulación/Actividades/01 Ejercicio dos sistemas continuos y dos sistemas discretos.md",
     "09 Noveno Ciclo/Virtualización/Actividades/06 Explicación de configuraciones de red Virtual Box.md",
     "09 Noveno Ciclo/Virtualización/Actividades/05 Análisis de migración a centro de datos híbrido.md",
     "09 Noveno Ciclo/Programación Web/Apuntes.md",
-    "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Apuntes.md",
-    "00 Attachments/~$ercicio css y js.docx",
-    "00 Attachments/Ejercicio css y js.docx",
-    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades/01 Hoja de trabajo 1.md",
-    "08 Octavo Ciclo/Ingeniería Económica/Apuntes/01 Micro y macro economía.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ingeniería de Software/Apuntes/Untitled.canvas",
