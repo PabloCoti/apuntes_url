@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50c9426aa3dc452a",
+            "id": "3da958e8571f2cbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/05 Avance Estudio técnico Individual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apuntes"
+              "title": "05 Avance Estudio técnico Individual"
             }
           }
         ]
@@ -159,7 +159,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b6cb224c1dbc133a",
@@ -172,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/05 Avance Estudio técnico Individual.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Apuntes"
+              "title": "Outline of 05 Avance Estudio técnico Individual"
             }
           }
         ]
@@ -201,33 +202,36 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "50c9426aa3dc452a",
+  "active": "3da958e8571f2cbd",
   "lastOpenFiles": [
-    "00 Attachments/Complemento Presupuesto de Ventas Formato.xlsx",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/05 Avance Estudio técnico Individual.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/03 Ejercicio estudio de mercado individual.md",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/}.md",
+    "00 Attachments/300969-1600-1600.webp",
+    "00 Attachments/2875096-1600-1600.webp",
+    "00 Attachments/724400-1600-1600.webp",
+    "00 Attachments/682945-1600-1600.webp",
+    "00 Attachments/744941-1600-1600.webp",
+    "00 Attachments/724980-1600-1600 1.webp",
+    "00 Attachments/724980-1600-1600.webp",
+    "00 Attachments/62c79f07-8d62-4ed7-a6ec-b0913730d60a 1.jpg",
+    "00 Attachments/62c79f07-8d62-4ed7-a6ec-b0913730d60a.jpg",
+    "00 Attachments/faa62e93-f446-405c-b3ac-98f16647cefd.jpg",
     "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+    "00 Attachments/Complemento Presupuesto de Ventas Formato.xlsx",
     "00 Attachments/PRESUPUESTO DE VENTAS.pptx",
     "00 Attachments/~$Análisis Razones Financieras_2.pptx",
     "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Actividades/01 Hoja de trabajo 1.md",
-    "00 Attachments/Pasted image 20250212111248.png",
     "00 Attachments/~$Introducción Presupuestos.pptx",
     "00 Attachments/Introducción Presupuestos.pptx",
     "08 Octavo Ciclo/Ingeniería Económica/Apuntes/09 Valor Actual Neto y Valor Presente Neto.md",
     "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Apuntes.md",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/05 Avance Estudio técnico Individual.md",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/03 Ejercicio estudio de mercado individual.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/06 Resumen medición y métricas del software sommerville.md",
-    "00 Attachments/Pasted image 20250218215130.png",
-    "00 Attachments/Pasted image 20250218215113.png",
-    "00 Attachments/Pasted image 20250218214936.png",
-    "00 Attachments/Pasted image 20250218213530.png",
     "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/04 Factores de localidad.md",
     "09 Noveno Ciclo/Virtualización/Actividades/07 Tres sedes interconectadas segundo intento.md",
-    "00 Attachments/Pasted image 20250217222303.png",
-    "00 Attachments/Pasted image 20250217222256.png",
-    "00 Attachments/Pasted image 20250217222242.png",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/En clase/04 Ejercicio en clase.md",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/En clase/06 Ejercicio IPs.md",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Tareas/En clase/05 Ejercicio.md",
@@ -241,9 +245,6 @@
     "00 Attachments/Estados Financieros y su Análisis.pptx",
     "00 Attachments/~$Introduccion Fundamentos de Administracion y Analisis Financiero.pptx",
     "00 Attachments/Introduccion Fundamentos de Administracion y Analisis Financiero.pptx",
-    "00 Attachments/Sistema, Modelación y Simulación.pdf",
-    "00 Attachments/Pasted image 20250210130516.png",
-    "00 Attachments/Pasted image 20250210130509.png",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/05 Métricas de producto.md",
     "09 Noveno Ciclo/Modelación y Simulación/Actividades/01 Ejercicio dos sistemas continuos y dos sistemas discretos.md",
     "09 Noveno Ciclo/Virtualización/Actividades/06 Explicación de configuraciones de red Virtual Box.md",

@@ -153,6 +153,6 @@ Se tienen que tomar en cuenta diferentes factores como lo será la **SE TIENEN Q
 - **Selección y justificación de la maquinaria y equipo necesario para llevar a cabo el servicio**: aquí es donde van las tres cotizaciones y el por qué son necesarias las cosas que se están pidiendo.
 - **Determinación de las características del personal**: aquí definimos el perfil profesional de la persona que vamos a tener para que trabaje con nosotros.
 - **Plan de mantenimiento**: aquí tenemos que establecer cada cuánto le vamos a dar mantenimiento a nuestro software y al servidor (TODO lo que lleva mantenimiento).
-- **Determinación de áreas de trabajo y flujos de proceso**: dentro del caso de sistema nosotros tenemos que tomar en cuenta el flujo de trabajo que vamos a seguir lo podríamos tomar como????????
-- **Manuales de proceso productivos**:
+- **Determinación de áreas de trabajo y flujos de proceso**: dentro del caso de sistema nosotros tenemos que tomar en cuenta el flujo de trabajo que vamos a seguir lo podríamos tomar como backend, frontend, etc.
+- **Manuales de proceso productivos**: aquí se refiere a cómo lo vamos a manejar, por ejemplo, cómo sería con SCRUM.
 - **Medidas de verificación de calidad**: aquí es donde entra todo lo que son pruebas del software y cosas que tenemos que hacer.
