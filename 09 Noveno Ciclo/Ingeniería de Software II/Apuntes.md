@@ -112,3 +112,51 @@ Factor de ajuste 0-5 es las respuestas
 $$
 PF = 245 *(0.65+0.01*30) = 232.75
 $$
+### Resumen del Video sobre Métricas en el Desarrollo de Software DORA
+[Vídeo](https://youtu.be/OtYW-9sPwsM)
+
+El video se centra en cómo medir el impacto de cambios en tecnología, organización o cultura. Se basa en el modelo **DORA (DevOps Research and Assessment)**, el cual define cuatro métricas clave para evaluar el rendimiento del desarrollo de software: **frecuencia de despliegue, tiempo de entrega de cambios, tasa de fallas en producción y tiempo de recuperación ante fallos**.
+#### 1. Principios Claves en el Desarrollo de Software
+Para evaluar el éxito del desarrollo de software, se consideran tres factores esenciales:
+- **Utilidad:** El software debe generar valor y resolver problemas para los usuarios.
+- **Calidad:** Se requiere código estable, con menos errores y fácil de mantener.
+- **Entrega rápida y eficaz:** Un flujo de trabajo ágil permite probar ideas rápidamente y mejorar el software de manera continua.
+#### 2. Métricas Clave del Modelo DORA
+El modelo **DORA**, presentado en el libro _Accelerate: The Science of Lean Software and DevOps_, define las siguientes métricas:
+1. **Frecuencia de despliegue:** ¿Con qué frecuencia se liberan cambios en producción?
+2. **Tiempo de entrega de cambios (Lead Time for Changes):** Tiempo desde la confirmación de un cambio hasta que se libera en producción.
+3. **Tasa de fallas en producción (Change Failure Rate):** Porcentaje de cambios que introducen fallos.
+4. **Tiempo de recuperación ante fallos (Time to Restore Service):** Tiempo promedio en recuperar el sistema tras un fallo.
+#### 3. Relación entre Estabilidad y Velocidad
+El rendimiento de un equipo de desarrollo se puede medir equilibrando **estabilidad** (tasa de defectos y tiempo de recuperación) con **velocidad** (tiempo de entrega y frecuencia de despliegue). Un equipo de alto desempeño logra:
+- Desplegar software **rápido y con menos errores**.
+- Reducir el tiempo de resolución de problemas.
+- Minimizar los efectos negativos de cambios en producción.
+#### 4. Cómo Utilizar estas Métricas
+Se pueden aplicar estas métricas para evaluar cambios en distintos ámbitos:
+- **Tecnología:** ¿Mejora la calidad del código cambiar una herramienta o biblioteca?
+- **Organización:** ¿Afecta la eficiencia cambiar la forma en que se hacen las reuniones de equipo?
+- **Cultura:** ¿Mejoran los resultados si se reorganizan los equipos?
+#### 5. Implementación en la Práctica
+Para capturar estas métricas, se recomienda:
+- **Automatizar pruebas** para reducir defectos y mejorar estabilidad.
+- **Optimizar el pipeline de CI/CD** para reducir el tiempo de entrega de cambios.
+- **Monitorear las métricas en herramientas de DevOps**, como GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps o CircleCI.
+#### Conclusión
+Las métricas de DORA permiten pasar de la intuición a la toma de decisiones basada en datos, mejorando la eficiencia del desarrollo de software. Aplicarlas correctamente ayuda a optimizar procesos, minimizar errores y acelerar la entrega de software de calidad.
+
+
+### Ejercicio: cómo mejorar la productividad del equipo (métricas)
+Las métricas que se me ocurren son los tiempos de entrega, si el desarrollador está cumpliendo con los tiempos estimados, para facilitar los estimados yo lo separaría la tarea en tres partes:
+- Desarrollo
+- Pruebas
+- Resolución de bugs
+
+Esto debido a que todo desarrollo no está exento de errores el desarrollador deberá considerar en su tarea el tiempo de desarrollo, tomando en cuenta de que lo óptimo será manejar una metodología TDD para que estemos seguros de que lo que está desarrollando cumpla con los requisitos establecidos, una vez termine la face de desarrollo se proceden a hacer las pruebas automatizadas y QA donde el desarrollador va a tener que terminar de completar esto.
+
+Lo que me interesaría ver es el tiempo que toma desde el desarrollo de una tarea hasta su mergeo en máster.
+
+Entonces la calidad que se quiere medir será:
+- **Calidad de las pruebas**: esta va a ser corroborada por el QA, se va a tener que asegurar de que la prueba sí sea los suficientemente eficiente y capaz de detectar los errores que se presenten y que sí se prueben los casos de uso.
+- **Calidad calidad de código**: cuando la característica esté en PR los demás desarrolladores tienen que asegurarse de que el código hecho cumpla con los estándares establecidos de código por parte de la empresa.
+
