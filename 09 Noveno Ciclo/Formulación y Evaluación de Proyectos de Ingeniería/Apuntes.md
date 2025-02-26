@@ -77,8 +77,8 @@ Esta es la parte cuando ya tenemos el dinero y empezamos a ejecutar el plan
 - Impacto ambiental
 
 Estos estudios se hacen en secuencia, si uno falla se regresa al anterior para hacer un replanteamiento y así sucesivamente hasta tener el planteamiento del proyecto.
-
 ### Estudio de mercado
+va en prefactibilidad y factibilidad
 Es la investigación de mercado que entrega información histórica y actual de comportamientos de:
 - Consumidor
 - Proveedor
@@ -107,6 +107,7 @@ Para poder hacer este estudio se pueden tener varias técnicas como:
 https://correo2urledu-my.sharepoint.com/:w:/g/personal/mdsajvin_correo_url_edu_gt/EZ8rMXXJkyVCkLm9quhayZUBokjv2u9D7J1YDcBZzrdLhg?e=f6ssjq
 
 ## Estudio técnico
+va en prefactibilidad y factibilidad
 En este estudio nos enfocamos en el lugar donde se va a realizar el proyecto, en este estudio técnico se tiene que tomar mucho en cuenta **qué proyecto** estamos haciendo. Por ejemplo, en el caso de un industrial y se implementa una máquina se tiene que tomar en cuenta factores como energía, espacio, temperatura, humedad, etc. Que esto se acomode a las condiciones bajo las cuales tiene que estar trabajando la maquinaria.
 
 En esta parte es donde justificamos el por qué vamos a comprar ciertas cosas del proyecto. En este punto es cuando entra en cuenta lo que las empresas escogen nuevamente entre los tipos de motivos (barato, rapidez y accesibilidad). 
@@ -145,6 +146,8 @@ Se estructura como
 #### Ejercicio factores de localidad
 [04 Factores de localidad](Actividades/04%20Factores%20de%20localidad.md)
 
+## Estudio administrativo
+va en prefactibilidad y factibilidad
 Se tienen que tomar en cuenta diferentes factores como lo será la **SE TIENEN QUE HACER TRES COTIZACIONES EN EL CASO DE LAS COSAS QUE SE TENGAN QUE COMPRAR**
 - **Localización**: es el lugar donde vamos a desarrollar nuestro software, en el caso de ser remoto se toma en cuenta solamente una casa que será la de la persona que va a facturar el proyecto.
 - **Tamaño de instalaciones**: aquí se describe la oficina en la que se va a estar trabajando haciendo una pequeña distribución de planta (un sketch), en caso de que sea remotod solo se hace del de la casa de la persona que va a facturar.
@@ -156,3 +159,19 @@ Se tienen que tomar en cuenta diferentes factores como lo será la **SE TIENEN Q
 - **Determinación de áreas de trabajo y flujos de proceso**: dentro del caso de sistema nosotros tenemos que tomar en cuenta el flujo de trabajo que vamos a seguir lo podríamos tomar como backend, frontend, etc.
 - **Manuales de proceso productivos**: aquí se refiere a cómo lo vamos a manejar, por ejemplo, cómo sería con SCRUM.
 - **Medidas de verificación de calidad**: aquí es donde entra todo lo que son pruebas del software y cosas que tenemos que hacer.
+## Repaso
+Tenemos
+- Perfil
+- Pre-factibilidad (primera y segunda mano)
+	- Estudio de mercado
+		- Aquí es donde tenemos que establecer el público al que va a ir orientado nuestro producto.
+	- Estudio técnico
+		- Aquí es donde miramos los requisitos en maquinaria, instalaciones y demás que necesitamos para poner a andar el proyecto
+	- Estudio admin
+		- Aquí tenemos que ver el cómo vamos a hacer funcionar nuestro equipo necesario para el proyecto.
+	- Estudio Financiero
+		- Miramos los costos de todos los requisitos previos que vimos que son necesarios para poner a andar el proyecto
+	- Estudio Legal
+	- Estudio Ambiental
+- Factibilidad (primera mano)
+
