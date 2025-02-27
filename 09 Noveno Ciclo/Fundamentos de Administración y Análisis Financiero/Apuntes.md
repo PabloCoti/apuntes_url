@@ -621,3 +621,89 @@ $$
 
 ![](../../00%20Attachments/Complemento%20Presupuesto%20de%20Ventas%20Formato.xlsx)
 
+
+Actualmente estamos en la parte de la proyección mensual, en esto lo que hacemos es tener los porcentajes que sacamos con base a los estados de resultados.
+
+### Presupuesto de producción e inventarios
+![](../../00%20Attachments/Presupuesto%20de%20Produccion%20e%20Inventarios.pptx)
+
+Este es el presupuesto del cuál depende todo el plan de requisitos respecto a los diferentes insumos o recursos que se utilizarán en proceso productivo.
+#### Variables a considerar
+- Ventas presupuestadas de cada línea
+- Inventarios finales deseados para cada tipo de línea (pueden ser determinados en función de rotaciones).
+- Inventarios iniciales con que se cuenta por cada línea.
+
+Fórmula
+$$
+\text{Presupuesto de producción por línea} = \text{Presupuesto de ventas por línea} + \text{Inventario final desead de artículos termiandos} - \text{Inventario inicial de artículos terminados}
+$$
+#### Ventajas de la política de producción estable e inventario variable
+- Costos de producción tienden a ser menores
+	- No tenemos que estar manipulando en exceso la maquinaria
+- Mejora la moral de los empleados al no existir una rotación acelerada
+	- El empleado tiene la certeza de que su trabajo está seguro en la empresa y no tiene que buscar medias alternas para generar ingresos.
+- No se requiere trabajar a marchas forzadas en los meses pico de demanda
+#### Desventajas de la política de producción estable e inventario variable
+- Puede llegarse a un inventario demasiado alto
+- Puede dar lugar a inventarios obsoletos
+	- Si nuestro inventario es perecedero se va a echar a perder
+	- Si no es perecedero es capital que no estamos movilizando
+- Problema de almacenamiento en los meses en que la demanda disminuye
+	- Nuestra bodega va a estar llena de producto y los costos de almacenamiento se elevarían para poder almacenar o tener que vender más a menor precio para liberar espacio.
+#### Política de producción variada e inventario estable
+- Difícil de aplicar
+	- Tiende a tener mucho desorden
+	- Tiene que tener que manejar el ingeniero constantemente y estar muy pendiente para evitar errores.
+- Implica para hacer y arrancar la maquinaria
+	- Implica enceder y apagar muy seguido la maquinaria lo que la puede desgastar y eleva nuestro costo.
+- Filosofía justo a tiempo
+	- Puede que llegue una ocasión donde no pueda cubrir el pedido de un cliente y tenemos una pérdida.
+- ¿Qué pasa con la mano de obra?
+	- Esto afecta a la moral del colaborador porque este tiene la incertidumbre de si va a tener trabajo o no.
+#### Políticas combinadas
+Esta se aplica con el objetivo de no tener ninguna de las desventajas de las políticas anteriores.
+
+- Puede lograrse una producción flexible
+- Ajuste a ciclo de ventas y niveles de inventarios
+- Trata de mantener la producción sujeta a las menores variaciones.
+
+#### Consideraciones del presupuesto de producción
+- Capacidad productiva de la planta y disposiciones financieras
+	El ejemplo que vimos se puede convertir de unidades a ventas, en este caso se puede hacer el caso del presupuesto de ventas y después evaluar si podemos o no producirlas. Aquí tenemos de dos:
+	- La empresa puede producir
+	- La empresa no puede producir
+	
+	Si no puede producir suficiente la empresa no debería acudir a un préstamos si no que hacer la ampliación con su propio capital
+
+> La determinación de un presupuesto deb hacerse en dos partes UNIDADES Y VALORES
+
+#### Ejemplo
+Revisar en diapositivas (#12)
+![](../../00%20Attachments/Pasted%20image%2020250226110825.png)
+![](../../00%20Attachments/Pasted%20image%2020250226110835.png)
+![](../../00%20Attachments/ejemplos%20de%20presupuesto%20de%20ventas.xlsx)
+
+#### Par o par stock
+Se refiere a la identificación de cuándo tenemos que pedir más producto y cuánto.
+
+- Es sugerido realizar un inventario diario de perecederos y periódico de no perecederos
+- Esto incluye un inventario físico, no únicamente en papeles.
+- El encargado debe ir a través de los freezer y estantes con formulario en mano chequeando las existencias
+- Con los non perecederos el procedimiento no es tan complicado, aquí más bien hay que cuidar que no haya exceso de existencia.
+
+#### Aspectos a tomar en cuenta
+- Espacio de almacenamiento
+- Límites del inventario total autorizados por la administración
+- Frecuencia deseada de órdenes
+- Uso
+- Requerimiento del mínimo de orden por parte de los proveedores.
+
+### Presupuesto maestro operativo
+Incluye todo lo que está pasando en la empresa, es una unión de todo.
+
+Tiene la parte 
+- operativa
+- financiera
+	- Vamos a estar viendo estados financieros según lo que se aimportante para el presupuesto de nuestra empresa.
+
+![](../../00%20Attachments/Ejemplo%20Presupuesto%20Maestro%20Operativo%20FORMATO.xlsx)
