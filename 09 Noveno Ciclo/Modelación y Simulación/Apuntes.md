@@ -174,3 +174,14 @@ Es una herramienta para simular el comportamiento y desempeño de procesos del m
 
 Un evento puede ser la llegada de un cliente, camión, inicio de un proceso, etc.
 
+## Experimentación y emulación
+La **experimentación** es la aplicación en la vida real de una simulación o prueba de concepto, es un ensayo con el contexto real.
+### Diferencia entre emulación y simulación
+La simulación es una versión de la realidad con parámetros cambiantes mientras que la emulación es una réplica casi exacta de la realidad.
+
+Cuando estamos trabajando con un sistema real nos podemos llegar a enfrentar con variables ocultas (aspectos que no tomamos en cuenta de la realidad que afectarán a nuestro sistema).
+
+### Motivos para no experimentar
+- Aún no existe el sistema real
+- Costos elevados
+- Afecta el flujo de trabajo real

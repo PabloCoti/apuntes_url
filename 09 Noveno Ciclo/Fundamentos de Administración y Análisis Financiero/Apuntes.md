@@ -707,3 +707,7 @@ Tiene la parte
 	- Vamos a estar viendo estados financieros según lo que se aimportante para el presupuesto de nuestra empresa.
 
 ![](../../00%20Attachments/Ejemplo%20Presupuesto%20Maestro%20Operativo%20FORMATO.xlsx)
+
+#### Presupuesto maestro fase financiera
+![](../../00%20Attachments/Presupuesto%20Maestro%20Fase%20Financiera%20Formato.xlsx)
+
