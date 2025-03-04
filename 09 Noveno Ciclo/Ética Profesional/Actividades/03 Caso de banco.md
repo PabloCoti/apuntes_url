@@ -1,0 +1,15 @@
+# Conflictos éticos en el desarrollo de software de seguridad bancaria
+
+El desarrollo de software de seguridad para un banco digital exige altos estándares éticos y profesionales. En este caso, el ingeniero enfrenta un dilema moral y profesional al descubrir una vulnerabilidad en el sistema, mientras la empresa prioriza el cumplimiento de plazos sobre la seguridad de los clientes.
+
+Uno de los principales principios éticos en conflicto es la responsabilidad profesional, que implica garantizar la calidad y seguridad del software desarrollado. Además, está en juego el principio de integridad, ya que ocultar el error podría significar engañar a los usuarios y exponerlos a riesgos financieros. Finalmente, la lealtad a la empresa y la obediencia a sus decisiones también se encuentran en conflicto con la obligación de proteger a los clientes y sus datos.
+
+Si el ingeniero decide no decir nada, las consecuencias podrían ser desastrosas. Un atacante podría explotar la vulnerabilidad para robar información bancaria, causando pérdidas económicas y dañando la reputación del banco y la empresa de desarrollo. Además, el ingeniero podría ser considerado responsable si se descubre que conocía el problema y no tomó medidas para solucionarlo.
+
+En mi lugar, decidiría informar a la empresa sobre la gravedad del problema y recomendar encarecidamente retrasar el lanzamiento hasta que se solucione. Si la empresa insiste en ignorarlo, podría considerar alertar a una entidad reguladora o renunciar, ya que la seguridad de los usuarios es más importante que el cumplimiento de plazos. Actuar con ética en estos casos es fundamental para evitar consecuencias graves.
+
+La reputación de la empresa se vería gravemente afectada si el problema se hace público tras un ciberataque. La confianza de los clientes es esencial para el éxito de un banco digital, y ocultar vulnerabilidades socava esa confianza. Empresas que priorizan la seguridad y la transparencia generan mayor lealtad en sus usuarios y credibilidad en el mercado.
+
+Para garantizar la ética profesional en el desarrollo de software, la empresa podría adoptar varias estrategias. Primero, establecer un código de ética que guíe la toma de decisiones. Segundo, implementar revisiones de código rigurosas y auditorías de seguridad para detectar vulnerabilidades antes del lanzamiento. Tercero, fomentar una cultura de transparencia donde los empleados puedan reportar problemas sin temor a represalias. Finalmente, seguir principios de desarrollo seguro como la norma ISO 27001 para garantizar que la seguridad sea una prioridad desde el inicio.
+
+En conclusión, este caso ilustra la importancia de la ética en el desarrollo de software crítico. Priorizar la seguridad sobre los plazos es esencial para proteger a los clientes y mantener la confianza en la empresa. Un enfoque ético y transparente no solo evita problemas futuros, sino que también fortalece la reputación y la credibilidad de la organización.
