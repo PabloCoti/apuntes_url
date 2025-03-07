@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecde1f1f4793932b",
+        "id": "48404080dc6222e6",
         "type": "tabs",
         "children": [
           {
-            "id": "3da958e8571f2cbd",
+            "id": "557238a33b98dbb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Apuntes"
             }
-          },
-          {
-            "id": "2354e7efa9bee9ad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Apuntes"
             }
           }
         ]
@@ -214,15 +202,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2354e7efa9bee9ad",
+  "active": "557238a33b98dbb8",
   "lastOpenFiles": [
+    "00 Attachments/~$Presupuesto de Efectivo.pptx",
+    "00 Attachments/Presupuesto de Efectivo.pptx",
+    "00 Attachments/13C5E000",
+    "00 Attachments/31B5E000",
+    "00 Attachments/~$Ejemplo Presupuesto Maestro Operativo FORMATO.xlsx",
+    "00 Attachments/~$Presupuesto Maestro Fase Financiera Formato.xlsx",
+    "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
     "00 Attachments/Análisis de Casos No. 1 updated.pdf",
     "00 Attachments/Casos para análisis No. 1 - Pablo Cotí y Daniel Sajvin.xlsx",
     "00 Attachments/~$Complemento Presupuesto de Ventas Formato.xlsx",
-    "00 Attachments/~$Ejemplo Presupuesto Maestro Operativo FORMATO.xlsx",
     "00 Attachments/~$ejemplos de presupuesto de ventas.xlsx",
     "00 Attachments/~$Presupuesto de Produccion e Inventarios.pptx",
-    "00 Attachments/~$PRESUPUESTO DE VENTAS.pptx",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/Untitled.canvas",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/07 NFTs.md",
@@ -236,11 +230,7 @@
     "export/07 NFTs/plugin/chalkboard/img/chalk-white.png",
     "export/07 NFTs/plugin/chalkboard/img/chalk-purple.png",
     "export/07 NFTs/plugin/chalkboard/img/chalk-red.png",
-    "export/07 NFTs/plugin/chalkboard/_style.css",
-    "export/07 NFTs/plugin/chalkboard/style.css",
     "export/07 NFTs/plugin/chalkboard/README.md",
-    "export/07 NFTs/plugin/chalkboard/plugin.js",
-    "export/07 NFTs/plugin/chalkboard/plugin (copy).js",
     "export/07 NFTs/plugin/chart/README.md",
     "export/07 NFTs/plugin/customcontrols/README.md",
     "export/07 NFTs/plugin/menu/README.md",
@@ -251,8 +241,6 @@
     "09 Noveno Ciclo/Virtualización/Actividades/05 Análisis de migración a centro de datos híbrido.md",
     "09 Noveno Ciclo/Virtualización/Actividades/03 Ejercicio de casas con IoT.md",
     "09 Noveno Ciclo/Virtualización/Actividades/06 Explicación de configuraciones de red Virtual Box.md",
-    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
-    "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/05 Avance Estudio técnico Individual.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",

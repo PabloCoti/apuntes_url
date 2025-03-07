@@ -141,6 +141,17 @@ Este paso tiene varias etapas:
 	1. ¿Cómo registrará el diseño los procedimientos?
 ### 6. Preparación de los datos de entrada
 Tiene que establecerse la forma en la que se van a recibir los valores que el sistema va a procesar.
+
+Su propósito es asegurar que los datos utilizados sean adecuados y estén en el formato correcto para garantizar que los resultados sean precisos y significativos.
+
+Etapas de la preparación de datos de entrada:
+#### 1. Recolección de datos
+Consiste en obtener los datos necesarios para la simulación (cuantitativos o cualitativos). Aquí podemos tener varias fuentes, pero de preferencia todo tiene que ser información de primera mano o segunda (en caso de no poder tener acceso a la información de primera mano).
+
+##### Ejemplo
+En nuestro caso debemos enfocarnos a lo que es la parte de los clientes y otra sería a la parte de gestión. 
+
+En nuestra parte lo que podríamos probar para lo que es la encuesta de cliente podríamos preguntar qué les pareció la experiencia y en caso de que no estén satisfechos podríamos preguntar por qué es que no les pareció bien la experiencia (pedir su opinión).
 ### 7. Traducción del modelo
 Describir las partes del modelo ya en funcionamiento por medio de una simulación.
 ### 8. Verificación y validación

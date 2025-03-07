@@ -708,10 +708,57 @@ Tiene la parte
 
 ![](../../00%20Attachments/Ejemplo%20Presupuesto%20Maestro%20Operativo%20FORMATO.xlsx)
 
-#### Presupuesto maestro fase financiera
-![](../../00%20Attachments/Presupuesto%20Maestro%20Fase%20Financiera%20Formato.xlsx)
-
-
 ##### Casos para análisis No. 1
 ![](../../00%20Attachments/Análisis%20de%20Casos%20No.%201%20updated.pdf)
 ![](../../00%20Attachments/Casos%20para%20análisis%20No.%201%20-%20Pablo%20Cotí%20y%20Daniel%20Sajvin.xlsx)
+
+#### Presupuesto maestro fase financiera
+![](../../00%20Attachments/Presupuesto%20Maestro%20Fase%20Financiera%20Formato.xlsx)
+
+##### Segunda parte: presupuesto efectivo
+![](../../00%20Attachments/Presupuesto%20de%20Efectivo.pptx)
+En un pronóstico de las entradas y salidas de efectivo que diagnostica los faltantes o sobrantes futuros, es decir, qué meses voy a tener sobrante y qué meses voy a tener faltante y qué voy a hacer con ese dinero.
+
+Hay que recordas las dos dimensiones por las que se mide la liquidez de una emrpesa
+1. Tiempo necesario para convertir el activo en efectivo
+2. Grado de seguridad asociado al cual se realizará el activo.
+
+###### Objetivos
+- **Diagnosticar el comportamiento del flujo de efectivo a través de un período**: esto nos sirve para poder tomar con calma la gestión para poder hacerla de la forma más asertiva ya que podemos ver préstamos para la escasez con tiempo suficiente.
+- **Determinar si es óptimo el monto de recursos invertidos en efectivo a fin de detectar si existe sobre o sub inversión**
+- **Detectar en qué períodos habrá faltantes y sobrantes**
+- **Fijar políticas de dividendos en la empresa**
+- **Determinar si los proyectos de inversión son rentables**
+
+###### Estrategias del efectivo
+- **¿Por qué tener efectivo?**
+	- **Transaccinones:** Para poder cubrir los costos y servicios que tenemos
+	- **Imprevistos**: Para imprevistos que tenemos que cubrir, es decir, tener una cuenta de respaldo (no montos exagerados).
+	- **Especulación**: Especulación con base al historial de la empresa para poder aprovechar las oportunidades como lo podrían ser cambios de equipos nuevos.
+- **Saldo que debe mantenerse**
+	- **Conserver determinado número de días de gastos desembolsables que podrían ocurrir**: Lo vamos a manejar con el concepto de que vamos a conservar para ciertos días de gasto como podría ser un mes en el que no vamos a vender mucho tener ya cubiertos los gastos
+	- **Efectuar un análisis tomando como variables las ventas y el efectivo**: Tenemos que definir cuánta venta se va al crédito y cuánta se va al contado, la venta al contado nos genera dinero de forma inmediata, pero al crédito es después de n días entonces tenemos que estudiar cuándo vamos a recuperar el crédito de esa venta.
+	- **Fijar cierto número de días venta por mantener efectivo**
+	- **Costo beneficio**: Tenemos que ver el costo de tener el dinero propio como lo sería la inflación (pérdida de poder adquisitivo), es decir, tiene valor en nuestras manos durante n tiempo, pero si lo mantenemos demasiado tiempo se devalúa y vale menos. También está el beneficio de tenerlo que podría ser el aprovechamiento de oportunidades.
+- **Evaluación del manejo del efectivo**
+	- **Analizar la antigüedad de los saldos de los proveedores**: Tenemos que ver las políticas de pago de los proveedores porque tenemos que ver si nuestras fechas de pago nos afectan porque pagamos muy seguido para poder ver si se negocia un plazo más amplio para poder recuperar el dinero y después pagar para no tener que estar sacando dinero de otros lados.
+	- **El costo de los préstamos que se han solicitado en situaciones de presión**: Tenemos que ver también lo que pasa cuando la empresa hace un préstamo de emergencia y lo que pasará normalmente es que los intereses del préstamo potencialmente sean peores a aquél que haríamos con tiempo.
+	- **Calcular una relación del costo de mantener efectivo con el total del efectivo utilizado**: Tenemos que ver cómo estamos manejando nuestro efectivo de respaldo para aprovecharlo.
+- **Amplitud del período que debe incluir el presupuesto de efectivo**
+	- Podemos ver diferentes períodos para tener nuestros presupuestos, para esto podemos ver si es un mes, semana, trimestre, etc donde tenemos faltantes. Esto nos sirve para poder tomar decisiones para poder sobrepasar las situaciones críticas sin necesidad de acudir a manejos de emergencia de dinero que nos pueden llevar a una situación no tan favorable para la empresa.
+
+> **LO IDEAL ES HACERLA MENSUAL**
+
+##### Actividades en cada área o departamento
+- Reducir egresos
+	- Todos los trabajadores en todas las áreas de la emrpesa deben de hacer lo posible por reducir costos.
+		- Una forma en la que se podría reducir es que por parte de upper management se tenga control y se pida justificación del por qué se tiene que hacer x o y gasto/costo.
+- Retrasar los egresos
+	- Tenemos que buscar tener la mayor cantidad de días posibles para poder trabajar con el efectivo que tenemos disponible y el capital ajeno que tenemos.
+- Aumentar los ingresos
+- Adelantar los ingresos
+- Mantener los activos en movimiento
+	- Esto va de la mano del activo y tenemos que ver la mejor manera de sacarle provecho porque todo activo que no se esté moviendo es pérdida en potencia. 
+		- Por ejemplo, si tenemos 5 computadoras para 3 devs, hay 2 que estamos desperdiciando y se están devaluando.
+- Liquidar los recursos inactivos
+	- Si nuestro activo no está generando lo podemos liquidar, nos puede servir más el efectivo para inyectar capital a nuestro capital de trabajo para poder sacarle más provecho a este que puede servirnos más.
