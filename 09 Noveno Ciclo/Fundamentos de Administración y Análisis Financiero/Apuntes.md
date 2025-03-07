@@ -711,3 +711,7 @@ Tiene la parte
 #### Presupuesto maestro fase financiera
 ![](../../00%20Attachments/Presupuesto%20Maestro%20Fase%20Financiera%20Formato.xlsx)
 
+
+##### Casos para análisis No. 1
+![](../../00%20Attachments/Análisis%20de%20Casos%20No.%201%20updated.pdf)
+![](../../00%20Attachments/Casos%20para%20análisis%20No.%201%20-%20Pablo%20Cotí%20y%20Daniel%20Sajvin.xlsx)
