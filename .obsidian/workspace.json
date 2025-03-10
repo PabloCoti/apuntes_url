@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Apuntes"
             }
+          },
+          {
+            "id": "99d70f88e5c3382e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Apuntes"
+              "title": "Outline"
             }
           }
         ]
@@ -202,8 +212,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "557238a33b98dbb8",
+  "active": "99d70f88e5c3382e",
   "lastOpenFiles": [
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
     "00 Attachments/~$Presupuesto de Efectivo.pptx",
     "00 Attachments/Presupuesto de Efectivo.pptx",
     "00 Attachments/13C5E000",
@@ -211,12 +222,10 @@
     "00 Attachments/~$Ejemplo Presupuesto Maestro Operativo FORMATO.xlsx",
     "00 Attachments/~$Presupuesto Maestro Fase Financiera Formato.xlsx",
     "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
-    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
     "00 Attachments/Análisis de Casos No. 1 updated.pdf",
     "00 Attachments/Casos para análisis No. 1 - Pablo Cotí y Daniel Sajvin.xlsx",
     "00 Attachments/~$Complemento Presupuesto de Ventas Formato.xlsx",
     "00 Attachments/~$ejemplos de presupuesto de ventas.xlsx",
-    "00 Attachments/~$Presupuesto de Produccion e Inventarios.pptx",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/Untitled.canvas",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/07 NFTs.md",
