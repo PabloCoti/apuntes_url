@@ -160,3 +160,26 @@ Entonces la calidad que se quiere medir será:
 - **Calidad de las pruebas**: esta va a ser corroborada por el QA, se va a tener que asegurar de que la prueba sí sea los suficientemente eficiente y capaz de detectar los errores que se presenten y que sí se prueben los casos de uso.
 - **Calidad calidad de código**: cuando la característica esté en PR los demás desarrolladores tienen que asegurarse de que el código hecho cumpla con los estándares establecidos de código por parte de la empresa.
 
+## Mantenimiento del sistema de software
+En los data warehouses se pueden hacer ETL.
+
+Todos los datos de datos que se pueden llegar a tener se pasan por ETL para poder interpretarlos.
+
+### El lapso de vida de un sistema
+Aunque:
+- Se usen componentes muy cohesivos con mínimo acoplamiento
+- La documentación esté actualizada
+- El sistema completo tiene cruce de referencias.
+
+### Cuánto cambio debe esperarse
+Depende de la naturaleza del sistema.
+
+Algunos llaman **fase evolutiva** a la etapa del desarrollo dedicada al **mantenimiento**.
+
+Sistemas **heredados** son los sistemas que se hicieron con anterioridad cuando las necesidaddes y el ambiente eran totalmente diferentes
+
+**Esta parte es crítica para la decisón de cambiar o mantener el sistema**
+
+Un sistema **heredado** es un sistema que se hizo con anterioridad, cuando las necesidades y ambiente eran totalmente diferente.
+
+d
