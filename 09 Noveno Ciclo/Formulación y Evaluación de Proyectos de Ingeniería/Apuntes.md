@@ -175,3 +175,12 @@ Tenemos
 	- Estudio Ambiental
 - Factibilidad (primera mano)
 
+## Charla - Experiencia
+Dentro de la universidad se hacen muchas simulaciones y tenemos escenarios donde tenemos claros los requisitos.
+
+Un caso con el que se enfrentó el conferencista fue de un sistema que una empresa que tenía un sistema web sin documentación y la empresa no sabía usar todo el sistema y no tenía ningún tipo de referencia con base a lo que se tiene del sistema.
+
+Al realizar el proyecto el conferencista comenta que tuvo muchas dudas, porque tener que aplicar todo lo que hemos visto en la U es un reto, especialmente el asunto de finanzas; las finanzas son la base más importante de nuestros proyectos porque tenemos que hacer nuestras cotizaciones y tenemos que aprender a dar nuestro precio.
+
+Otro aspecto con el que se enfrentó el conferencista es el aspecto del "síndrome del impostor", nos dijo que a veces no nos sentimos capaces de hacer las cosas, pero tenemos que perderle el miedo a desarrollar las actividades
+
