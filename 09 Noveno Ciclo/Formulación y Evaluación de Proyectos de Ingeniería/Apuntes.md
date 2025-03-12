@@ -182,5 +182,22 @@ Un caso con el que se enfrentó el conferencista fue de un sistema que una empre
 
 Al realizar el proyecto el conferencista comenta que tuvo muchas dudas, porque tener que aplicar todo lo que hemos visto en la U es un reto, especialmente el asunto de finanzas; las finanzas son la base más importante de nuestros proyectos porque tenemos que hacer nuestras cotizaciones y tenemos que aprender a dar nuestro precio.
 
-Otro aspecto con el que se enfrentó el conferencista es el aspecto del "síndrome del impostor", nos dijo que a veces no nos sentimos capaces de hacer las cosas, pero tenemos que perderle el miedo a desarrollar las actividades
+Otro aspecto con el que se enfrentó el conferencista es el aspecto del "síndrome del impostor", nos dijo que a veces no nos sentimos capaces de hacer las cosas, pero tenemos que perderle el miedo a desarrollar las actividades porque son oportunidades que tenemos para aprender y tenemos que tomarlas. Tenemos que evaluar el proyecto en partes más pequeñas porque a veces al verlo desde fuera el proyecto parece ser demasiado grande.
 
+Lo que hizo el conferencista para poder establecer sus precios fue ir a sus apuntes de anteriores ejercicios de un curso en dónde tenemos que ver los objetivos del proyecto, vio el alcance del proyecto y también vio cuánto tiempo se iba a tardar. Dijo que la parte financiera es una parte que él tuvo que aplicar especialmente porque el sistema era para una cooperativa. Se asesoró con el inge Escalante para poder hacer sus estimados de tiempos.
+
+También nos comentaba que tomó en cuenta los aspectos que vimos en cursos como patrones de diseño y otros aspectos para poder hacer escalable su sistema y también tomó en cuenta hacer un buen trabajo ya que la cooperativa trabajaba enteriormente con una persona que cobraba caro y no hacía bien su trabajo.
+
+Cuando llegó a la parte de cobrar hizo un cobro inicial, decidió dividir los cobros en cuatro y también tuvo que inscribirse como pequeño contribuyente para poder hacer el manejo de sus finanzas sin que tuviera problemas con la SAT. Dentro de lo que son los costos él tuvo que hacer un contrato con un abogado y tener los derechos de autor para poder vender el software y quedarse con el código. Tenemos que decir en nuestro contrato todo eso para evitar posteriormente problemas. 
+
+Durante el proceso el cliente tiene que ir firmando los documentos con su aprovación para evitar problemas más adelante en los proyectos.
+
+Tenemos que establecer las limitaciones también para que el cliente no se ponga de agarrado. Un ejemplo de lo que se enfrentó el conferencista es que la cooperativa quería integración directa con google earth y conexión con la onu, pero eso no se puede hacer debido que en el caso de la integración de google earth es muy caro y en el caso de la onu parece que no se podía porque no hay una API.
+
+También tenemos que ver hacia los lados para poder ver cómo estamos posicionados en comparación a la competencia.
+
+También es muy importante mantener una buena actitud al momento de tratar con el cliente porque comenta que con quién trabajaba la cooperativa antes era una persona que se molestaba con facilidad y que era abusivo.
+
+**Ingenieros con los que tuvo la confianza de consultar**
+- Ing. Escalante
+- Lic. Patty
