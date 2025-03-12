@@ -762,3 +762,45 @@ Hay que recordas las dos dimensiones por las que se mide la liquidez de una emrp
 		- Por ejemplo, si tenemos 5 computadoras para 3 devs, hay 2 que estamos desperdiciando y se están devaluando.
 - Liquidar los recursos inactivos
 	- Si nuestro activo no está generando lo podemos liquidar, nos puede servir más el efectivo para inyectar capital a nuestro capital de trabajo para poder sacarle más provecho a este que puede servirnos más.
+
+### Presupuesto de efectivo
+![](../../00%20Attachments/Flujo%20de%20efectivo%20en%20clase%20ejemplo.xlsx)
+
+> Un escenario base es el escenario **optimista** pensando que es bastante probable que se  cumpla.
+
+
+Dentro del presupuesto de efectivo tenemos:
+- **entradas normales**: Ingresos operativos
+- **entradas excepcionales**: Ingresos no operativos
+
+Según la política puede que el saldo inicial no sea acumulativo si no que fijo.
+
+Dentro de la planeación financiera normalmente los faltantes son cubiertos por los sobrantes del período anterior, en caso de que no haya sobrante sí le tocaría a la empresa hacer un préstamo.
+
+En caso e que no tengamos salidas viables entonces será más rentable hacer de nuevo el presupuesto porque nos sale más rentable replantearlo que remendarlo.
+
+## Administración de capital de trabajo
+![](../../00%20Attachments/ADMINISTRACION%20DEL%20CAPITAL%20DE%20TRABAJO.pptx)
+
+El concepto se origina conel mercadeer yankee que presta dinero para comopara inventario y este lo vendía para pagar y repetía el ciclo.
+
+### Proceso
+1. Una empresa pide y recibe los materiales que necesita para fabricar los productos que vende, comprar a crédito sus proveedores de modo que se crea una cuenta por pagar para las compras a crédito.
+2. Se usa mano de obra para transformar los materiales en bienes terminados, los sueldos no se pagan por completo, en el momento en que se desempeña el trabajo de modoque los sueldos acumulados aumentan.
+3. Productos terminados se venden, pero a crédito, por lo que las ventas crean cuentas por cobrar y no flujos de entrada de efectivo de inmediato.
+4. en algún pnto del ciclo la emprea debe saldar sus cuentas por pagar y sus sueldos acumulados. Si efectía estos pagos antes de haber cobrado el efectivo de sus cuentas por cobrar, se registra el fluno de salida efectivo neto y es preciso. En esta parte tenemos que poner mucha atención a tener que cobrar antes de pagar lo que se debe por medio de otros medios que no sean nuestro efectivo.
+5. El ciclo se completa cuando la empresa cobra las cuentas pendientes quiás dentro de 30 o 40 días.
+
+#### Período de conversión de inventario
+Aquí establecemos la cantidad de días que toma desde el inicio del ciclo productivo (hacer el producto) hasta que llega a la tienda para su venta. El ciclo termina cuando toda la tanda estudiada termina.
+
+$$
+\text{Perído de conversión de inventario} = \frac{inventario}{\frac{\text{Costo de ventas}}{360 días}}
+$$
+
+Estamos viendo el primer ejemplo donde se tienen 20000 que se van a meter a la fórmula.
+
+En el ejemplo nos da 189.47 días.
+
+Para poder analizar esto tenemos que saber qué tipo de empresa es la que estamos trabajando. 
+
