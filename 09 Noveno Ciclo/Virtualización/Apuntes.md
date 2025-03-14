@@ -129,3 +129,53 @@ Primero estámos creando la primera imagen, en este caso estámos haciendo uso d
 - **Eliminar imágen**: `docker rmi httpd`
 
 Estamos viendo que docker también nos ayuda dentro de lo que es el CI/CD automation.
+
+## Computación en la nube
+Es una computación que se basa en ofrecer recursos de tecnología de la información a través de internet.
+
+### IaaS - Infrastructure as a Service
+Es un modelo que proporciona infraestructura de TI virtualizada a través de Internet. Incluye servidores, redes, almacenamiento y máquinas virtuales.
+
+Lo usan los administradores de sistemas y empresas que necesitan recursos técnicos flexibles y personalizables.
+
+Ejemplos:
+- Amazon EC2
+- Microsoft Azure
+- Google Compute Engine
+
+#### Ventajas
+- Control total sobre la infraestructura
+- Alta escalabilidad y flexibilidad
+- Pago por uso
+
+### PaaS - Platform as a Service
+Es un modelo que ofrece un entorno completo para desarrollar, ejecutar y gestionar aplicaciones sin preocuparse por la infraestructura subyacente
+
+Lo usan los desarrolladores que quieren enfocarse solo en el desarrollo del software
+
+Ejemplos:
+- Google App Engine
+- Microsoft Azure App Services
+- Heroku
+
+#### Ventajas
+- No se necesita gestionar servicores o sistemas operativos
+- Mayor rapidez en el desarrollo
+- Facilidad de integración.
+
+### SaaS - Software as a Service
+Es un modelo que permite acceder a aplicaciones listas para usar a través de la infraestructura del internet.
+
+Lo usan los usuarios finales que solo necesitan utilizar el software para tareas específicas.
+
+Ejemplo:
+- Gmail
+- Microsoft 365
+- Dropbox
+- Salesforce
+
+#### Ventajas
+- Acceso desde cualquier lugar con conexión 
+- No requiere instalación ni mantenimiento
+- Actualizaciones automáticas
+
