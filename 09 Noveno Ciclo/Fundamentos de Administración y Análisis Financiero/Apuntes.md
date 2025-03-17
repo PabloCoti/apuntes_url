@@ -802,5 +802,76 @@ Estamos viendo el primer ejemplo donde se tienen 20000 que se van a meter a la f
 
 En el ejemplo nos da 189.47 días.
 
-Para poder analizar esto tenemos que saber qué tipo de empresa es la que estamos trabajando. 
+Para poder analizar esto tenemos que saber qué tipo de empresa es la que estamos trabajando para poder dimensionar si es viable o no, por ejemplo, si es un producto perecedero es mucho tiempo, pero si es algo como una casa puede que sea poco tiempo.
+
+Esta información le sirve al cliente para poder saber el tiempo que lleva que llegue un producto a sus manos potencialmente.
+
+$$
+\text{Período de cobranza de las cuentas por cobrar} = \frac{\text{cuentas por cobrrar}}{\frac{\text{ventas al crédito anuales}}{360}}
+$$
+
+Esta métrica es desde que se entregó el producto final. Según puede ser mucho o poco según el estándar en la industria.
+
+#### Período de diferimiento de las cuentas por pagar
+Es el tiempo promedio entre que recibimos los insumos de nuestro proveedor y cuándo le pagamos.
+
+$$
+\text{Período de diferimiento de las cuentas por pagar}=\frac{\text{cuentas por pagar}}{\frac{\text{costo de ventas}}{360}}
+$$
+
+Aquí tenemos que ver que las políticas de pago sean de mayor tiempo a las políticas de cobro de nuestras ventas al crédito.
+
+#### Ciclo de conversión de efectivo
+Es una métrica para ver el tiempo desde que sale el dinero en relación al dinero que ingresa.
+
+![](../../00%20Attachments/Pasted%20image%2020250314121800.png)
+
+El ciclo de efectivo se puede acortar mediante:
+- La reducción del período de conversión del inventario, procesando y vendiendo los benes con mayor rapidez.
+- La reducción del período de cobranza de las cuentas por cobrar, acelerando la cobranza
+- Extensión del período de difereimiento de las cuentas por pagar haciendo que sus pagos sean más lentos.
+
+Si la empresa toma medidas para acelarar la cobranza de las cuentas por cobrar, entonces debe tener dcuidado demantener relaciones só´lidas con sus buenos clientes a crédito. Es decir, hacer que los clientes fieles no se ofendan por los cambios en política, para hacer esto vamos a hacer el cambio de la política de forma gradual.
+
+Si es muy bajo el valor de ciclo de conversión de efectivo entonces nos enfrentamos con el aspecto de que estamos cobrando muy rápido nuestras ventas al crédito.
+
+## Diferencia entre consumo e inversión
+Los aspectos clave que vamos a ver con este tema es la diferencia entre inversión y consumo y también vamos a ver tres preguntas económicas fundamentales sobre la viabilidad de un proyecto.
+
+### Proyecto
+El proyecto lo que busca es plantear una solución a un problema que corresponde a una necesidad que no se ha logrado satisfacer.
+
+En el caso de sistemas podemos ver esto como la propuesta de una actualización o implementación de un sistema nuevo en caso de tener alguna debilidad en ese aspecto en una emrpesa.
+
+La idea principal de una problemática se convierte en el planteamiento de un proyecto.
+
+#### Etapas de un proyecto
+- **la idea**: la problemática que podemos ver y la idea que se no ocurre para solucionarlo
+- **perfil**: lo que implica el proyecto y el planteamiento y orientación que le queremos dar
+- **prefactibilidad**: el análisis que le damos al proyecto antes de echarlo a andar y poder proyectar si sí vamos a poder recuperar la inversión del proyecto.
+- **factibilidad** ejecutar el proyecto
+
+El chiste de todas estas fases es reducir la incertidumbre.
+
+Cuando iniciamos un proyecto **siempre** necesitamos capital inicial y este está dividido en tres componentes.
+- Activo fijo
+- Activo intangible
+- Capital de trabajo
+
+##### Capital fijo
+Dentro de lo que es el proyecto tenemos que tomar en cuenta lo que es el capital de inversión para las instalaciones, mobiliario, computador, servicios, etc.
+
+##### Capital de trabajo
+![](../../00%20Attachments/Análisis%20de%20Inversiones%20-%20Capital%20de%20Trabajo.pptx)
+Dentro de lo que es capital de trabajo vemos lo que es el dinero que vamos a poner directamente a trabajar. Hay una relación entre capital de trabajo y flujos de caja ya que en el flujo de caja podemos proyectar cómo van a estar las finanzas de la empresa durante el año y esto nos prepara para poder hacer estrategias para poder cubrir nuestras obligaciones a lo largo del año.
+
+Para hacer el cálculo tenemos que tomar en cuenta :
+- **Método contable**: 
+	- Los pasivos corrientes deben restar de los activos corrientes. De esta forma obtenemos lo que se llama el capital de trabajo neto contable.
+	- Determina cuántos recursos cuenta la empresa para operar si se pagan todos los pasivos a corto plazo.
+	- CA - Costo anual proyectado
+	- ND
+	- $$ICT=\frac{CA}{365}*ND$$
+- **Período de destase**
+- **Déficit acumulado máximo**
 
