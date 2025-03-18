@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "631ed4e0f05db75d",
+        "id": "7df0e6535309783f",
         "type": "tabs",
         "children": [
           {
-            "id": "936b0509f6b0c0bc",
+            "id": "8e1b73b82e96f4db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 Noveno Ciclo/Virtualización/Actividades/09 Actividad saas vs paas vs iaas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "09 Actividad saas vs paas vs iaas"
+              "title": "New tab"
             }
           }
         ]
@@ -172,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Noveno Ciclo/Virtualización/Actividades/09 Actividad saas vs paas vs iaas.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09 Actividad saas vs paas vs iaas"
+              "title": "Outline"
             }
           }
         ]
@@ -201,10 +196,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "936b0509f6b0c0bc",
+  "active": "8e1b73b82e96f4db",
   "lastOpenFiles": [
-    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
+    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "09 Noveno Ciclo/Virtualización/Actividades/09 Actividad saas vs paas vs iaas.md",
+    "09 Noveno Ciclo/Fundamentos de Administración y Análisis Financiero/Apuntes.md",
     "00 Attachments/Análisis de Inversiones - Capital de Trabajo.pptx",
     "00 Attachments/Pasted image 20250314121800.png",
     "00 Attachments/~$ADMINISTRACION DEL CAPITAL DE TRABAJO.pptx",
@@ -222,7 +218,6 @@
     "00 Attachments/~$Presupuesto de Efectivo.pptx",
     "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Apuntes.md",
     "09 Noveno Ciclo/Tecnologías Emergentes e Innovación/Apuntes.md",
-    "09 Noveno Ciclo/Ingeniería de Software II/Apuntes.md",
     "09 Noveno Ciclo/Modelación y Simulación/Actividades/05 Cuestionario.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/05 Métricas de producto.md",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/06 Resumen medición y métricas del software sommerville.md",

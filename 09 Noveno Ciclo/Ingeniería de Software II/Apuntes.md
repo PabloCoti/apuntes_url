@@ -182,4 +182,8 @@ Sistemas **heredados** son los sistemas que se hicieron con anterioridad cuando 
 
 Un sistema **heredado** es un sistema que se hizo con anterioridad, cuando las necesidades y ambiente eran totalmente diferente.
 
-d
+Todos los sistemas tienen ciclos de vida.
+
+> **Dentro de lo que somos sistemas llevamos 80 - 20: 80% en mantenimiento 20% desarrollo**
+
+En el caso de los sistemas legacy tenemos que evaluar qué tan rentable sale el reemplazo vs el mantenimiento vs reconstruirlo
