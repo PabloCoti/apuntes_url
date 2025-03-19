@@ -201,3 +201,7 @@ También es muy importante mantener una buena actitud al momento de tratar con e
 **Ingenieros con los que tuvo la confianza de consultar**
 - Ing. Escalante
 - Lic. Patty
+
+## Estudio Administrativo
+Dentro de todas las empresas existe una jerarquía, normalmente representado por un organigrama, en el organigrama se establecen las jerarquías y se hace la repartición de responsabilidades y de salarios.
+
