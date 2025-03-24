@@ -179,3 +179,54 @@ Ejemplo:
 - No requiere instalación ni mantenimiento
 - Actualizaciones automáticas
 
+## Alta disponibilidad y escalabilidad en la nube
+![](../../00%20Attachments/Alta%20Disponibilidad%20y%20Escalabilidad%20en%20la%20Nube.pdf)
+Dentro de todos los sistemas tienen que tener tres cosas:
+1. Disponible
+2. Íntegro
+3. Confidencial
+
+Con alta disponibilidad nos referimos a la capacidad de un sistema o aplicación de seguir funcionando de manera continua, con un tiempo mínimo de inactividad, incluso en caso de fallos del hardware, software o red.
+
+### ¿Para qué sirve la alta disponibilidad en la nube?
+- Evitar interrupciones del servicio
+- Garantizar el acceso continuo a las aplicaciones y datos.
+- Reducir el impacto de fallos o desastres
+- Mejorar la experiencia del usuario y la confianza del cliente
+- Cumplir con acuerdos de nivel de servicio (SLA)
+
+### ¿Para qué sirve la escalabilidad en la nube?
+- Adaptarse a la demanda del negocio (picos y bajas de tráfico).
+- Optimizar el uso de recursos y costos
+- Mantener el rendimiento del sistema sin importar el número de usuarios.
+- Enviar cuellos de botella
+- Permitir el crecimiento del sistema sin necesidad de rediseñar desde cero.
+
+### Estrategias para alta disponibilidad en la nube
+#### Balanceo de carga (Load Balancing)
+- Distribuye el tráfico entre múltiples instancias o servidores.
+- Evita puntos únicos de falla.
+
+#### Instancias redundantes y distribuidas
+- Despliegue de instancias en varias zonas de disponibilidad (Availability Zones o AZs).
+- Si una zona falla, otras pueden seguir operando.
+
+#### Backups y recuperación ante desastres (Disaster Recovery - DR)
+- Políticas de respaldo automatizado.
+- Replicación entre regiones.
+- Planes de recuperación documentados y aprobados.
+
+#### Infraestructura como Código (IaC)
+- Automatiza el aprovisionamiento de entornos.
+- permite reconstruir entornos rápidamente ante fallas.
+
+### Escalabilidad (Salability)
+Es la capacidad de un sistema para crecer o descrecer en recursos según la demanda.
+#### Tipos de escalabilidad
+##### Vertical
+- Aumento de recursos de una instancia (más CPU, RAM, etc.).
+- Más fácil, pero tiene un limite físico.
+##### Horizontal
+- Agregar más instancias o nodos
+- Mayor resiliencia y mejor rendimiento a gran escala.
+
