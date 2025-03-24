@@ -230,3 +230,11 @@ Es la capacidad de un sistema para crecer o descrecer en recursos según la dema
 - Agregar más instancias o nodos
 - Mayor resiliencia y mejor rendimiento a gran escala.
 
+## Virtualización como herramienta en la ciberseguridad
+Tenemos que tener siempre claro que lo que es la ciberseguridad nos referimos a hacer un cuidado de los bienes de la empresa, especialmente en términos de información. Tenemos que evitar lo que son las vulnerabilidades dentro de nuestra emrpesa.
+
+El chiste de tener virtualización dentro de lo que es ciberseguridad es:
+- **Ambiente seguro para pruebas**: Puede simular ataques (como malware, inyección SQL, ingeniería social, etc.)
+- **simulación de escenarios reales**: 
+- **Versatilidad y ahorro de recursos:**
+- **Práctica con distintos sistemas operativos:**
