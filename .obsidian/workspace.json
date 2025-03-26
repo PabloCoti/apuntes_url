@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Noveno Ciclo/Ingeniería de Software II/Actividades/09 Caso de service mesh.md",
+                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/06 Estudio Administrativo para congreso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Caso de service mesh"
+              "title": "06 Estudio Administrativo para congreso"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Noveno Ciclo/Ingeniería de Software II/Actividades/09 Caso de service mesh.md",
+                "file": "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/06 Estudio Administrativo para congreso.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09 Caso de service mesh"
+              "title": "Outline of 06 Estudio Administrativo para congreso"
             }
           }
         ]
@@ -203,6 +203,10 @@
   },
   "active": "31279cd69e3cff31",
   "lastOpenFiles": [
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/07 Organigrama estudio administrativo para congreso.canvas",
+    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/06 Estudio Administrativo para congreso.md",
+    "00 Attachments/07 Organigrama estudio administrativo para congreso.png",
+    "00 Attachments/s_Captura de pantalla 2025-03-22 a la(s) 1.58.05 p. m..png",
     "09 Noveno Ciclo/Ingeniería de Software II/Actividades/09 Caso de service mesh.md",
     "09 Noveno Ciclo/Modelación y Simulación/Apuntes.md",
     "09 Noveno Ciclo/Modelación y Simulación/Actividades/06 Análisis encuensta clientes.md",
@@ -238,9 +242,6 @@
     "09 Noveno Ciclo/Virtualización/Actividades/02 Ejercicio repaso de redes.md",
     "09 Noveno Ciclo/Virtualización/Actividades/03 Ejercicio de casas con IoT.md",
     "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/06 Capa 3.md",
-    "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/05 Capa física del modelo OSI.md",
-    "08 Octavo Ciclo/Redes y Telecomunicaciones/Apuntes/Clase/04 Los servicios y la función de la capa de transporte.md",
-    "09 Noveno Ciclo/Formulación y Evaluación de Proyectos de Ingeniería/Actividades/Untitled.canvas",
     "00 Attachments/Pasted image 20250303121448.png",
     "00 Attachments/Pasted image 20250303121325.png",
     "00 Attachments/Pasted image 20250303121312.png",
@@ -248,8 +249,6 @@
     "export/07 NFTs/plugin/chalkboard/img/whiteboard.png",
     "export/07 NFTs/plugin/chalkboard/img/sponge.png",
     "export/07 NFTs/plugin/chalkboard/img/chalk-yellow.png",
-    "export/07 NFTs/plugin/chalkboard/img/chalk-white.png",
-    "export/07 NFTs/plugin/chalkboard/img/chalk-purple.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ingeniería de Software/Apuntes/Untitled.canvas",

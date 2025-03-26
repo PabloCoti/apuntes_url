@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"35c5ef75dc451ac8","type":"text","text":"Supervisión","x":-1040,"y":-120,"width":250,"height":60},
+		{"id":"aaa7c38490a0d928","x":-630,"y":-60,"width":250,"height":60,"type":"text","text":"Inscripciones"},
+		{"id":"ede43ffec829b077","type":"text","text":"Bienvenida","x":-630,"y":-180,"width":250,"height":60},
+		{"id":"4f5c25edb3e8735c","type":"text","text":"Mobiliario y equipo","x":-630,"y":-300,"width":250,"height":60},
+		{"id":"262fa8b8de64c64d","type":"text","text":"Comida","x":-630,"y":60,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"dac39c047504a679","fromNode":"35c5ef75dc451ac8","fromSide":"right","toNode":"4f5c25edb3e8735c","toSide":"left"},
+		{"id":"72bf1a2124b894cc","fromNode":"35c5ef75dc451ac8","fromSide":"right","toNode":"ede43ffec829b077","toSide":"left"},
+		{"id":"b8f6df6f1657eff5","fromNode":"35c5ef75dc451ac8","fromSide":"right","toNode":"aaa7c38490a0d928","toSide":"left"},
+		{"id":"dce62071221ebc30","fromNode":"35c5ef75dc451ac8","fromSide":"right","toNode":"262fa8b8de64c64d","toSide":"left"}
+	]
+}
