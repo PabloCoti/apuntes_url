@@ -904,3 +904,55 @@ Se tienen que cuidar tres temas
 		- **Capital**: deuda del solicitante con relación al capital
 		- **Colateral**: monto de activos disponibles para garantizar el crédito.
 		- **Condiciones**: de industria y cualquier condición peculiar respecto a la transacción específicas
+###### Cambio de los estándares del crédito
+En ocasiones tenemos que cambiar sus estándares para mejorar su rendimiento y crear mayor valor para sus propietarios.
+
+En ocasiones se podría relajar la política de crédito para poder generar más ventas, pero también se tiene que evaluar el impacto en la empresa para poder tener una certeza de las consecuencias. También se podría evaluar lo contrario, del qué pasaría con apretar más la política.
+
+Según **Gitman** hay una tabla de efectos de la relajación de los estándares de crédito.
+
+| Variable                        | Dirección del cambio | Efecto en las utilidades |
+| ------------------------------- | -------------------- | ------------------------ |
+| Volumen de ventas               | Aumento              | Positivo                 |
+| Inversión en cuentas por cobrar | Aumento              | Negativo                 |
+| Gastos por deudas incobrables   | Aumento              | Negativo                 |
+
+En términos de volúmenes de ventas aumenta y entre más ventas más utilidad, pero también tenemos que tomar en cuenta el aspecto de que la inversión en cuentas por cobrar aumenta y esto se refleja en una disminución o un efecto negativo en nuestra utilidad y también como estaos vendiendo más al crédito aumenta el riesgo de que cierta cantidad de personas no nos paguen la deuda y se convierta en gasto incobrable y esto afecta a nuestra utilidad de manera negativa.
+
+**Hay una variable importante a tomar en cuenta antes de ver fórmulas**
+Dentro de los costos que podemos llegar a tener son los costos fijos o costos hundidos. Cuando hay un cambio en el nivel de ventas no los afecta, pero sí tenemos que tener cuidado con el **costo variable**.
+
+Si decidimos relajar la política, como se había mencionado antes, tenemos que tomar en cuenta que se van a ver afectados nuestros gastos variables.
+
+###### Costo de la inversión marginal en las cuentas por cobrar
+Para esto queremos ver la inversión promedio en las cuentas por cobrar, para esto tenemos que tener claro nuestro costo variable total de las ventas anuales y la rotaci´n de nuestras cuentas por cobrar.
+
+$$
+\text{Inversión promedio en las cuentas por cobrar} = \frac{\text{Costo variable total de las ventas anuales}}{\text{Rotación de las cuentas por cobrar}}
+$$
+$$
+\text{Rotación de las cuentas por cobrar} = \frac{365}{\text{tiempo promedio de cobro}}
+$$
+
+En el caso de las consecuencias evaluadas en el ejemplo de la diapositiva no. 9. Estamos viendo que nuestra rotación de cuentas por cobrar va a verse reducido, pero en el caso de la reducción puede llegar a ser normal hasta cierto punto si estamos relajando la política, pero aquí tenemos que ver cómo se ven afectadas las cuentas incobrables que son realmente las que nos importan porque son hasta cierto punto las pérdidas que podríamos llegar a perder.
+
+###### Costo de la inversión marginal en las cuentas por cobrar
+La empresa lo que va a estar haciendo para evaluar esto va a ser el costo que implica para esta el relajar la política. Dentro de lo que es la inversión que va a contemplar la empresa va a tener una tasa de rendimiento mínima que va a ser un porcentaje del rendimiento que podría tener con otra inversión.
+
+###### Costo de deudas incobrables marginales
+Se calcula con la diferencia entre los niveles de deudas incobrables antes y después de la relajación propuesta de los estándares de crédito
+###### toma de decisiones sobre estándares de crédito
+Una vez tenemos el costo de inversión marginal de cuentas por cobrar y de deudas incobrables marginales. Tenemos que tomar una decisión con base a la relación costo beneficio de el cambio de política.
+###### Administracíon del crédito internacional
+Tenemos que considerar el cambio de moneda para ciertas épocas del año tenemos que considerar que la compra que nos haga una empresa en el extranjero podría hacer variar nuestra utilidad según las políticas de cambio de la temporada donde se está haciendo el cambio.
+###### Condiciones de crédito
+- Descuentos por pago en efectivo
+	- Algunas empresas manejan de mejor manera las transferencias o el efectivo porque les sirve hasta cierto punto más el efectivo.
+- Período de descuento por pago en efectivo
+	- Algunas empresas podrían dar un descuento si el pago se efectúa antes del tiempo estipulado. A las empresas les sirve para poder reinvertir el dinero y poder generar más potencialmente.
+- Período de crédito
+###### Supervisión de crédito
+- Período promedio de cobro
+- Determinación de la edad de las cuentas por cobrar
+- Técnicas populares de cobro
+	- Debe ser la última medida que debemos tomar porque si bien regresa nuestro dinero perdemos el cliente porque las empresas que se dedican a esto el trato que se le da al cliente es muy agresivo.
