@@ -866,12 +866,41 @@ Dentro de lo que es el proyecto tenemos que tomar en cuenta lo que es el capital
 Dentro de lo que es capital de trabajo vemos lo que es el dinero que vamos a poner directamente a trabajar. Hay una relación entre capital de trabajo y flujos de caja ya que en el flujo de caja podemos proyectar cómo van a estar las finanzas de la empresa durante el año y esto nos prepara para poder hacer estrategias para poder cubrir nuestras obligaciones a lo largo del año.
 
 Para hacer el cálculo tenemos que tomar en cuenta :
-- **Método contable**: 
-	- Los pasivos corrientes deben restar de los activos corrientes. De esta forma obtenemos lo que se llama el capital de trabajo neto contable.
-	- Determina cuántos recursos cuenta la empresa para operar si se pagan todos los pasivos a corto plazo.
-	- CA - Costo anual proyectado
-	- ND
-	- $$ICT=\frac{CA}{365}*ND$$
+###### Método contable
+- Los pasivos corrientes deben restar de los activos corrientes. De esta forma obtenemos lo que se llama el capital de trabajo neto contable.
+- Determina cuántos recursos cuenta la empresa para operar si se pagan todos los pasivos a corto plazo.
+- CA - Costo anual proyectado
+- ND
+- $$ICT=\frac{CA}{365}*ND$$
 - **Período de destase**
-- **Déficit acumulado máximo**
+###### Déficit acumulado máximo
+- Considera la posibilidad real que durante el período de desfase en la producción, ventas o compras de insumos como ingresos que permitan financier parte de los egresos proyectados.
+- Se elabora para períodos anuales, se deben incluir egresos que suceden durante el año; ejemplo, los castos de impuestos o el IVA.
 
+Para obtenerlo proyectamos los ingresos, costos y gastos y determinar las obligaciones de la empresa. Hay que tomar en cuenta que la emrpsa cuando es nueva tiene un tiempo en el que no va a generar tanto como espera por el tiempo que le tomará estarse posicionando el mercado.
+
+En el caso del déficit máximo acumulado es mejor que el dueño lo de de su bolsao  y en el caso de una S.A. los contribuidores tienen que hay
+
+siempre que se hace ese cálculo se tiene que prevenir un poco más, pero siermpre dentro de la realidad posible. Pero esto nos sirve para que nos sobre un poco más para posteriormente poder compensar dentro de las faltas que vamos a tener en los messes
+
+Se tienen que evitar los márgenes significativo.
+
+Dentro de los meses se tiende a seguir viendo los meses con la proyección. En el ejemplo vimos que se sumaban as cuentas en los pasivo.
+
+Dentro del capital de trabajo se tiene que tomar en cuenta también lo que es el equipo de limpieza porque 
+
+###### Administración de cuentas por cobrar
+![](../../00%20Attachments/Administración%20de%20Cuentas%20por%20Cobrar.pptx)
+
+Tenemos que ponerle atención a lo que son las **cuentas por cobrar** o **clientes** (ventas al crédito), tenemos que cuidarlo porque aquí influye todo lo que son las políticas de recuperación de nuestro efectivo para poder seguir con nuestro ciclo productivo.
+
+Se tienen que cuidar tres temas
+- Selección y estándares de crédito
+	- No le podemos dar el crédito a cualquiera porque tenemos que pasar un proceso donde se le da un crédito bajo a un cliente para poder saber sus tiempos de pago y en general todo lo que es la forma en la que maneja el crédito que le damos.
+	- No podemos tratar a todos nuestros clientes por igual, siempre tenemos que ver las condiciones bajo las que podemos otorgar ciertas cantidades de dinero y tenemos que tener **supervisión contstante**.
+	- Podemos tomar en cuenta las cinco c del crédito
+		- **Carácter**: historial del cliente al cumplir obligaciones pasadas
+		- **Capacidad**: Determinada por medio de un análisis de estados financieros centrado en los flujos de efectivo disponibles para rembolsar las obligaciones de deuda.
+		- **Capital**: deuda del solicitante con relación al capital
+		- **Colateral**: monto de activos disponibles para garantizar el crédito.
+		- **Condiciones**: de industria y cualquier condición peculiar respecto a la transacción específicas
